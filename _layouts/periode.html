@@ -28,6 +28,39 @@ layout: default
 
 {% endif %}
 
+<nav>
+    <div class="enllaços">
+      <div class="esquerra">
+		  {% for p in page.pares %}
+        <p>
+          <a href="/periodes_{{p.id}}">
+            {{p.title}}</a>
+          <span class="data">
+            <app-data-detalls [data]=p.dataInici></app-data-detalls>
+            &ensp;
+            <app-data-detalls [data]=p.dataFi></app-data-detalls>
+          </span>
+		</p>
+		{% endfor %}
+      </div>
+
+      <div class="dreta">
+			{% for p in page.fills %}
+			<p>
+			  <a href="/periodes_{{p.id}}">
+				{{p.title}}</a>
+			  <span class="data">
+				<app-data-detalls [data]=p.dataInici></app-data-detalls>
+				&ensp;
+				<app-data-detalls [data]=p.dataFi></app-data-detalls>
+			  </span>
+			</p>
+			{% endfor %}
+      </div>
+    </div>
+  </nav>
+
+  <div class="esquerra">
 <div class="post-content">
 
    {% if page.summary %}
@@ -93,6 +126,7 @@ layout: default
     </div>
 
 
+</div>
 </div>
 
 {{site.data.alerts.hr_shaded}}

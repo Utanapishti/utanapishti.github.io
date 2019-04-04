@@ -1,3 +1,13 @@
+.esquerra
+{
+    float:left;
+}
+
+.dreta
+{
+    float:right;
+}
+
 .NotaA
 {
   background-color: lightblue;
