@@ -351,9 +351,9 @@ a.accordion-toggle, a.accordion-collapsed {
 }
 
 .titol
-{	
-	white-space: no-wrap;
-	overflow:auto;
+{		    
+    overflow: auto;
+    white-space: no-wrap;
 }
 
 
@@ -361,16 +361,15 @@ a.accordion-toggle, a.accordion-collapsed {
 {	
 	white-space: no-wrap;
 	resize:both;
-	overflow:auto;
+    overflow:auto;    
 }
 
-.nav li > a > span.data
+.data
 {
-	font-size: smaller;
-	white-space: nowrap;
-	overflow-y:auto
+    white-space: no-wrap;
+	font-size: smaller;	    
 }
-
+    
 
 .nav li > a > span {
     float: right;
