@@ -1,0 +1,7319 @@
+﻿# NavBar periodes. Generat el 03/04/2019 17:02:39
+
+entries:
+- title: Períodes
+  product: Periodes
+  folders:
+  - title: "N/A"
+    id: "-10"
+    url: "/periodes_-10.html"
+
+  - title: "Reglas para Miniaturas"
+    id: "-9"
+    url: "/periodes_-9.html"
+
+  - title: "Pendientes"
+    id: "-5"
+    url: "/periodes_-5.html"
+
+  - title: "Deportes"
+    id: "-4"
+    url: "/periodes_-4.html"
+    children: inici
+
+  - title: "Fútbol"
+    id: "705"
+    url: "/periodes_705.html"
+
+  - title: "Boxeo"
+    id: "706"
+    url: "/periodes_706.html"
+
+  - title: "Regata"
+    id: "707"
+    url: "/periodes_707.html"
+
+  - title: "Automovilismo"
+    id: "708"
+    url: "/periodes_708.html"
+    children: inici
+
+  - title: "Formula 1"
+    id: "711"
+    url: "/periodes_711.html"
+
+
+  - children: final
+
+  - title: "Ciclismo"
+    id: "709"
+    url: "/periodes_709.html"
+
+  - title: "Golf"
+    id: "710"
+    url: "/periodes_710.html"
+
+  - title: "Carreras de Carros"
+    id: "738"
+    url: "/periodes_738.html"
+
+  - title: "Gladiadores"
+    id: "739"
+    url: "/periodes_739.html"
+
+  - title: "Atletismo"
+    id: "753"
+    url: "/periodes_753.html"
+
+  - title: "Montañismo"
+    id: "904"
+    url: "/periodes_904.html"
+
+  - title: "Fútbol americano"
+    id: "1052"
+    url: "/periodes_1052.html"
+
+  - title: "Baseball"
+    id: "1054"
+    url: "/periodes_1054.html"
+
+
+  - children: final
+
+  - title: "Ciencia Ficción"
+    id: "-3"
+    url: "/periodes_-3.html"
+    children: inici
+
+  - title: "Star Trek"
+    id: "641"
+    url: "/periodes_641.html"
+
+  - title: "Historia Alternativa"
+    id: "679"
+    url: "/periodes_679.html"
+    children: inici
+
+  - title: "Operación León Marino"
+    id: "989"
+    dataInici: "(1940-08-01)"
+    dataFi: "(1940-12-18)"
+    url: "/periodes_989.html"
+
+  - title: "Invasión de Malta"
+    id: "680"
+    dataInici: "(1942)"
+    url: "/periodes_680.html"
+
+  - title: "Operación Gertrude"
+    id: "979"
+    dataInici: "(1942)"
+    dataFi: "(1943)"
+    url: "/periodes_979.html"
+
+  - title: "OTAN contra el Pacto de Varsovia"
+    id: "795"
+    dataInici: "(1955)"
+    dataFi: "(1991)"
+    url: "/periodes_795.html"
+
+  - title: "Golpe de estado en España"
+    id: "805"
+    dataInici: "(1982-10-27)"
+    url: "/periodes_805.html"
+
+
+  - children: final
+
+  - title: "Postapocalíptico"
+    id: "794"
+    url: "/periodes_794.html"
+
+  - title: "Exploración Espacial"
+    id: "855"
+    url: "/periodes_855.html"
+
+  - title: "Robinson Crusoe"
+    id: "886"
+    url: "/periodes_886.html"
+
+  - title: "Capitán Nemo"
+    id: "473"
+    dataInici: "(1857)"
+    dataFi: "(1870)"
+    url: "/periodes_473.html"
+
+  - title: "Sherlock Holmes"
+    id: "851"
+    dataInici: "(1887)"
+    dataFi: "(1914)"
+    url: "/periodes_851.html"
+
+
+  - children: final
+
+  - title: "Fantasía"
+    id: "-2"
+    url: "/periodes_-2.html"
+    children: inici
+
+  - title: "Steampunk"
+    id: "627"
+    url: "/periodes_627.html"
+    children: inici
+
+  - title: "Space: 1889"
+    id: "946"
+    dataInici: "(1889)"
+    url: "/periodes_946.html"
+
+
+  - children: final
+
+  - title: "Space Opera"
+    id: "944"
+    url: "/periodes_944.html"
+
+  - title: "Imperio Galáctico"
+    id: "890"
+    url: "/periodes_890.html"
+
+  - title: "Harry Potter"
+    id: "888"
+    url: "/periodes_888.html"
+
+  - title: "Hua Mulan"
+    id: "871"
+    url: "/periodes_871.html"
+
+  - title: "Robin Hood"
+    id: "870"
+    url: "/periodes_870.html"
+
+  - title: "Terror"
+    id: "714"
+    url: "/periodes_714.html"
+    children: inici
+
+  - title: "Mitos de Cthulhu"
+    id: "849"
+    url: "/periodes_849.html"
+
+  - title: "Zombies"
+    id: "868"
+    url: "/periodes_868.html"
+
+  - title: "Dracula"
+    id: "1060"
+    url: "/periodes_1060.html"
+
+
+  - children: final
+
+  - title: "Espada y Brujería"
+    id: "712"
+    url: "/periodes_712.html"
+    children: inici
+
+  - title: "Mazmorras"
+    id: "713"
+    url: "/periodes_713.html"
+
+
+  - children: final
+
+  - title: "Batman"
+    id: "1055"
+    url: "/periodes_1055.html"
+
+  - title: "Aliens"
+    id: "656"
+    url: "/periodes_656.html"
+
+  - title: "Mitología"
+    id: "654"
+    url: "/periodes_654.html"
+    children: inici
+
+  - title: "Irlandesa"
+    id: "877"
+    url: "/periodes_877.html"
+    children: inici
+
+  - title: "Ciclo del Ulster"
+    id: "878"
+    url: "/periodes_878.html"
+
+
+  - children: final
+
+  - title: "Nórdica"
+    id: "943"
+    url: "/periodes_943.html"
+
+  - title: "Guerra de Troya"
+    id: "4"
+    dataInici: "(-1200)"
+    url: "/periodes_4.html"
+
+
+  - children: final
+
+  - title: "Star Wars"
+    id: "640"
+    url: "/periodes_640.html"
+
+  - title: "Juego de Tronos"
+    id: "639"
+    url: "/periodes_639.html"
+
+  - title: "Mundodisco"
+    id: "636"
+    url: "/periodes_636.html"
+
+  - title: "Glorantha"
+    id: "635"
+    url: "/periodes_635.html"
+
+  - title: "Tolkien"
+    id: "632"
+    url: "/periodes_632.html"
+    children: inici
+
+  - title: "El Hobbit"
+    id: "633"
+    url: "/periodes_633.html"
+
+  - title: "El señor de los anillos"
+    id: "634"
+    url: "/periodes_634.html"
+
+
+  - children: final
+
+  - title: "Warhammer 40.000"
+    id: "631"
+    url: "/periodes_631.html"
+
+  - title: "Warhammer"
+    id: "630"
+    url: "/periodes_630.html"
+
+  - title: "Zombies"
+    id: "655"
+    url: "/periodes_655.html"
+
+  - title: "Dungeons & Dragons"
+    id: "1059"
+    url: "/periodes_1059.html"
+
+  - title: "El Rey Arturo"
+    id: "460"
+    dataInici: "(450)"
+    dataFi: "(550)"
+    url: "/periodes_460.html"
+
+
+  - children: final
+
+  - title: "Sin Clasificar"
+    id: "-1"
+    url: "/periodes_-1.html"
+
+  - title: "Prehistoria"
+    id: "628"
+    url: "/periodes_628.html"
+
+  - title: "Edad Antigua"
+    id: "142"
+    dataInici: "(-3000)"
+    dataFi: "(476)"
+    url: "/periodes_142.html"
+    children: inici
+
+  - title: "Antiguo Oriente Próximo"
+    id: "90"
+    dataInici: "(-3000)"
+    dataFi: "(-550)"
+    url: "/periodes_90.html"
+    children: inici
+
+  - title: "Edad de Bronce"
+    id: "34"
+    dataInici: "(-3000)"
+    dataFi: "(-1200)"
+    url: "/periodes_34.html"
+    children: inici
+
+  - title: "Civilizaciones Sumerias"
+    id: "206"
+    dataInici: "(-3000)"
+    dataFi: "(-1700)"
+    url: "/periodes_206.html"
+    children: inici
+
+  - title: "Sargon el Grande"
+    id: "36"
+    dataInici: "(-2334)"
+    dataFi: "(-2284)"
+    url: "/periodes_36.html"
+    children: inici
+
+  - title: "Batalla de Uruk"
+    id: "91"
+    dataInici: "(-2320)"
+    url: "/periodes_91.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Egipto"
+    id: "887"
+    dataInici: "(-3000)"
+    dataFi: "(-1200)"
+    url: "/periodes_887.html"
+    children: inici
+
+  - title: "Imperio Nuevo de Egipto"
+    id: "209"
+    dataInici: "(-1550)"
+    dataFi: "(-1070)"
+    url: "/periodes_209.html"
+    children: inici
+
+  - title: "Tutmosis III"
+    id: "210"
+    dataInici: "(-1458)"
+    dataFi: "(-1429)"
+    url: "/periodes_210.html"
+    children: inici
+
+  - title: "Campaña contra Mitanni"
+    id: "211"
+    dataInici: "(-1470)"
+    url: "/periodes_211.html"
+
+  - title: "Batalla de Megido"
+    id: "2"
+    dataInici: "(-1457)"
+    url: "/periodes_2.html"
+
+
+  - children: final
+
+  - title: "Batalla de Qadesh"
+    id: "3"
+    dataInici: "(-1274)"
+    url: "/periodes_3.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Imperio Medio"
+    id: "207"
+    dataInici: "(-2000)"
+    dataFi: "(-1800)"
+    url: "/periodes_207.html"
+    children: inici
+
+  - title: "Conquista de Siquem"
+    id: "208"
+    dataInici: "(-1870)"
+    url: "/periodes_208.html"
+
+
+  - children: final
+
+  - title: "Imperio Hitita"
+    id: "212"
+    dataInici: "(-1600)"
+    dataFi: "(-1178)"
+    url: "/periodes_212.html"
+    children: inici
+
+  - title: "Batalla del río Astarpa"
+    id: "213"
+    dataInici: "(-1312)"
+    url: "/periodes_213.html"
+
+  - title: "Batalla de Qadesh"
+    id: "3"
+    dataInici: "(-1274)"
+    url: "/periodes_3.html"
+
+  - title: "Batalla de Nihriya"
+    id: "214"
+    dataInici: "(-1230)"
+    url: "/periodes_214.html"
+
+
+  - children: final
+
+  - title: "Imperio Asirio Medio"
+    id: "215"
+    dataInici: "(-1392)"
+    dataFi: "(-1056)"
+    url: "/periodes_215.html"
+    children: inici
+
+  - title: "Batalla de Nihriya"
+    id: "214"
+    dataInici: "(-1230)"
+    url: "/periodes_214.html"
+
+  - title: "Saqueo de Babilonia"
+    id: "216"
+    dataInici: "(-1225)"
+    url: "/periodes_216.html"
+
+
+  - children: final
+
+  - title: "Guerra de Troya"
+    id: "4"
+    dataInici: "(-1200)"
+    url: "/periodes_4.html"
+
+
+  - children: final
+
+  - title: "Edad de Hierro"
+    id: "84"
+    dataInici: "(-1200)"
+    dataFi: "(-550)"
+    url: "/periodes_84.html"
+    children: inici
+
+  - title: "Reino de Israel"
+    id: "131"
+    dataInici: "(-1030)"
+    dataFi: "(-720)"
+    url: "/periodes_131.html"
+
+  - title: "Imperio Neoasirio"
+    id: "5"
+    dataInici: "(-911)"
+    dataFi: "(-609)"
+    url: "/periodes_5.html"
+    children: inici
+
+  - title: "Batalla de Qarqar"
+    id: "65"
+    dataInici: "(-853)"
+    url: "/periodes_65.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Imperio Aqueménida"
+    id: "88"
+    dataInici: "(-550)"
+    dataFi: "(-330)"
+    url: "/periodes_88.html"
+    children: inici
+
+  - title: "Ciro II el Grande"
+    id: "89"
+    dataInici: "(-550)"
+    dataFi: "(-530)"
+    url: "/periodes_89.html"
+    children: inici
+
+  - title: "Batalla de Timbrea"
+    id: "7"
+    dataInici: "(-547)"
+    url: "/periodes_7.html"
+
+
+  - children: final
+
+  - title: "Guerras médicas"
+    id: "9"
+    dataInici: "(-499)"
+    dataFi: "(-478)"
+    url: "/periodes_9.html"
+    children: inici
+
+  - title: "Revuelta jónica"
+    id: "12"
+    dataInici: "(-499)"
+    dataFi: "(-494)"
+    url: "/periodes_12.html"
+    children: inici
+
+  - title: "Batalla de Éfeso"
+    id: "10"
+    dataInici: "(-498)"
+    url: "/periodes_10.html"
+
+  - title: "Batalla de Lade"
+    id: "11"
+    dataInici: "(-494)"
+    url: "/periodes_11.html"
+
+
+  - children: final
+
+  - title: "Primera guerra médica"
+    id: "13"
+    dataInici: "(-492)"
+    dataFi: "(-490)"
+    url: "/periodes_13.html"
+    children: inici
+
+  - title: "Batalla de Maratón"
+    id: "15"
+    dataInici: "(-490)"
+    url: "/periodes_15.html"
+
+  - title: "Sitio de Eretria"
+    id: "66"
+    dataInici: "(-490)"
+    url: "/periodes_66.html"
+
+
+  - children: final
+
+  - title: "Segunda guerra médica"
+    id: "14"
+    dataInici: "(-480)"
+    dataFi: "(-479)"
+    url: "/periodes_14.html"
+    children: inici
+
+  - title: "Batalla de Salamina"
+    id: "17"
+    dataInici: "(-480)"
+    url: "/periodes_17.html"
+
+  - title: "Batalla de las Termópilas"
+    id: "18"
+    dataInici: "(-480)"
+    url: "/periodes_18.html"
+
+  - title: "Batalla de Platea"
+    id: "19"
+    dataInici: "(-479)"
+    url: "/periodes_19.html"
+
+  - title: "Batalla de Mícala"
+    id: "31"
+    dataInici: "(-479-08)"
+    url: "/periodes_31.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Batalla de Cunaxa"
+    id: "186"
+    dataInici: "(-401)"
+    url: "/periodes_186.html"
+
+  - title: "Guerra Civil Persa"
+    id: "526"
+    dataInici: "(-401)"
+    dataFi: "(-387)"
+    url: "/periodes_526.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Civilizaciones Indias"
+    id: "143"
+    dataInici: "(-2500)"
+    dataFi: "(550)"
+    url: "/periodes_143.html"
+    children: inici
+
+  - title: "Civilización del valle del Indo"
+    id: "126"
+    dataInici: "(-2500)"
+    dataFi: "(-1500)"
+    url: "/periodes_126.html"
+
+  - title: "Imperio Maurya"
+    id: "127"
+    dataInici: "(-320)"
+    dataFi: "(-185)"
+    url: "/periodes_127.html"
+    children: inici
+
+  - title: "Chandragupta"
+    id: "130"
+    dataInici: "(-320)"
+    dataFi: "(-298)"
+    url: "/periodes_130.html"
+    children: inici
+
+  - title: "Conquista del Imperio Nanda"
+    id: "374"
+    dataInici: "(-321)"
+    dataFi: "(-320)"
+    url: "/periodes_374.html"
+
+  - title: "Guerra entre Chandragupta y Seleuco I"
+    id: "375"
+    dataInici: "(-305)"
+    dataFi: "(-303)"
+    url: "/periodes_375.html"
+
+
+  - children: final
+
+  - title: "Asoka"
+    id: "129"
+    dataInici: "(-304)"
+    dataFi: "(-232)"
+    url: "/periodes_129.html"
+    children: inici
+
+  - title: "Guerra de Kalinga"
+    id: "376"
+    dataInici: "(-261)"
+    dataFi: "(-260)"
+    url: "/periodes_376.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Imperio Gupta"
+    id: "128"
+    dataInici: "(320)"
+    dataFi: "(550)"
+    url: "/periodes_128.html"
+
+
+  - children: final
+
+  - title: "Dinastías Chinas"
+    id: "144"
+    dataInici: "(-2070)"
+    dataFi: "(420)"
+    url: "/periodes_144.html"
+    children: inici
+
+  - title: "Dinastía Xia"
+    id: "132"
+    dataInici: "(-2070)"
+    dataFi: "(-1060)"
+    url: "/periodes_132.html"
+
+  - title: "Dinastía Shang"
+    id: "133"
+    dataInici: "(-1766)"
+    dataFi: "(-1122)"
+    url: "/periodes_133.html"
+    children: inici
+
+  - title: "Batalla de Muye"
+    id: "255"
+    dataInici: "(-1046)"
+    url: "/periodes_255.html"
+
+
+  - children: final
+
+  - title: "Dinastía Zhou"
+    id: "134"
+    dataInici: "(-1122)"
+    dataFi: "(-249)"
+    url: "/periodes_134.html"
+    children: inici
+
+  - title: "Primaveras y otoños"
+    id: "135"
+    dataInici: "(-722)"
+    dataFi: "(-481)"
+    url: "/periodes_135.html"
+    children: inici
+
+  - title: "Batalla de Yanling"
+    id: "256"
+    dataInici: "(-575)"
+    url: "/periodes_256.html"
+
+
+  - children: final
+
+  - title: "Reinos combatientes"
+    id: "136"
+    dataInici: "(-453)"
+    dataFi: "(-221)"
+    url: "/periodes_136.html"
+
+
+  - children: final
+
+  - title: "Dinastía Qin"
+    id: "137"
+    dataInici: "(-221)"
+    dataFi: "(-206)"
+    url: "/periodes_137.html"
+
+  - title: "Conflicto Chu-Han"
+    id: "905"
+    dataInici: "(-206)"
+    dataFi: "(-202)"
+    url: "/periodes_905.html"
+
+  - title: "Dinastía Han"
+    id: "138"
+    dataInici: "(-206)"
+    dataFi: "(220)"
+    url: "/periodes_138.html"
+    children: inici
+
+  - title: "Han Occidental"
+    id: "139"
+    dataInici: "(-206)"
+    dataFi: "(9)"
+    url: "/periodes_139.html"
+
+  - title: "Han Oriental"
+    id: "140"
+    dataInici: "(9)"
+    dataFi: "(220)"
+    url: "/periodes_140.html"
+
+
+  - children: final
+
+  - title: "Tres Reinos"
+    id: "141"
+    dataInici: "(220)"
+    dataFi: "(280)"
+    url: "/periodes_141.html"
+
+
+  - children: final
+
+  - title: "Antigua Roma"
+    id: "176"
+    dataInici: "(-753)"
+    dataFi: "(476)"
+    url: "/periodes_176.html"
+    children: inici
+
+  - title: "República romana"
+    id: "8"
+    dataInici: "(-509)"
+    dataFi: "(-27)"
+    url: "/periodes_8.html"
+    children: inici
+
+  - title: "Conquista de Italia"
+    id: "43"
+    dataInici: "(-396)"
+    dataFi: "(-264)"
+    url: "/periodes_43.html"
+    children: inici
+
+  - title: "Sitio de Veyes"
+    id: "81"
+    dataInici: "(-396)"
+    url: "/periodes_81.html"
+
+  - title: "Batalla del Alia"
+    id: "79"
+    dataInici: "(-390)"
+    url: "/periodes_79.html"
+
+  - title: "Guerras Samnitas"
+    id: "156"
+    dataInici: "(-343)"
+    dataFi: "(-290)"
+    url: "/periodes_156.html"
+    children: inici
+
+  - title: "Batalla de Sentino"
+    id: "82"
+    dataInici: "(-295)"
+    url: "/periodes_82.html"
+
+
+  - children: final
+
+  - title: "Guerras Pírricas"
+    id: "157"
+    dataInici: "(-280)"
+    dataFi: "(-275)"
+    url: "/periodes_157.html"
+    children: inici
+
+  - title: "Batalla de Heraclea"
+    id: "178"
+    dataInici: "(-280)"
+    url: "/periodes_178.html"
+
+  - title: "Batalla de Ásculo"
+    id: "179"
+    dataInici: "(-279)"
+    url: "/periodes_179.html"
+
+  - title: "Asedio de Lilibeo"
+    id: "276"
+    dataInici: "(-276)"
+    url: "/periodes_276.html"
+
+  - title: "Batalla de Benevento"
+    id: "180"
+    dataInici: "(-275)"
+    url: "/periodes_180.html"
+
+
+  - children: final
+
+  - title: "Batalla de Tarento"
+    id: "83"
+    dataInici: "(-272)"
+    url: "/periodes_83.html"
+
+
+  - children: final
+
+  - title: "Primera guerra púnica"
+    id: "0"
+    dataInici: "(-264)"
+    dataFi: "(-241)"
+    url: "/periodes_0.html"
+    children: inici
+
+  - title: "Batalla de Milas"
+    id: "94"
+    dataInici: "(-260)"
+    url: "/periodes_94.html"
+
+  - title: "Batalla del cabo Ecnomo"
+    id: "95"
+    dataInici: "(-256)"
+    url: "/periodes_95.html"
+
+  - title: "Batalla de los Llanos del Bagradas"
+    id: "1"
+    dataInici: "(-255)"
+    url: "/periodes_1.html"
+
+  - title: "Batalla de Drepanum"
+    id: "96"
+    dataInici: "(-249)"
+    url: "/periodes_96.html"
+
+  - title: "Batalla de las Islas Egadas"
+    id: "97"
+    dataInici: "(-241)"
+    url: "/periodes_97.html"
+
+
+  - children: final
+
+  - title: "Guerras Ilíricas"
+    id: "50"
+    dataInici: "(-229)"
+    dataFi: "(-219)"
+    url: "/periodes_50.html"
+    children: inici
+
+  - title: "Primera Guerra Ilírica"
+    id: "44"
+    dataInici: "(-229)"
+    dataFi: "(-228)"
+    url: "/periodes_44.html"
+
+  - title: "Segunda Guerra Ilírica"
+    id: "45"
+    dataInici: "(-220)"
+    dataFi: "(-219)"
+    url: "/periodes_45.html"
+
+
+  - children: final
+
+  - title: "Segunda guerra púnica"
+    id: "40"
+    dataInici: "(-218)"
+    dataFi: "(-201)"
+    url: "/periodes_40.html"
+    children: inici
+
+  - title: "Batalla de Tesino"
+    id: "98"
+    dataInici: "(-218)"
+    url: "/periodes_98.html"
+
+  - title: "Batalla del Trebia"
+    id: "99"
+    dataInici: "(-218)"
+    url: "/periodes_99.html"
+
+  - title: "Lago Trasimeno"
+    id: "100"
+    dataInici: "(-217)"
+    url: "/periodes_100.html"
+
+  - title: "Batalla de Cannas"
+    id: "101"
+    dataInici: "(-216)"
+    url: "/periodes_101.html"
+
+  - title: "Batalla de Baecula"
+    id: "103"
+    dataInici: "(-209)"
+    url: "/periodes_103.html"
+
+  - title: "Batalla del Metauro"
+    id: "102"
+    dataInici: "(-207)"
+    url: "/periodes_102.html"
+
+  - title: "Batalla de Ilipa"
+    id: "104"
+    dataInici: "(-206)"
+    url: "/periodes_104.html"
+
+  - title: "Batalla de las Grandes Llanuras"
+    id: "181"
+    dataInici: "(-203)"
+    url: "/periodes_181.html"
+
+  - title: "Batalla de Cirta"
+    id: "554"
+    dataInici: "(-203)"
+    url: "/periodes_554.html"
+
+  - title: "Batalla de Zama"
+    id: "105"
+    dataInici: "(-202)"
+    url: "/periodes_105.html"
+
+
+  - children: final
+
+  - title: "Conquista de Hispania"
+    id: "49"
+    dataInici: "(-218)"
+    dataFi: "(-19)"
+    url: "/periodes_49.html"
+    children: inici
+
+  - title: "Revuelta Íbera"
+    id: "46"
+    dataInici: "(-197)"
+    dataFi: "(-195)"
+    url: "/periodes_46.html"
+    children: inici
+
+  - title: "Guerra Numantina"
+    id: "80"
+    dataInici: "(-133)"
+    url: "/periodes_80.html"
+
+
+  - children: final
+
+  - title: "Guerras Celtíberas"
+    id: "48"
+    dataInici: "(-181)"
+    dataFi: "(-133)"
+    url: "/periodes_48.html"
+
+  - title: "Guerras Lusitanas"
+    id: "47"
+    dataInici: "(-155)"
+    dataFi: "(-139)"
+    url: "/periodes_47.html"
+
+
+  - children: final
+
+  - title: "Guerras Macedónicas"
+    id: "51"
+    dataInici: "(-214)"
+    dataFi: "(-148)"
+    url: "/periodes_51.html"
+    children: inici
+
+  - title: "Primera Guerra Macedónica"
+    id: "52"
+    dataInici: "(-214)"
+    dataFi: "(-205)"
+    url: "/periodes_52.html"
+    children: inici
+
+  - title: "Batalla de Mantinea"
+    id: "422"
+    dataInici: "(-207)"
+    url: "/periodes_422.html"
+
+
+  - children: final
+
+  - title: "Segunda Guerra Macedónica"
+    id: "53"
+    dataInici: "(-200)"
+    dataFi: "(-197)"
+    url: "/periodes_53.html"
+    children: inici
+
+  - title: "Batalla de Quíos"
+    id: "548"
+    dataInici: "(-201)"
+    url: "/periodes_548.html"
+
+  - title: "Batalla de Cinoscéfalas"
+    id: "182"
+    dataInici: "(-197)"
+    url: "/periodes_182.html"
+
+
+  - children: final
+
+  - title: "Tercera Guerra Macedónica"
+    id: "54"
+    dataInici: "(-171)"
+    dataFi: "(-168)"
+    url: "/periodes_54.html"
+    children: inici
+
+  - title: "Batalla de Pidna"
+    id: "76"
+    dataInici: "(-168)"
+    url: "/periodes_76.html"
+
+
+  - children: final
+
+  - title: "Cuarta Guerra Macedónica"
+    id: "55"
+    dataInici: "(-150)"
+    dataFi: "(-148)"
+    url: "/periodes_55.html"
+
+
+  - children: final
+
+  - title: "Guerra Siria"
+    id: "56"
+    dataInici: "(-192)"
+    dataFi: "(-188)"
+    url: "/periodes_56.html"
+    children: inici
+
+  - title: "Batalla de Magnesia"
+    id: "77"
+    dataInici: "(-190)"
+    url: "/periodes_77.html"
+
+  - title: "Batalla de Mioneso"
+    id: "549"
+    dataInici: "(-190)"
+    url: "/periodes_549.html"
+
+
+  - children: final
+
+  - title: "Primera Guerra Servil"
+    id: "556"
+    dataInici: "(-135)"
+    dataFi: "(-132)"
+    url: "/periodes_556.html"
+
+  - title: "Guerra Cimbria"
+    id: "58"
+    dataInici: "(-113)"
+    dataFi: "(-101)"
+    url: "/periodes_58.html"
+    children: inici
+
+  - title: "Batalla de Aquae Sextiae"
+    id: "184"
+    dataInici: "(-102)"
+    url: "/periodes_184.html"
+
+
+  - children: final
+
+  - title: "Guerra de Jugurta"
+    id: "57"
+    dataInici: "(-111)"
+    dataFi: "(-104)"
+    url: "/periodes_57.html"
+    children: inici
+
+  - title: "Batalla del río Mutul"
+    id: "183"
+    dataInici: "(-108)"
+    url: "/periodes_183.html"
+
+
+  - children: final
+
+  - title: "Segunda Guerra Servil"
+    id: "557"
+    dataInici: "(-104)"
+    dataFi: "(-100)"
+    url: "/periodes_557.html"
+
+  - title: "Guerras Mitridáticas"
+    id: "59"
+    dataInici: "(-89)"
+    dataFi: "(-63)"
+    url: "/periodes_59.html"
+    children: inici
+
+  - title: "Primera guerra mitridática"
+    id: "164"
+    dataInici: "(-88)"
+    dataFi: "(-84)"
+    url: "/periodes_164.html"
+
+  - title: "Segunda guerra mitridática"
+    id: "165"
+    dataInici: "(-83)"
+    dataFi: "(-81)"
+    url: "/periodes_165.html"
+
+  - title: "Tercera guerra mitridática"
+    id: "166"
+    dataInici: "(-75)"
+    dataFi: "(-63)"
+    url: "/periodes_166.html"
+
+
+  - children: final
+
+  - title: "Primera guerra civil"
+    id: "147"
+    dataInici: "(-88)"
+    dataFi: "(-81)"
+    url: "/periodes_147.html"
+
+  - title: "Guerra de Sertorio"
+    id: "555"
+    dataInici: "(-82)"
+    dataFi: "(-72)"
+    url: "/periodes_555.html"
+
+  - title: "Tercera Guerra Servil"
+    id: "558"
+    dataInici: "(-73)"
+    dataFi: "(-71)"
+    url: "/periodes_558.html"
+
+  - title: "Primer Triunvirato"
+    id: "145"
+    dataInici: "(-60)"
+    dataFi: "(-53)"
+    url: "/periodes_145.html"
+
+  - title: "Julio Cesar"
+    id: "93"
+    dataInici: "(-58)"
+    dataFi: "(-44)"
+    url: "/periodes_93.html"
+    children: inici
+
+  - title: "Guerra de las Galias"
+    id: "60"
+    dataInici: "(-58)"
+    dataFi: "(-51)"
+    url: "/periodes_60.html"
+    children: inici
+
+  - title: "Batalla de Bibracte"
+    id: "106"
+    dataInici: "(-58)"
+    url: "/periodes_106.html"
+
+  - title: "Batalla de los Vosgos"
+    id: "232"
+    dataInici: "(-58)"
+    url: "/periodes_232.html"
+
+  - title: "Batalla del río Sambre"
+    id: "204"
+    dataInici: "(-57)"
+    url: "/periodes_204.html"
+
+  - title: "Batalla del Golfo de Morbihan"
+    id: "560"
+    dataInici: "(-56)"
+    url: "/periodes_560.html"
+
+  - title: "Invasiones de Britania"
+    id: "167"
+    dataInici: "(-55)"
+    dataFi: "(-54)"
+    url: "/periodes_167.html"
+
+  - title: "Batalla de Alesia"
+    id: "107"
+    dataInici: "(-52)"
+    url: "/periodes_107.html"
+
+  - title: "Batalla de Gergovia"
+    id: "108"
+    dataInici: "(-52)"
+    url: "/periodes_108.html"
+
+  - title: "Batalla de Lutecia"
+    id: "559"
+    dataInici: "(-52)"
+    url: "/periodes_559.html"
+
+
+  - children: final
+
+  - title: "Segunda Guerra Civil"
+    id: "61"
+    dataInici: "(-49)"
+    dataFi: "(-45)"
+    url: "/periodes_61.html"
+    children: inici
+
+  - title: "Batalla de Corfinio"
+    id: "109"
+    dataInici: "(-49)"
+    url: "/periodes_109.html"
+
+  - title: "Batalla de Ilerda"
+    id: "110"
+    dataInici: "(-49)"
+    url: "/periodes_110.html"
+
+  - title: "Batalla de Farsalia"
+    id: "111"
+    dataInici: "(-48)"
+    url: "/periodes_111.html"
+
+  - title: "Batalla de Dirraquio"
+    id: "907"
+    dataInici: "(-48-07-10)"
+    url: "/periodes_907.html"
+
+  - title: "Batalla del Nilo"
+    id: "112"
+    dataInici: "(-47)"
+    url: "/periodes_112.html"
+
+  - title: "Batalla de Zela"
+    id: "113"
+    dataInici: "(-47)"
+    url: "/periodes_113.html"
+
+  - title: "Sitio de Alejandria"
+    id: "168"
+    dataInici: "(-47)"
+    url: "/periodes_168.html"
+
+  - title: "Batalla de Tauris"
+    id: "550"
+    dataInici: "(-47)"
+    url: "/periodes_550.html"
+
+  - title: "Batalla de Tapso"
+    id: "114"
+    dataInici: "(-46)"
+    url: "/periodes_114.html"
+
+  - title: "Batalla de Ruspina"
+    id: "908"
+    dataInici: "(-46-01-04)"
+    url: "/periodes_908.html"
+
+  - title: "Batalla de Munda"
+    id: "115"
+    dataInici: "(-45)"
+    url: "/periodes_115.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Batalla de Carras"
+    id: "205"
+    dataInici: "(-53)"
+    url: "/periodes_205.html"
+
+  - title: "Segunda Guerra Civil"
+    id: "61"
+    dataInici: "(-49)"
+    dataFi: "(-45)"
+    url: "/periodes_61.html"
+    children: inici
+
+  - title: "Batalla de Corfinio"
+    id: "109"
+    dataInici: "(-49)"
+    url: "/periodes_109.html"
+
+  - title: "Batalla de Ilerda"
+    id: "110"
+    dataInici: "(-49)"
+    url: "/periodes_110.html"
+
+  - title: "Batalla de Farsalia"
+    id: "111"
+    dataInici: "(-48)"
+    url: "/periodes_111.html"
+
+  - title: "Batalla de Dirraquio"
+    id: "907"
+    dataInici: "(-48-07-10)"
+    url: "/periodes_907.html"
+
+  - title: "Batalla del Nilo"
+    id: "112"
+    dataInici: "(-47)"
+    url: "/periodes_112.html"
+
+  - title: "Batalla de Zela"
+    id: "113"
+    dataInici: "(-47)"
+    url: "/periodes_113.html"
+
+  - title: "Sitio de Alejandria"
+    id: "168"
+    dataInici: "(-47)"
+    url: "/periodes_168.html"
+
+  - title: "Batalla de Tauris"
+    id: "550"
+    dataInici: "(-47)"
+    url: "/periodes_550.html"
+
+  - title: "Batalla de Tapso"
+    id: "114"
+    dataInici: "(-46)"
+    url: "/periodes_114.html"
+
+  - title: "Batalla de Ruspina"
+    id: "908"
+    dataInici: "(-46-01-04)"
+    url: "/periodes_908.html"
+
+  - title: "Batalla de Munda"
+    id: "115"
+    dataInici: "(-45)"
+    url: "/periodes_115.html"
+
+
+  - children: final
+
+  - title: "Guerra de Módena"
+    id: "580"
+    dataInici: "(-44)"
+    dataFi: "(-43)"
+    url: "/periodes_580.html"
+    children: inici
+
+  - title: "Batalla del Foro de los Galos"
+    id: "581"
+    dataInici: "(-43-04-14)"
+    url: "/periodes_581.html"
+
+
+  - children: final
+
+  - title: "Revuelta Siciliana"
+    id: "551"
+    dataInici: "(-44)"
+    dataFi: "(-36)"
+    url: "/periodes_551.html"
+    children: inici
+
+  - title: "Batalla de Nauloco"
+    id: "552"
+    dataInici: "(-36-09-03)"
+    url: "/periodes_552.html"
+
+
+  - children: final
+
+  - title: "Tercera guerra civil"
+    id: "62"
+    dataInici: "(-43)"
+    dataFi: "(-42)"
+    url: "/periodes_62.html"
+    children: inici
+
+  - title: "Batalla de Filipos"
+    id: "233"
+    dataInici: "(-42)"
+    url: "/periodes_233.html"
+
+
+  - children: final
+
+  - title: "Segundo Triunvirato"
+    id: "148"
+    dataInici: "(-43)"
+    dataFi: "(-33)"
+    url: "/periodes_148.html"
+
+  - title: "Cuarta guerra civil"
+    id: "63"
+    dataInici: "(-32)"
+    dataFi: "(-30)"
+    url: "/periodes_63.html"
+    children: inici
+
+  - title: "Batalla de Accio"
+    id: "78"
+    dataInici: "(-31)"
+    url: "/periodes_78.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Imperio Romano"
+    id: "41"
+    dataInici: "(-27)"
+    dataFi: "(476)"
+    url: "/periodes_41.html"
+    children: inici
+
+  - title: "Guerras dacias"
+    id: "146"
+    dataInici: "(-101)"
+    dataFi: "(-106)"
+    url: "/periodes_146.html"
+
+  - title: "Revuelta Judía"
+    id: "561"
+    dataInici: "(-66)"
+    dataFi: "(-73)"
+    url: "/periodes_561.html"
+    children: inici
+
+  - title: "Sitio de Jerusalén"
+    id: "562"
+    dataInici: "(70-03)"
+    dataFi: "(70-09)"
+    url: "/periodes_562.html"
+
+
+  - children: final
+
+  - title: "Guerras cántabras"
+    id: "775"
+    dataInici: "(-29)"
+    dataFi: "(-19)"
+    url: "/periodes_775.html"
+
+  - title: "Conquista de Germania"
+    id: "64"
+    dataInici: "(-11)"
+    dataFi: "(16)"
+    url: "/periodes_64.html"
+    children: inici
+
+  - title: "Batalla del bosque de Teutoburgo"
+    id: "169"
+    dataInici: "(9)"
+    url: "/periodes_169.html"
+
+  - title: "Batalla de Idistaviso"
+    id: "170"
+    dataInici: "(16)"
+    url: "/periodes_170.html"
+
+
+  - children: final
+
+  - title: "Conquista de Britania"
+    id: "563"
+    dataInici: "(43)"
+    dataFi: "(96)"
+    url: "/periodes_563.html"
+    children: inici
+
+  - title: "Revuelta de Boudica"
+    id: "171"
+    dataInici: "(60)"
+    dataFi: "(61)"
+    url: "/periodes_171.html"
+    children: inici
+
+  - title: "Batalla de Watling Street"
+    id: "172"
+    dataInici: "(61)"
+    url: "/periodes_172.html"
+
+
+  - children: final
+
+  - title: "Campañas de Agricola"
+    id: "564"
+    dataInici: "(60)"
+    dataFi: "(78)"
+    url: "/periodes_564.html"
+
+
+  - children: final
+
+  - title: "Año de los cuatro emperadores"
+    id: "906"
+    dataInici: "(68-06)"
+    dataFi: "(69-07)"
+    url: "/periodes_906.html"
+
+  - title: "Guerras Mrcomanas"
+    id: "1061"
+    dataInici: "(165)"
+    dataFi: "(189)"
+    url: "/periodes_1061.html"
+
+  - title: "Crisis Imperial"
+    id: "117"
+    dataInici: "(235)"
+    dataFi: "(284)"
+    url: "/periodes_117.html"
+
+  - title: "Bajo Imperio Romano"
+    id: "118"
+    dataInici: "(284)"
+    dataFi: "(476)"
+    url: "/periodes_118.html"
+    children: inici
+
+  - title: "Guerras civiles de la Tetrarquía"
+    id: "909"
+    dataInici: "(306)"
+    dataFi: "(324)"
+    url: "/periodes_909.html"
+    children: inici
+
+  - title: "Batalla del puente Milvio"
+    id: "910"
+    dataInici: "(312-10-28)"
+    url: "/periodes_910.html"
+
+  - title: "Batalla de Cibalis"
+    id: "565"
+    dataInici: "(314-10-08)"
+    url: "/periodes_565.html"
+
+
+  - children: final
+
+  - title: "Primer Concilio de Nicea"
+    id: "566"
+    dataInici: "(325-05-20)"
+    dataFi: "(325-07-25)"
+    url: "/periodes_566.html"
+
+  - title: "Batalla de Estrasburgo"
+    id: "234"
+    dataInici: "(357)"
+    url: "/periodes_234.html"
+
+  - title: "Guerra gótica"
+    id: "567"
+    dataInici: "(376)"
+    dataFi: "(382)"
+    url: "/periodes_567.html"
+    children: inici
+
+  - title: "Batalla de Adrianópolis"
+    id: "119"
+    dataInici: "(378)"
+    url: "/periodes_119.html"
+
+
+  - children: final
+
+  - title: "Invasiones de Alarico I"
+    id: "874"
+    dataInici: "(395)"
+    dataFi: "(410)"
+    url: "/periodes_874.html"
+
+  - title: "Batalla de los Campos Cataláunicos"
+    id: "122"
+    dataInici: "(451)"
+    url: "/periodes_122.html"
+
+
+  - children: final
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Grecia clásica"
+    id: "85"
+    dataInici: "(-550)"
+    dataFi: "(476)"
+    url: "/periodes_85.html"
+    children: inici
+
+  - title: "Guerras sicilianas"
+    id: "20"
+    dataInici: "(-600)"
+    dataFi: "(-265)"
+    url: "/periodes_20.html"
+    children: inici
+
+  - title: "Primera guerra siciliana"
+    id: "21"
+    dataInici: "(-480)"
+    url: "/periodes_21.html"
+    children: inici
+
+  - title: "Batalla de Hímera"
+    id: "16"
+    dataInici: "(-480)"
+    url: "/periodes_16.html"
+
+
+  - children: final
+
+  - title: "Segunda guerra siciliana"
+    id: "22"
+    dataInici: "(-410)"
+    dataFi: "(-340)"
+    url: "/periodes_22.html"
+    children: inici
+
+  - title: "Batalla de Hímera"
+    id: "268"
+    dataInici: "(-409)"
+    url: "/periodes_268.html"
+
+  - title: "Sitio de Agrigento"
+    id: "269"
+    dataInici: "(-406)"
+    url: "/periodes_269.html"
+
+  - title: "Batalla de Gela"
+    id: "270"
+    dataInici: "(-405)"
+    url: "/periodes_270.html"
+
+  - title: "Batalla de Catana"
+    id: "546"
+    dataInici: "(-397)"
+    url: "/periodes_546.html"
+
+  - title: "Batalla de Cábala"
+    id: "271"
+    dataInici: "(-378)"
+    url: "/periodes_271.html"
+
+  - title: "Batalla de Cronium"
+    id: "272"
+    dataInici: "(-376)"
+    url: "/periodes_272.html"
+
+  - title: "Batalla del Crimiso"
+    id: "192"
+    dataInici: "(-340)"
+    url: "/periodes_192.html"
+
+  - title: "Batalla del río Abolus"
+    id: "273"
+    dataInici: "(-338)"
+    url: "/periodes_273.html"
+
+
+  - children: final
+
+  - title: "Tercera guerra siciliana"
+    id: "23"
+    dataInici: "(-315)"
+    dataFi: "(-307)"
+    url: "/periodes_23.html"
+    children: inici
+
+  - title: "Batalla de Hímera"
+    id: "274"
+    dataInici: "(-311)"
+    url: "/periodes_274.html"
+
+  - title: "Batalla de Túnez"
+    id: "203"
+    dataInici: "(-310)"
+    url: "/periodes_203.html"
+
+  - title: "Batalla de Túnez"
+    id: "275"
+    dataInici: "(-307)"
+    url: "/periodes_275.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Guerras médicas"
+    id: "9"
+    dataInici: "(-499)"
+    dataFi: "(-478)"
+    url: "/periodes_9.html"
+    children: inici
+
+  - title: "Revuelta jónica"
+    id: "12"
+    dataInici: "(-499)"
+    dataFi: "(-494)"
+    url: "/periodes_12.html"
+    children: inici
+
+  - title: "Batalla de Éfeso"
+    id: "10"
+    dataInici: "(-498)"
+    url: "/periodes_10.html"
+
+  - title: "Batalla de Lade"
+    id: "11"
+    dataInici: "(-494)"
+    url: "/periodes_11.html"
+
+
+  - children: final
+
+  - title: "Primera guerra médica"
+    id: "13"
+    dataInici: "(-492)"
+    dataFi: "(-490)"
+    url: "/periodes_13.html"
+    children: inici
+
+  - title: "Batalla de Maratón"
+    id: "15"
+    dataInici: "(-490)"
+    url: "/periodes_15.html"
+
+  - title: "Sitio de Eretria"
+    id: "66"
+    dataInici: "(-490)"
+    url: "/periodes_66.html"
+
+
+  - children: final
+
+  - title: "Segunda guerra médica"
+    id: "14"
+    dataInici: "(-480)"
+    dataFi: "(-479)"
+    url: "/periodes_14.html"
+    children: inici
+
+  - title: "Batalla de Salamina"
+    id: "17"
+    dataInici: "(-480)"
+    url: "/periodes_17.html"
+
+  - title: "Batalla de las Termópilas"
+    id: "18"
+    dataInici: "(-480)"
+    url: "/periodes_18.html"
+
+  - title: "Batalla de Platea"
+    id: "19"
+    dataInici: "(-479)"
+    url: "/periodes_19.html"
+
+  - title: "Batalla de Mícala"
+    id: "31"
+    dataInici: "(-479-08)"
+    url: "/periodes_31.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Guerras del Peloponeso"
+    id: "86"
+    dataInici: "(-460)"
+    dataFi: "(-413)"
+    url: "/periodes_86.html"
+    children: inici
+
+  - title: "Primera guerra del Peloponeso"
+    id: "32"
+    dataInici: "(-460)"
+    dataFi: "(-445)"
+    url: "/periodes_32.html"
+    children: inici
+
+  - title: "Batalla de Tanagra"
+    id: "33"
+    dataInici: "(-457)"
+    url: "/periodes_33.html"
+
+
+  - children: final
+
+  - title: "Guerra del Peloponeso"
+    id: "37"
+    dataInici: "(-431)"
+    dataFi: "(-413)"
+    url: "/periodes_37.html"
+    children: inici
+
+  - title: "Batalla de Esfacteria"
+    id: "68"
+    dataInici: "(-425)"
+    url: "/periodes_68.html"
+
+  - title: "Batalla de Delio"
+    id: "185"
+    dataInici: "(-424)"
+    url: "/periodes_185.html"
+
+  - title: "Batalla de Anfípolis"
+    id: "67"
+    dataInici: "(-422)"
+    url: "/periodes_67.html"
+
+  - title: "Batalla de Mantinea"
+    id: "69"
+    dataInici: "(-418)"
+    url: "/periodes_69.html"
+
+  - title: "Expedición a Sicilia"
+    id: "70"
+    dataInici: "(-415)"
+    dataFi: "(-413)"
+    url: "/periodes_70.html"
+
+  - title: "Batalla de Arginusas"
+    id: "545"
+    dataInici: "(-406)"
+    url: "/periodes_545.html"
+
+
+  - children: final
+
+  - title: "Guerra de Corinto"
+    id: "187"
+    dataInici: "(-395)"
+    dataFi: "(-386)"
+    url: "/periodes_187.html"
+    children: inici
+
+  - title: "Batalla de Nemea"
+    id: "188"
+    dataInici: "(-394)"
+    url: "/periodes_188.html"
+
+  - title: "Batalla de Coronea"
+    id: "189"
+    dataInici: "(-394)"
+    url: "/periodes_189.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Batalla de Leuctra"
+    id: "190"
+    dataInici: "(-371)"
+    url: "/periodes_190.html"
+
+  - title: "Batalla de Mantinea"
+    id: "191"
+    dataInici: "(-362)"
+    url: "/periodes_191.html"
+
+  - title: "Auge de Macedonia"
+    id: "87"
+    dataInici: "(-359)"
+    dataFi: "(-323)"
+    url: "/periodes_87.html"
+    children: inici
+
+  - title: "Filipo II"
+    id: "42"
+    dataInici: "(-359)"
+    dataFi: "(-336)"
+    url: "/periodes_42.html"
+    children: inici
+
+  - title: "Batalla del Valle del Erigón"
+    id: "415"
+    dataInici: "(-358)"
+    url: "/periodes_415.html"
+
+  - title: "Batalla del Campo de Azafrán"
+    id: "416"
+    dataInici: "(-352)"
+    url: "/periodes_416.html"
+
+  - title: "Batalla de Queronea"
+    id: "193"
+    dataInici: "(-338)"
+    url: "/periodes_193.html"
+
+
+  - children: final
+
+  - title: "Alejandro Magno"
+    id: "38"
+    dataInici: "(-336)"
+    dataFi: "(-323)"
+    url: "/periodes_38.html"
+    children: inici
+
+  - title: "Asedio de Pelión"
+    id: "418"
+    dataInici: "(-355)"
+    url: "/periodes_418.html"
+
+  - title: "Batalla del río Lyginus"
+    id: "417"
+    dataInici: "(-335)"
+    url: "/periodes_417.html"
+
+  - title: "Batalla del río Gránico"
+    id: "71"
+    dataInici: "(-334)"
+    url: "/periodes_71.html"
+
+  - title: "Batalla de Isos"
+    id: "72"
+    dataInici: "(-333)"
+    url: "/periodes_72.html"
+
+  - title: "Sitio de Tiro"
+    id: "553"
+    dataInici: "(-332-01)"
+    dataFi: "(-332-07)"
+    url: "/periodes_553.html"
+
+  - title: "Batalla de Gaugamela"
+    id: "73"
+    dataInici: "(-331)"
+    url: "/periodes_73.html"
+
+  - title: "Batalla del Jaxartes"
+    id: "419"
+    dataInici: "(-329)"
+    url: "/periodes_419.html"
+
+  - title: "Toma de Samarcanda"
+    id: "420"
+    dataInici: "(-329)"
+    url: "/periodes_420.html"
+
+  - title: "Conquista de Arigaeum"
+    id: "421"
+    dataInici: "(-327)"
+    url: "/periodes_421.html"
+
+  - title: "Batalla del Hidaspes"
+    id: "158"
+    dataInici: "(-326)"
+    url: "/periodes_158.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Período Helenístico"
+    id: "39"
+    dataInici: "(-323)"
+    dataFi: "(-30)"
+    url: "/periodes_39.html"
+    children: inici
+
+  - title: "Diádocos"
+    id: "194"
+    dataInici: "(-323)"
+    dataFi: "(-281)"
+    url: "/periodes_194.html"
+    children: inici
+
+  - title: "Primera guerra de los diádocos"
+    id: "195"
+    dataInici: "(-322)"
+    dataFi: "(-319)"
+    url: "/periodes_195.html"
+
+  - title: "Segunda guerra de los diádocos"
+    id: "196"
+    dataInici: "(-319)"
+    dataFi: "(-315)"
+    url: "/periodes_196.html"
+    children: inici
+
+  - title: "Batalla de Paraitacene"
+    id: "200"
+    dataInici: "(-317)"
+    url: "/periodes_200.html"
+
+  - title: "Batalla de Gabiene"
+    id: "201"
+    dataInici: "(-316)"
+    url: "/periodes_201.html"
+
+
+  - children: final
+
+  - title: "Tercera guerra de los diádocos"
+    id: "197"
+    dataInici: "(-314)"
+    dataFi: "(-311)"
+    url: "/periodes_197.html"
+    children: inici
+
+  - title: "Batalla de Gaza"
+    id: "202"
+    dataInici: "(-312)"
+    url: "/periodes_202.html"
+
+
+  - children: final
+
+  - title: "Guerra de Babilonia"
+    id: "198"
+    dataInici: "(-311)"
+    dataFi: "(-309)"
+    url: "/periodes_198.html"
+
+  - title: "Cuarta guerra de los diádocos"
+    id: "199"
+    dataInici: "(-308)"
+    dataFi: "(-301)"
+    url: "/periodes_199.html"
+    children: inici
+
+  - title: "Batalla de Salamina de Chipre"
+    id: "547"
+    dataInici: "(-306)"
+    url: "/periodes_547.html"
+
+  - title: "Batalla de Ipsos"
+    id: "423"
+    dataInici: "(-301)"
+    url: "/periodes_423.html"
+
+
+  - children: final
+
+  - title: "Guerra entre Chandragupta y Seleuco I"
+    id: "375"
+    dataInici: "(-305)"
+    dataFi: "(-303)"
+    url: "/periodes_375.html"
+
+
+  - children: final
+
+  - title: "Batalla de Selasia"
+    id: "74"
+    dataInici: "(-222)"
+    url: "/periodes_74.html"
+
+  - title: "Batalla de Rafia"
+    id: "75"
+    dataInici: "(-217)"
+    url: "/periodes_75.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Imperio Sasánida"
+    id: "120"
+    dataInici: "(224)"
+    dataFi: "(651)"
+    url: "/periodes_120.html"
+
+  - title: "Imperio Huno"
+    id: "121"
+    dataInici: "(370)"
+    dataFi: "(469)"
+    url: "/periodes_121.html"
+    children: inici
+
+  - title: "Batalla de los Campos Cataláunicos"
+    id: "122"
+    dataInici: "(451)"
+    url: "/periodes_122.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Edad Media"
+    id: "217"
+    dataInici: "(476)"
+    dataFi: "(1453)"
+    url: "/periodes_217.html"
+    children: inici
+
+  - title: "Dinastías Chinas"
+    id: "872"
+    url: "/periodes_872.html"
+    children: inici
+
+  - title: "Cinco Dinastías y Diez Reinos"
+    id: "1064"
+    dataInici: "(907)"
+    dataFi: "(970)"
+    url: "/periodes_1064.html"
+
+  - title: "Dinastía Song"
+    id: "873"
+    dataInici: "(960)"
+    dataFi: "(1279)"
+    url: "/periodes_873.html"
+
+  - title: "Dinastía Ming"
+    id: "1058"
+    dataInici: "(1368)"
+    dataFi: "(1644)"
+    url: "/periodes_1058.html"
+
+
+  - children: final
+
+  - title: "Imperio Bizantino"
+    id: "297"
+    dataInici: "(395)"
+    dataFi: "(1453)"
+    url: "/periodes_297.html"
+    children: inici
+
+  - title: "Guerra de Iberia"
+    id: "582"
+    dataInici: "(526)"
+    dataFi: "(532)"
+    url: "/periodes_582.html"
+    children: inici
+
+  - title: "Batalla de Dara"
+    id: "583"
+    dataInici: "(530)"
+    url: "/periodes_583.html"
+
+
+  - children: final
+
+  - title: "Justiniano"
+    id: "150"
+    dataInici: "(527)"
+    dataFi: "(565)"
+    url: "/periodes_150.html"
+    children: inici
+
+  - title: "Belisario"
+    id: "151"
+    dataInici: "(527)"
+    dataFi: "(553)"
+    url: "/periodes_151.html"
+    children: inici
+
+  - title: "Batalla de Ad Decimum"
+    id: "152"
+    dataInici: "(533)"
+    url: "/periodes_152.html"
+
+  - title: "Batalla de Tricamerón"
+    id: "153"
+    dataInici: "(533)"
+    url: "/periodes_153.html"
+
+  - title: "Batalla de Casilino"
+    id: "154"
+    dataInici: "(554)"
+    url: "/periodes_154.html"
+
+
+  - children: final
+
+  - title: "Batalla de Tagina"
+    id: "584"
+    dataInici: "(552-07-01)"
+    url: "/periodes_584.html"
+
+
+  - children: final
+
+  - title: "Batalla de Manzikert"
+    id: "237"
+    dataInici: "(1071-08-26)"
+    url: "/periodes_237.html"
+
+  - title: "Batalla de Calobrie"
+    id: "587"
+    dataInici: "(1078)"
+    url: "/periodes_587.html"
+
+  - title: "Batalla de Dirraquio"
+    id: "235"
+    dataInici: "(1081-10-18)"
+    url: "/periodes_235.html"
+
+
+  - children: final
+
+  - title: "Reino Vándalo"
+    id: "876"
+    dataInici: "(435)"
+    dataFi: "(534)"
+    url: "/periodes_876.html"
+
+  - title: "Alta Edad Media en Europa"
+    id: "218"
+    dataInici: "(476)"
+    dataFi: "(1000)"
+    url: "/periodes_218.html"
+    children: inici
+
+  - title: "Expansión del Cristianismo"
+    id: "155"
+    dataInici: "(365)"
+    dataFi: "(744)"
+    url: "/periodes_155.html"
+
+  - title: "Reinos Francos"
+    id: "124"
+    dataInici: "(481)"
+    dataFi: "(751)"
+    url: "/periodes_124.html"
+    children: inici
+
+  - title: "Batalla de Soissons"
+    id: "123"
+    dataInici: "(486)"
+    url: "/periodes_123.html"
+
+  - title: "Batalla de Tolbiac"
+    id: "568"
+    dataInici: "(496)"
+    url: "/periodes_568.html"
+
+  - title: "Batalla de Vouillé"
+    id: "125"
+    dataInici: "(507)"
+    url: "/periodes_125.html"
+
+  - title: "Batalla de Poitiers"
+    id: "92"
+    dataInici: "(732)"
+    url: "/periodes_92.html"
+
+
+  - children: final
+
+  - title: "Reino ostrogodo"
+    id: "875"
+    dataInici: "(493)"
+    dataFi: "(553)"
+    url: "/periodes_875.html"
+
+  - title: "Reino Visigodo"
+    id: "149"
+    dataInici: "(507)"
+    dataFi: "(714)"
+    url: "/periodes_149.html"
+
+  - title: "Conquista de la Península Ibérica"
+    id: "160"
+    dataInici: "(711)"
+    dataFi: "(732)"
+    url: "/periodes_160.html"
+
+  - title: "Imperio Carolingio"
+    id: "539"
+    dataInici: "(751)"
+    dataFi: "(888)"
+    url: "/periodes_539.html"
+    children: inici
+
+  - title: "Batalla de Roncesvalles"
+    id: "161"
+    dataInici: "(778)"
+    url: "/periodes_161.html"
+
+  - title: "Batalla de Fontenoy-en-Puisaye"
+    id: "540"
+    dataInici: "(841-07-25)"
+    url: "/periodes_540.html"
+
+  - title: "Batalla de Jengland"
+    id: "911"
+    dataInici: "(851-08-22)"
+    url: "/periodes_911.html"
+
+  - title: "Batalla de Brissarthe"
+    id: "912"
+    dataInici: "(866-07-02)"
+    url: "/periodes_912.html"
+
+  - title: "Batalla de Montfaucon en Argonne"
+    id: "913"
+    dataInici: "(888-06-24)"
+    url: "/periodes_913.html"
+
+
+  - children: final
+
+  - title: "Expansión Escandinava"
+    id: "173"
+    dataInici: "(789)"
+    dataFi: "(1100)"
+    url: "/periodes_173.html"
+    children: inici
+
+  - title: "Islas Británicas"
+    id: "174"
+    dataInici: "(793)"
+    dataFi: "(1066)"
+    url: "/periodes_174.html"
+    children: inici
+
+  - title: "Batalla de Ashdown"
+    id: "257"
+    dataInici: "(871-01-08)"
+    url: "/periodes_257.html"
+
+  - title: "Batalla de Clontarf"
+    id: "175"
+    dataInici: "(1014-04-23)"
+    url: "/periodes_175.html"
+
+  - title: "Conquista normanda de Inglaterra"
+    id: "25"
+    dataInici: "(1066-09-28)"
+    dataFi: "(1066-12-25)"
+    url: "/periodes_25.html"
+    children: inici
+
+  - title: "Batalla de Fulford"
+    id: "28"
+    dataInici: "(1066-09-20)"
+    url: "/periodes_28.html"
+
+  - title: "Batalla de Stamford Bridge"
+    id: "27"
+    dataInici: "(1066-09-25)"
+    url: "/periodes_27.html"
+
+  - title: "Batalla de Hastings"
+    id: "26"
+    dataInici: "(1066-10-14)"
+    url: "/periodes_26.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Reinos Normandos"
+    id: "305"
+    dataInici: "(850)"
+    dataFi: "(1152)"
+    url: "/periodes_305.html"
+    children: inici
+
+  - title: "Batalla de Val-ès-Dunes"
+    id: "29"
+    dataInici: "(1047-08-10)"
+    url: "/periodes_29.html"
+
+  - title: "Batalla de Civitate"
+    id: "585"
+    dataInici: "(1053-06-18)"
+    url: "/periodes_585.html"
+
+  - title: "Batalla de Varaville"
+    id: "30"
+    dataInici: "(1057-03-22)"
+    url: "/periodes_30.html"
+
+  - title: "Conquista normanda de Inglaterra"
+    id: "25"
+    dataInici: "(1066-09-28)"
+    dataFi: "(1066-12-25)"
+    url: "/periodes_25.html"
+    children: inici
+
+  - title: "Batalla de Fulford"
+    id: "28"
+    dataInici: "(1066-09-20)"
+    url: "/periodes_28.html"
+
+  - title: "Batalla de Stamford Bridge"
+    id: "27"
+    dataInici: "(1066-09-25)"
+    url: "/periodes_27.html"
+
+  - title: "Batalla de Hastings"
+    id: "26"
+    dataInici: "(1066-10-14)"
+    url: "/periodes_26.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Colonización de Groenlandia"
+    id: "424"
+    dataInici: "(982)"
+    dataFi: "(1430)"
+    url: "/periodes_424.html"
+
+
+  - children: final
+
+  - title: "Invasión de los Magiar"
+    id: "541"
+    dataInici: "(839)"
+    dataFi: "(970)"
+    url: "/periodes_541.html"
+    children: inici
+
+  - title: "Batalla de Lechfeld"
+    id: "242"
+    dataInici: "(955-08-10)"
+    url: "/periodes_242.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Expansión del Islam"
+    id: "159"
+    dataInici: "(632)"
+    dataFi: "(1250)"
+    url: "/periodes_159.html"
+    children: inici
+
+  - title: "Batalla de Yarmuk"
+    id: "949"
+    dataInici: "(636-08-15)"
+    dataFi: "(636-08-20)"
+    url: "/periodes_949.html"
+
+  - title: "Califato Omeya"
+    id: "537"
+    dataInici: "(661)"
+    dataFi: "(750)"
+    url: "/periodes_537.html"
+    children: inici
+
+  - title: "Conquista de la Península Ibérica"
+    id: "160"
+    dataInici: "(711)"
+    dataFi: "(732)"
+    url: "/periodes_160.html"
+
+
+  - children: final
+
+  - title: "Califato abasí"
+    id: "538"
+    dataInici: "(750)"
+    dataFi: "(1258)"
+    url: "/periodes_538.html"
+
+
+  - children: final
+
+  - title: "Reconquista"
+    id: "469"
+    dataInici: "(722)"
+    dataFi: "(1492)"
+    url: "/periodes_469.html"
+    children: inici
+
+  - title: "Batalla de Guadalete"
+    id: "496"
+    dataInici: "(712-07)"
+    url: "/periodes_496.html"
+
+  - title: "Batalla de San Esteban de Gormaz"
+    id: "497"
+    dataInici: "(917)"
+    url: "/periodes_497.html"
+
+  - title: "Batalla de Simancas"
+    id: "498"
+    dataInici: "(939-08)"
+    url: "/periodes_498.html"
+
+  - title: "Batalla de Rovirans"
+    id: "499"
+    dataInici: "(985)"
+    url: "/periodes_499.html"
+
+  - title: "Batalla de Sagrajas"
+    id: "504"
+    dataInici: "(1086-10-23)"
+    url: "/periodes_504.html"
+
+  - title: "Batalla de Quart de Poblet"
+    id: "500"
+    dataInici: "(1094-10-21)"
+    url: "/periodes_500.html"
+
+  - title: "Batalla de Alcoraz"
+    id: "507"
+    dataInici: "(1096-11-15)"
+    url: "/periodes_507.html"
+
+  - title: "Batalla de Bairén"
+    id: "501"
+    dataInici: "(1097-01)"
+    url: "/periodes_501.html"
+
+  - title: "Batalla de Uclés"
+    id: "506"
+    dataInici: "(1108-05-29)"
+    url: "/periodes_506.html"
+
+  - title: "Batalla de Cutanda"
+    id: "502"
+    dataInici: "(1120-06-17)"
+    url: "/periodes_502.html"
+
+  - title: "Batalla de Alarcos"
+    id: "505"
+    dataInici: "(1195-07-19)"
+    url: "/periodes_505.html"
+
+  - title: "Batalla de Las Navas de Tolosa"
+    id: "470"
+    dataInici: "(1212-07-16)"
+    url: "/periodes_470.html"
+
+  - title: "Conquista de Mallorca"
+    id: "686"
+    dataInici: "(1229)"
+    dataFi: "(1231)"
+    url: "/periodes_686.html"
+
+  - title: "Batalla de Portopí"
+    id: "503"
+    dataInici: "(1229-07-12)"
+    url: "/periodes_503.html"
+
+  - title: "Guerra de Granada"
+    id: "574"
+    dataInici: "(1481)"
+    dataFi: "(1492)"
+    url: "/periodes_574.html"
+
+
+  - children: final
+
+  - title: "Período Heian"
+    id: "532"
+    dataInici: "(794)"
+    dataFi: "(1185)"
+    url: "/periodes_532.html"
+    children: inici
+
+  - title: "Guerra Genpei"
+    id: "882"
+    dataInici: "(1180)"
+    dataFi: "(1185)"
+    url: "/periodes_882.html"
+
+
+  - children: final
+
+  - title: "Colonización del Triángulo Polinésico"
+    id: "648"
+    dataInici: "(800)"
+    dataFi: "(1300)"
+    url: "/periodes_648.html"
+
+  - title: "Rus de Kiev"
+    id: "578"
+    dataInici: "(882)"
+    dataFi: "(1240)"
+    url: "/periodes_578.html"
+
+  - title: "Sacro Imperio Romano"
+    id: "303"
+    dataInici: "(962)"
+    dataFi: "(1806)"
+    url: "/periodes_303.html"
+    children: inici
+
+  - title: "Batalla de Marchfeld"
+    id: "267"
+    dataInici: "(1278-08-26)"
+    url: "/periodes_267.html"
+
+
+  - children: final
+
+  - title: "Baja Edad Media en Europa"
+    id: "298"
+    dataInici: "(1000)"
+    dataFi: "(1500)"
+    url: "/periodes_298.html"
+    children: inici
+
+  - title: "Islas Británicas"
+    id: "299"
+    dataInici: "(1066)"
+    dataFi: "(1500)"
+    url: "/periodes_299.html"
+    children: inici
+
+  - title: "Anarquía Inglesa"
+    id: "300"
+    dataInici: "(1135)"
+    dataFi: "(1154)"
+    url: "/periodes_300.html"
+    children: inici
+
+  - title: "Batalla de Lincoln"
+    id: "266"
+    dataInici: "(1141-02-02)"
+    url: "/periodes_266.html"
+
+
+  - children: final
+
+  - title: "Batalla de Bouvines"
+    id: "236"
+    dataInici: "(1214-07-27)"
+    url: "/periodes_236.html"
+
+  - title: "Segunda Guerra de los Barones"
+    id: "914"
+    dataInici: "(1264)"
+    dataFi: "(1267)"
+    url: "/periodes_914.html"
+    children: inici
+
+  - title: "Batalla de Lewes"
+    id: "915"
+    dataInici: "(1264-05-14)"
+    url: "/periodes_915.html"
+
+
+  - children: final
+
+  - title: "Guerras de independencia de Escocia"
+    id: "228"
+    dataInici: "(1296)"
+    dataFi: "(1357)"
+    url: "/periodes_228.html"
+    children: inici
+
+  - title: "Primera Guerra de Independencia"
+    id: "229"
+    dataInici: "(1296)"
+    dataFi: "(1328)"
+    url: "/periodes_229.html"
+    children: inici
+
+  - title: "Batalla de Falkirk"
+    id: "240"
+    dataInici: "(1298-07-22)"
+    url: "/periodes_240.html"
+
+  - title: "Batalla de Bannockburn"
+    id: "231"
+    dataInici: "(1314-06-23)"
+    dataFi: "(1314-06-24)"
+    url: "/periodes_231.html"
+
+
+  - children: final
+
+  - title: "Segunda Guerra de Independencia"
+    id: "230"
+    dataInici: "(1332)"
+    dataFi: "(1357)"
+    url: "/periodes_230.html"
+    children: inici
+
+  - title: "Batalla de Neville's Cross"
+    id: "457"
+    dataInici: "(1346-10-17)"
+    url: "/periodes_457.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Batalla de Otterburn"
+    id: "588"
+    dataInici: "(1388-08)"
+    url: "/periodes_588.html"
+
+  - title: "Guerra de las Dos Rosas"
+    id: "590"
+    dataInici: "(1455)"
+    dataFi: "(1485)"
+    url: "/periodes_590.html"
+    children: inici
+
+  - title: "Primera Batalla de St. Albans"
+    id: "591"
+    dataInici: "(1455-05-22)"
+    url: "/periodes_591.html"
+
+  - title: "Batalla de Blore Heath"
+    id: "815"
+    dataInici: "(1459-09-23)"
+    url: "/periodes_815.html"
+
+  - title: "Batalla de Wakefield"
+    id: "894"
+    dataInici: "(1460-12-30)"
+    url: "/periodes_894.html"
+
+  - title: "Batalla de Mortimer's Cross"
+    id: "816"
+    dataInici: "(1461-02-02)"
+    url: "/periodes_816.html"
+
+  - title: "Segunda Batalla de St. Albans"
+    id: "592"
+    dataInici: "(1461-02-17)"
+    url: "/periodes_592.html"
+
+  - title: "Batalla de Towton"
+    id: "817"
+    dataInici: "(1461-03-29)"
+    url: "/periodes_817.html"
+
+  - title: "Batalla de Edgecote Moor"
+    id: "818"
+    dataInici: "(1469-07-26)"
+    url: "/periodes_818.html"
+
+  - title: "Batalla de Barnet"
+    id: "819"
+    dataInici: "(1471-04-14)"
+    url: "/periodes_819.html"
+
+  - title: "Batalla de Tewkesbury"
+    id: "820"
+    dataInici: "(1471-05-04)"
+    url: "/periodes_820.html"
+
+  - title: "Batalla de Bosworth"
+    id: "812"
+    dataInici: "(1485-08-22)"
+    url: "/periodes_812.html"
+
+  - title: "Batalla de Stoke Field"
+    id: "821"
+    dataInici: "(1487-06-16)"
+    url: "/periodes_821.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Güelfos y Gibelinos"
+    id: "219"
+    dataInici: "(1125)"
+    dataFi: "(1320)"
+    url: "/periodes_219.html"
+    children: inici
+
+  - title: "Batalla de Legnano"
+    id: "220"
+    dataInici: "(1176-05-29)"
+    url: "/periodes_220.html"
+
+  - title: "Batalla de Montaperti"
+    id: "919"
+    dataInici: "(1260-09-04)"
+    url: "/periodes_919.html"
+
+  - title: "Batalla de Campaldino"
+    id: "921"
+    dataInici: "(1289-06-11)"
+    url: "/periodes_921.html"
+
+
+  - children: final
+
+  - title: "Cruzadas Bálticas"
+    id: "341"
+    dataInici: "(1193)"
+    dataFi: "(1242)"
+    url: "/periodes_341.html"
+    children: inici
+
+  - title: "Batalla del Lago Peipus"
+    id: "342"
+    dataInici: "(1242-04-05)"
+    url: "/periodes_342.html"
+
+
+  - children: final
+
+  - title: "Cruzada de Livonia"
+    id: "917"
+    dataInici: "(1198)"
+    dataFi: "(1290)"
+    url: "/periodes_917.html"
+    children: inici
+
+  - title: "Batalla de Karuse"
+    id: "918"
+    dataInici: "(1270-02-16)"
+    url: "/periodes_918.html"
+
+
+  - children: final
+
+  - title: "Cruzada Albigense"
+    id: "221"
+    dataInici: "(1209)"
+    dataFi: "(1229)"
+    url: "/periodes_221.html"
+    children: inici
+
+  - title: "Batalla de Muret"
+    id: "340"
+    dataInici: "(1213-09-12)"
+    url: "/periodes_340.html"
+
+
+  - children: final
+
+  - title: "Batalla de Benevento"
+    id: "343"
+    dataInici: "(1266-02-26)"
+    url: "/periodes_343.html"
+
+  - title: "Confederación Suiza"
+    id: "925"
+    dataInici: "(1291)"
+    dataFi: "(1516)"
+    url: "/periodes_925.html"
+    children: inici
+
+  - title: "Batalla de Morgarten"
+    id: "926"
+    dataInici: "(1315-11-15)"
+    url: "/periodes_926.html"
+
+  - title: "Batalla de Sempach"
+    id: "241"
+    dataInici: "(1386-07-09)"
+    url: "/periodes_241.html"
+
+  - title: "Batalla de Grandson"
+    id: "927"
+    dataInici: "(1476-03-02)"
+    url: "/periodes_927.html"
+
+
+  - children: final
+
+  - title: "Batalla de Courtrai"
+    id: "922"
+    dataInici: "(1302-07-11)"
+    url: "/periodes_922.html"
+
+  - title: "Guerra de los Cien Años"
+    id: "252"
+    dataInici: "(1337-01-01)"
+    dataFi: "(1453-10-17)"
+    url: "/periodes_252.html"
+    children: inici
+
+  - title: "Batalla de Crécy"
+    id: "261"
+    dataInici: "(1346-08-26)"
+    url: "/periodes_261.html"
+
+  - title: "Batalla de Neville's Cross"
+    id: "457"
+    dataInici: "(1346-10-17)"
+    url: "/periodes_457.html"
+
+  - title: "Batalla de Poitiers"
+    id: "262"
+    dataInici: "(1356-09-19)"
+    url: "/periodes_262.html"
+
+  - title: "Batalla de Azincourt"
+    id: "263"
+    dataInici: "(1415-10-25)"
+    url: "/periodes_263.html"
+
+  - title: "Juana de Arco"
+    id: "657"
+    dataInici: "(1428)"
+    dataFi: "(1431-05-30)"
+    url: "/periodes_657.html"
+
+  - title: "Batalla de Anthon"
+    id: "701"
+    dataInici: "(1430-06-11)"
+    url: "/periodes_701.html"
+
+  - title: "Batalla de Formigny"
+    id: "253"
+    dataInici: "(1450-04-15)"
+    url: "/periodes_253.html"
+
+
+  - children: final
+
+  - title: "Guerra Civil Castellana"
+    id: "923"
+    dataInici: "(1351)"
+    dataFi: "(1369)"
+    url: "/periodes_923.html"
+    children: inici
+
+  - title: "Batalla de Nájera"
+    id: "924"
+    dataInici: "(1367-04-03)"
+    url: "/periodes_924.html"
+
+
+  - children: final
+
+  - title: "Batalla de Kulikovo"
+    id: "950"
+    dataInici: "(1380-09-08)"
+    url: "/periodes_950.html"
+
+  - title: "Batalla de Aljubarrota"
+    id: "322"
+    dataInici: "(1385-08-14)"
+    url: "/periodes_322.html"
+
+  - title: "Batalla de Sanluri"
+    id: "589"
+    dataInici: "(1409-06-30)"
+    url: "/periodes_589.html"
+
+  - title: "Guerras Husitas"
+    id: "245"
+    dataInici: "(1419)"
+    dataFi: "(1434)"
+    url: "/periodes_245.html"
+    children: inici
+
+  - title: "Batalla de Kutná Hora"
+    id: "246"
+    dataInici: "(1421-12-21)"
+    url: "/periodes_246.html"
+
+  - title: "Batalla de Habry"
+    id: "247"
+    dataInici: "(1422)"
+    url: "/periodes_247.html"
+
+  - title: "Batalla de Malesov"
+    id: "248"
+    dataInici: "(1424)"
+    url: "/periodes_248.html"
+
+  - title: "Batalla de Ústí nad Labem"
+    id: "249"
+    dataInici: "(1426-06-16)"
+    url: "/periodes_249.html"
+
+  - title: "Batalla de Lipany"
+    id: "250"
+    dataInici: "(1434-05-30)"
+    url: "/periodes_250.html"
+
+
+  - children: final
+
+  - title: "Batalla de Brunkeberg"
+    id: "265"
+    dataInici: "(1471-10-10)"
+    url: "/periodes_265.html"
+
+  - title: "Guerra de Borgoña"
+    id: "1042"
+    dataInici: "(1474)"
+    dataFi: "(1477)"
+    url: "/periodes_1042.html"
+
+
+  - children: final
+
+  - title: "Cruzadas en Tierra Santa"
+    id: "339"
+    dataInici: "(1096)"
+    dataFi: "(1291)"
+    url: "/periodes_339.html"
+    children: inici
+
+  - title: "Primera Cruzada"
+    id: "222"
+    dataInici: "(1096)"
+    dataFi: "(1099)"
+    url: "/periodes_222.html"
+    children: inici
+
+  - title: "Batalla de Dorilea"
+    id: "243"
+    dataInici: "(1097-07-01)"
+    url: "/periodes_243.html"
+
+  - title: "Batalla de Antioquía"
+    id: "447"
+    dataInici: "(1098-06-03)"
+    url: "/periodes_447.html"
+
+  - title: "Batalla de Ascalón"
+    id: "448"
+    dataInici: "(1099-08-12)"
+    url: "/periodes_448.html"
+
+
+  - children: final
+
+  - title: "Batalla de Harrán"
+    id: "258"
+    dataInici: "(1104-05-07)"
+    url: "/periodes_258.html"
+
+  - title: "Batalla de Hab"
+    id: "569"
+    dataInici: "(1119-08-14)"
+    url: "/periodes_569.html"
+
+  - title: "Segunda Cruzada"
+    id: "223"
+    dataInici: "(1147)"
+    dataFi: "(1149)"
+    url: "/periodes_223.html"
+
+  - title: "Batalla de Montgisard"
+    id: "259"
+    dataInici: "(1177-11-25)"
+    url: "/periodes_259.html"
+
+  - title: "Reconquista de Saladino"
+    id: "380"
+    dataInici: "(1182-09-29)"
+    dataFi: "(1187-10-02)"
+    url: "/periodes_380.html"
+    children: inici
+
+  - title: "Batalla de los Cuernos de Hattin"
+    id: "226"
+    dataInici: "(1987-07-04)"
+    url: "/periodes_226.html"
+
+
+  - children: final
+
+  - title: "Tercera Cruzada"
+    id: "224"
+    dataInici: "(1189)"
+    dataFi: "(1191)"
+    url: "/periodes_224.html"
+    children: inici
+
+  - title: "Sitio de Acre"
+    id: "573"
+    dataInici: "(1189-08-28)"
+    dataFi: "(1191-07-12)"
+    url: "/periodes_573.html"
+
+  - title: "Conquista de Chipre"
+    id: "916"
+    dataInici: "(1191)"
+    url: "/periodes_916.html"
+
+  - title: "Batalla de Arsuf"
+    id: "227"
+    dataInici: "(1191-09-07)"
+    url: "/periodes_227.html"
+
+
+  - children: final
+
+  - title: "Cuarta Cruzada"
+    id: "225"
+    dataInici: "(1198)"
+    dataFi: "(1204)"
+    url: "/periodes_225.html"
+
+  - title: "Batalla de La Forbie"
+    id: "260"
+    dataInici: "(1244-10-17)"
+    dataFi: "(1244-10-18)"
+    url: "/periodes_260.html"
+
+  - title: "Septima Cruzada"
+    id: "461"
+    dataInici: "(1248)"
+    dataFi: "(1254)"
+    url: "/periodes_461.html"
+    children: inici
+
+  - title: "Batalla de El Mansurá"
+    id: "462"
+    dataInici: "(1250-02-08)"
+    dataFi: "(1250-02-11)"
+    url: "/periodes_462.html"
+
+
+  - children: final
+
+  - title: "Caída de Acre"
+    id: "572"
+    dataInici: "(1291-04-06)"
+    dataFi: "(1291-05-28)"
+    url: "/periodes_572.html"
+
+
+  - children: final
+
+  - title: "Imperio Mongol"
+    id: "301"
+    dataInici: "(1206)"
+    dataFi: "(1368)"
+    url: "/periodes_301.html"
+    children: inici
+
+  - title: "Invasión del Imperio Corasmio"
+    id: "302"
+    dataInici: "(1219)"
+    dataFi: "(1221)"
+    url: "/periodes_302.html"
+    children: inici
+
+  - title: "Batalla del Indo"
+    id: "238"
+    dataInici: "(1221-11-24)"
+    url: "/periodes_238.html"
+
+
+  - children: final
+
+  - title: "Batalla del río Kalka"
+    id: "244"
+    dataInici: "(1223-05-31)"
+    url: "/periodes_244.html"
+
+  - title: "Batalla de Liegnitz"
+    id: "239"
+    dataInici: "(1241-04-09)"
+    url: "/periodes_239.html"
+
+  - title: "Batalla de Ain Yalut"
+    id: "385"
+    dataInici: "(1260-09-03)"
+    url: "/periodes_385.html"
+
+  - title: "Batalla de Homs"
+    id: "463"
+    dataInici: "(1281-10-29)"
+    url: "/periodes_463.html"
+
+
+  - children: final
+
+  - title: "Imperio Otomano"
+    id: "304"
+    dataInici: "(1299)"
+    dataFi: "(1923)"
+    url: "/periodes_304.html"
+    children: inici
+
+  - title: "Batalla de Nicópolis"
+    id: "570"
+    dataInici: "(1396-09-25)"
+    url: "/periodes_570.html"
+
+  - title: "Batalla de Varna"
+    id: "264"
+    dataInici: "(1444-11-10)"
+    url: "/periodes_264.html"
+
+  - title: "Batalla de Kosovo"
+    id: "251"
+    dataInici: "(1448-10-17)"
+    dataFi: "(1448-10-20)"
+    url: "/periodes_251.html"
+
+  - title: "Sitio de Constantinopla"
+    id: "951"
+    dataInici: "(1453-04-07)"
+    dataFi: "(1453-05-29)"
+    url: "/periodes_951.html"
+
+  - title: "Sitio de Rodas"
+    id: "485"
+    dataInici: "(1522)"
+    url: "/periodes_485.html"
+
+  - title: "Batalla de Mohács"
+    id: "952"
+    dataInici: "(1526-08-29)"
+    url: "/periodes_952.html"
+
+  - title: "Asedio de Malta"
+    id: "453"
+    dataInici: "(1565-05-18)"
+    dataFi: "(1565-11-11)"
+    url: "/periodes_453.html"
+
+
+  - children: final
+
+  - title: "Período Nanbokuchō"
+    id: "544"
+    dataInici: "(1336)"
+    dataFi: "(1392)"
+    url: "/periodes_544.html"
+
+  - title: "Batalla de Grunwald"
+    id: "571"
+    dataInici: "(1410-07-15)"
+    url: "/periodes_571.html"
+
+
+  - children: final
+
+  - title: "Edad Moderna"
+    id: "306"
+    dataInici: "(1453)"
+    dataFi: "(1775)"
+    url: "/periodes_306.html"
+    children: inici
+
+  - title: "Imperio Azteca"
+    id: "346"
+    dataInici: "(1430)"
+    dataFi: "(1521)"
+    url: "/periodes_346.html"
+    children: inici
+
+  - title: "Conquista de México"
+    id: "397"
+    dataInici: "(1519)"
+    dataFi: "(1521)"
+    url: "/periodes_397.html"
+    children: inici
+
+  - title: "Batalla de Otumba"
+    id: "398"
+    dataInici: "(1520-07-07)"
+    url: "/periodes_398.html"
+
+  - title: "Caída de Tenochtitlan"
+    id: "531"
+    dataInici: "(1521-05-26)"
+    dataFi: "(1521-08-13)"
+    url: "/periodes_531.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Imperio Inca"
+    id: "446"
+    dataInici: "(1438)"
+    dataFi: "(1533)"
+    url: "/periodes_446.html"
+
+  - title: "Renacimiento"
+    id: "491"
+    dataInici: "(1453)"
+    dataFi: "(1564)"
+    url: "/periodes_491.html"
+    children: inici
+
+  - title: "Renacimiento italiano"
+    id: "930"
+    dataInici: "(1453)"
+    dataFi: "(1564)"
+    url: "/periodes_930.html"
+    children: inici
+
+  - title: "Guerras Italianas"
+    id: "326"
+    dataInici: "(1494)"
+    dataFi: "(1559)"
+    url: "/periodes_326.html"
+    children: inici
+
+  - title: "Primera Guerra Italiana"
+    id: "327"
+    dataInici: "(1494)"
+    dataFi: "(1498)"
+    url: "/periodes_327.html"
+    children: inici
+
+  - title: "Batalla de Fornovo"
+    id: "328"
+    dataInici: "(1495-07-06)"
+    url: "/periodes_328.html"
+
+
+  - children: final
+
+  - title: "Guerra de Nápoles"
+    id: "329"
+    dataInici: "(1501)"
+    dataFi: "(1504)"
+    url: "/periodes_329.html"
+    children: inici
+
+  - title: "Batalla de Ceriñola"
+    id: "254"
+    dataInici: "(1503-04-28)"
+    url: "/periodes_254.html"
+
+  - title: "Batalla del Garellano"
+    id: "586"
+    dataInici: "(1503-12-28)"
+    dataFi: "(1503-12-29)"
+    url: "/periodes_586.html"
+
+
+  - children: final
+
+  - title: "Guerra de la Liga de Cambrai"
+    id: "330"
+    dataInici: "(1508)"
+    dataFi: "(1516)"
+    url: "/periodes_330.html"
+    children: inici
+
+  - title: "Batalla de Agnadello"
+    id: "331"
+    dataInici: "(1509-05-14)"
+    url: "/periodes_331.html"
+
+  - title: "Batalla de Rávena"
+    id: "332"
+    dataInici: "(1512-04-11)"
+    url: "/periodes_332.html"
+
+  - title: "Batalla de Novara"
+    id: "931"
+    dataInici: "(1513-06-06)"
+    url: "/periodes_931.html"
+
+  - title: "Batalla de Flodden"
+    id: "759"
+    dataInici: "(1513-09-09)"
+    url: "/periodes_759.html"
+
+  - title: "Batalla de Marignano"
+    id: "333"
+    dataInici: "(1515-09-13)"
+    dataFi: "(1515-09-14)"
+    url: "/periodes_333.html"
+
+
+  - children: final
+
+  - title: "Guerra de los cuatro años"
+    id: "334"
+    dataInici: "(1521)"
+    dataFi: "(1526)"
+    url: "/periodes_334.html"
+    children: inici
+
+  - title: "Batalla de Bicoca"
+    id: "335"
+    dataInici: "(1522-04-27)"
+    url: "/periodes_335.html"
+
+  - title: "Batalla de Pavía"
+    id: "336"
+    dataInici: "(1525-02-24)"
+    url: "/periodes_336.html"
+
+
+  - children: final
+
+  - title: "Guerra Italiana"
+    id: "337"
+    dataInici: "(1542)"
+    dataFi: "(1546)"
+    url: "/periodes_337.html"
+    children: inici
+
+  - title: "Batalla de Cerisoles"
+    id: "338"
+    dataInici: "(1544-04-11)"
+    url: "/periodes_338.html"
+
+
+  - children: final
+
+  - title: "Guerra Italiana"
+    id: "395"
+    dataInici: "(1551)"
+    dataFi: "(1559)"
+    url: "/periodes_395.html"
+    children: inici
+
+  - title: "Batalla de San Quintín"
+    id: "396"
+    dataInici: "(1557-08-10)"
+    url: "/periodes_396.html"
+
+
+  - children: final
+
+
+  - children: final
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Sengoku jidai"
+    id: "162"
+    dataInici: "(1467)"
+    dataFi: "(1603)"
+    url: "/periodes_162.html"
+    children: inici
+
+  - title: "Guerra de Onin"
+    id: "163"
+    dataInici: "(1467)"
+    dataFi: "(1478)"
+    url: "/periodes_163.html"
+
+  - title: "Batalla de Azuki-zaka"
+    id: "535"
+    dataInici: "(1542)"
+    url: "/periodes_535.html"
+
+  - title: "Batalla de Azuki-zaka"
+    id: "536"
+    dataInici: "(1548)"
+    url: "/periodes_536.html"
+
+  - title: "Batalla de Okehazama"
+    id: "277"
+    dataInici: "(1560)"
+    url: "/periodes_277.html"
+
+  - title: "Batalla de Kawanakajima"
+    id: "278"
+    dataInici: "(1561-09-10)"
+    url: "/periodes_278.html"
+
+  - title: "Período Azuchi-Momoyama"
+    id: "177"
+    dataInici: "(1568)"
+    dataFi: "(1603)"
+    url: "/periodes_177.html"
+    children: inici
+
+  - title: "Oda Nobunaga"
+    id: "528"
+    dataInici: "(1568)"
+    dataFi: "(1582)"
+    url: "/periodes_528.html"
+    children: inici
+
+  - title: "Battle of Kizugawaguchi"
+    id: "533"
+    dataInici: "(1578)"
+    url: "/periodes_533.html"
+
+
+  - children: final
+
+  - title: "Batalla de Mikatagahara"
+    id: "282"
+    dataInici: "(1573-01-25)"
+    url: "/periodes_282.html"
+
+  - title: "Batalla de Nagashino"
+    id: "283"
+    dataInici: "(1575-06-28)"
+    url: "/periodes_283.html"
+
+  - title: "Batalla de Tedorigawa"
+    id: "284"
+    dataInici: "(1577-11-13)"
+    url: "/periodes_284.html"
+
+  - title: "Batalla de Mimigawa"
+    id: "285"
+    dataInici: "(1578-11-11)"
+    url: "/periodes_285.html"
+
+  - title: "Hideyoshi"
+    id: "529"
+    dataInici: "(1582)"
+    dataFi: "(1598)"
+    url: "/periodes_529.html"
+
+  - title: "Batalla de Nagakute"
+    id: "287"
+    dataInici: "(1582-05-17)"
+    url: "/periodes_287.html"
+
+  - title: "Batalla de Yamazaki"
+    id: "286"
+    dataInici: "(1582-07-02)"
+    url: "/periodes_286.html"
+
+  - title: "Batalla de Shizugatake"
+    id: "288"
+    dataInici: "(1583)"
+    url: "/periodes_288.html"
+
+  - title: "Batalla de Komaki"
+    id: "290"
+    dataInici: "(1584)"
+    url: "/periodes_290.html"
+
+  - title: "Batalla de Nagakute"
+    id: "291"
+    dataInici: "(1584)"
+    url: "/periodes_291.html"
+
+  - title: "Batalla de Okitanawate"
+    id: "289"
+    dataInici: "(1584-03-24)"
+    url: "/periodes_289.html"
+
+  - title: "Batalla de Hitotoribashi"
+    id: "292"
+    dataInici: "(1585)"
+    url: "/periodes_292.html"
+
+  - title: "Batalla de Hetsugigawa"
+    id: "293"
+    dataInici: "(1587-01-20)"
+    url: "/periodes_293.html"
+
+  - title: "Batalla de Suriagehara"
+    id: "294"
+    dataInici: "(1589-06-05)"
+    url: "/periodes_294.html"
+
+  - title: "Consejo de los Cinco Regentes"
+    id: "530"
+    dataInici: "(1598)"
+    dataFi: "(1603)"
+    url: "/periodes_530.html"
+    children: inici
+
+  - title: "Batalla de Domyoji"
+    id: "534"
+    dataInici: "(1615-06-03)"
+    url: "/periodes_534.html"
+
+
+  - children: final
+
+  - title: "Batalla de Sekigahara"
+    id: "295"
+    dataInici: "(1600-10-21)"
+    url: "/periodes_295.html"
+
+  - title: "Batalla de Tennoji"
+    id: "296"
+    dataInici: "(1615-06-03)"
+    url: "/periodes_296.html"
+
+
+  - children: final
+
+  - title: "Batalla de Mimasetoge"
+    id: "279"
+    dataInici: "(1569)"
+    url: "/periodes_279.html"
+
+  - title: "Batalla de Anegawa"
+    id: "281"
+    dataInici: "(1570)"
+    url: "/periodes_281.html"
+
+  - title: "Batalla de Nunobeyama"
+    id: "280"
+    dataInici: "(1570-02-14)"
+    url: "/periodes_280.html"
+
+
+  - children: final
+
+  - title: "Era de los descubrimientos"
+    id: "524"
+    dataInici: "(1492)"
+    dataFi: "(1652)"
+    url: "/periodes_524.html"
+    children: inici
+
+  - title: "Colonización europea de América"
+    id: "379"
+    dataInici: "(1492)"
+    dataFi: "(1783)"
+    url: "/periodes_379.html"
+    children: inici
+
+  - title: "Conquista de México"
+    id: "397"
+    dataInici: "(1519)"
+    dataFi: "(1521)"
+    url: "/periodes_397.html"
+    children: inici
+
+  - title: "Batalla de Otumba"
+    id: "398"
+    dataInici: "(1520-07-07)"
+    url: "/periodes_398.html"
+
+  - title: "Caída de Tenochtitlan"
+    id: "531"
+    dataInici: "(1521-05-26)"
+    dataFi: "(1521-08-13)"
+    url: "/periodes_531.html"
+
+
+  - children: final
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Reforma Protestante"
+    id: "444"
+    dataInici: "(1517)"
+    dataFi: "(1555)"
+    url: "/periodes_444.html"
+
+  - title: "Imperio Mogol"
+    id: "1053"
+    dataInici: "(1526)"
+    dataFi: "(1858)"
+    url: "/periodes_1053.html"
+
+  - title: "Jornada de Túnez"
+    id: "401"
+    dataInici: "(1535-06-01)"
+    url: "/periodes_401.html"
+
+  - title: "Guerras de religión de Francia"
+    id: "525"
+    dataInici: "(1562-03)"
+    dataFi: "(1598-04)"
+    url: "/periodes_525.html"
+    children: inici
+
+  - title: "Batalla de Dreux"
+    id: "593"
+    dataInici: "(1562-12-19)"
+    url: "/periodes_593.html"
+
+  - title: "Batalla de Ivry"
+    id: "594"
+    dataInici: "(1590-05-14)"
+    url: "/periodes_594.html"
+
+
+  - children: final
+
+  - title: "Guerra de Flandes"
+    id: "399"
+    dataInici: "(1568)"
+    dataFi: "(1648)"
+    url: "/periodes_399.html"
+    children: inici
+
+  - title: "Batalla de Nieuwpoort"
+    id: "400"
+    dataInici: "(1600-07-02)"
+    url: "/periodes_400.html"
+
+
+  - children: final
+
+  - title: "Guerra anglo-española"
+    id: "449"
+    dataInici: "(1585)"
+    dataFi: "(1604)"
+    url: "/periodes_449.html"
+    children: inici
+
+  - title: "Armada Invencible"
+    id: "450"
+    dataInici: "(1588-06)"
+    dataFi: "(1588-08)"
+    url: "/periodes_450.html"
+
+
+  - children: final
+
+  - title: "Guerra polaco-sueca"
+    id: "437"
+    dataInici: "(1600)"
+    dataFi: "(1629)"
+    url: "/periodes_437.html"
+    children: inici
+
+  - title: "Batalla de Kircholm"
+    id: "774"
+    dataInici: "(1605-09-27)"
+    url: "/periodes_774.html"
+
+  - title: "Batalla de Dirschau"
+    id: "439"
+    dataInici: "(1627-08-17)"
+    dataFi: "(1627-08-18)"
+    url: "/periodes_439.html"
+
+  - title: "Batalla de Trzciana"
+    id: "440"
+    dataInici: "(1629-06-25)"
+    url: "/periodes_440.html"
+
+
+  - children: final
+
+  - title: "Período Edo"
+    id: "1062"
+    dataInici: "(1603-03-24)"
+    dataFi: "(1868-05-03)"
+    url: "/periodes_1062.html"
+
+  - title: "Guerra de los Treinta Años"
+    id: "438"
+    dataInici: "(1618)"
+    dataFi: "(1648)"
+    url: "/periodes_438.html"
+    children: inici
+
+  - title: "Batalla de la Montaña Blanca"
+    id: "778"
+    dataInici: "(1620-11-08)"
+    url: "/periodes_778.html"
+
+  - title: "Batalla de Wimpfen"
+    id: "779"
+    dataInici: "(1622-05-06)"
+    url: "/periodes_779.html"
+
+  - title: "Batalla de Höchst"
+    id: "780"
+    dataInici: "(1622-06-20)"
+    url: "/periodes_780.html"
+
+  - title: "Batalla de Fleurus"
+    id: "781"
+    dataInici: "(1622-08-29)"
+    url: "/periodes_781.html"
+
+  - title: "Batalla de Stadtlohn"
+    id: "782"
+    dataInici: "(1623-08-06)"
+    url: "/periodes_782.html"
+
+  - title: "Batalla de Lutter"
+    id: "783"
+    dataInici: "(1626-08-27)"
+    url: "/periodes_783.html"
+
+  - title: "Batalla de Breitenfeld"
+    id: "441"
+    dataInici: "(1631-07-07)"
+    url: "/periodes_441.html"
+
+  - title: "Batalla del Alte Veste"
+    id: "443"
+    dataInici: "(1632-08-31)"
+    dataFi: "(1632-07-09)"
+    url: "/periodes_443.html"
+
+  - title: "Batalla de Lützen"
+    id: "442"
+    dataInici: "(1632-11-16)"
+    url: "/periodes_442.html"
+
+  - title: "Batalla de Nördlingen"
+    id: "515"
+    dataInici: "(1634-07-06)"
+    dataFi: "(1634-07-07)"
+    url: "/periodes_515.html"
+
+  - title: "Batalla de Wittstock"
+    id: "516"
+    dataInici: "(1636-10-04)"
+    url: "/periodes_516.html"
+
+  - title: "Batalla de Breitenfeld"
+    id: "517"
+    dataInici: "(1642-10-23)"
+    url: "/periodes_517.html"
+
+  - title: "Batalla de Rocroi"
+    id: "508"
+    dataInici: "(1643-05-19)"
+    url: "/periodes_508.html"
+
+  - title: "Batalla de Friburgo"
+    id: "784"
+    dataInici: "(1644-08-03)"
+    dataFi: "(1644-08-09)"
+    url: "/periodes_784.html"
+
+  - title: "Batalla de Jankov"
+    id: "518"
+    dataInici: "(1645-02-24)"
+    url: "/periodes_518.html"
+
+  - title: "Batalla de Mergentheim"
+    id: "785"
+    dataInici: "(1645-05-02)"
+    url: "/periodes_785.html"
+
+  - title: "Batalla de Nördlingen"
+    id: "786"
+    dataInici: "(1645-08-03)"
+    url: "/periodes_786.html"
+
+  - title: "Batalla de Lens"
+    id: "787"
+    dataInici: "(1648-08-20)"
+    url: "/periodes_787.html"
+
+
+  - children: final
+
+  - title: "Edad Dorada de la Piratería"
+    id: "595"
+    dataInici: "(1620)"
+    dataFi: "(1795)"
+    url: "/periodes_595.html"
+    children: inici
+
+  - title: "Período de los Bucaneros"
+    id: "596"
+    dataInici: "(1620)"
+    dataFi: "(1683)"
+    url: "/periodes_596.html"
+
+  - title: "Ronda del Pirata"
+    id: "597"
+    dataInici: "(1693)"
+    dataFi: "(1700)"
+    url: "/periodes_597.html"
+
+
+  - children: final
+
+  - title: "Guerra Franco-española"
+    id: "767"
+    dataInici: "(1635-05-19)"
+    dataFi: "(1659-11-07)"
+    url: "/periodes_767.html"
+    children: inici
+
+  - title: "Fronde"
+    id: "768"
+    dataInici: "(1648)"
+    dataFi: "(1659)"
+    url: "/periodes_768.html"
+    children: inici
+
+  - title: "Fronde Parlamentaire"
+    id: "769"
+    dataInici: "(1648)"
+    dataFi: "(1649)"
+    url: "/periodes_769.html"
+
+  - title: "Fronde des nobles"
+    id: "770"
+    dataInici: "(1650)"
+    dataFi: "(1653)"
+    url: "/periodes_770.html"
+    children: inici
+
+  - title: "Batalla de Rethel"
+    id: "771"
+    dataInici: "(1650-12-15)"
+    url: "/periodes_771.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Batalla de las Dunas"
+    id: "772"
+    dataInici: "(1658-06-14)"
+    url: "/periodes_772.html"
+
+
+  - children: final
+
+  - title: "Guerras de los Tres Reinos"
+    id: "521"
+    dataInici: "(1639)"
+    dataFi: "(1651)"
+    url: "/periodes_521.html"
+    children: inici
+
+  - title: "Primera Guerra Civil Inglesa"
+    id: "522"
+    dataInici: "(1642)"
+    dataFi: "(1646)"
+    url: "/periodes_522.html"
+    children: inici
+
+  - title: "Batalla de Edgehill"
+    id: "788"
+    dataInici: "(1642-10-23)"
+    url: "/periodes_788.html"
+
+  - title: "Batalla de Newbury"
+    id: "789"
+    dataInici: "(1643-09-20)"
+    url: "/periodes_789.html"
+
+  - title: "Batalla de Cheriton"
+    id: "773"
+    dataInici: "(1644-03-29)"
+    url: "/periodes_773.html"
+
+  - title: "Batalla de Cropredy Bridge"
+    id: "1032"
+    dataInici: "(1644-06-29)"
+    url: "/periodes_1032.html"
+
+  - title: "Batalla de Marston Moor"
+    id: "790"
+    dataInici: "(1644-07-02)"
+    url: "/periodes_790.html"
+
+  - title: "Batalla de Tippermuir"
+    id: "1031"
+    dataInici: "(1644-09-01)"
+    url: "/periodes_1031.html"
+
+  - title: "Batalla de Aberdeen"
+    id: "1022"
+    dataInici: "(1644-09-13)"
+    url: "/periodes_1022.html"
+
+  - title: "Batalla de Newbury"
+    id: "791"
+    dataInici: "(1644-10-27)"
+    url: "/periodes_791.html"
+
+  - title: "Batalla de Auldearn"
+    id: "1025"
+    dataInici: "(1645-05-09)"
+    url: "/periodes_1025.html"
+
+  - title: "Batalla de Naseby"
+    id: "792"
+    dataInici: "(1645-06-14)"
+    url: "/periodes_792.html"
+
+  - title: "Batalla de Alford"
+    id: "1024"
+    dataInici: "(1645-07-02)"
+    url: "/periodes_1024.html"
+
+  - title: "Batalla de Kilsyth"
+    id: "1023"
+    dataInici: "(1645-08-15)"
+    url: "/periodes_1023.html"
+
+
+  - children: final
+
+  - title: "Segunda Guerra Civil Inglesa"
+    id: "1028"
+    dataInici: "(1648-02)"
+    dataFi: "(1649-01-30)"
+    url: "/periodes_1028.html"
+    children: inici
+
+  - title: "Batalla de Preston"
+    id: "1030"
+    dataInici: "(1648-08-17)"
+    dataFi: "(1648-08-19)"
+    url: "/periodes_1030.html"
+
+
+  - children: final
+
+  - title: "Tercera Guerra Civil Inglesa"
+    id: "1029"
+    dataInici: "(1649)"
+    dataFi: "(1651)"
+    url: "/periodes_1029.html"
+    children: inici
+
+  - title: "Batalla de Dunbar"
+    id: "1027"
+    dataInici: "(1650-09-03)"
+    url: "/periodes_1027.html"
+
+  - title: "Batalla de Worcester"
+    id: "1026"
+    dataInici: "(1651-09-03)"
+    url: "/periodes_1026.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Guerras del Norte"
+    id: "475"
+    dataInici: "(1655)"
+    dataFi: "(1679)"
+    url: "/periodes_475.html"
+    children: inici
+
+  - title: "Segunda Guerra Nórdica"
+    id: "476"
+    dataInici: "(1655)"
+    dataFi: "(1660)"
+    url: "/periodes_476.html"
+    children: inici
+
+  - title: "Batalla de Nyborg"
+    id: "477"
+    dataInici: "(1659-11-14)"
+    url: "/periodes_477.html"
+
+
+  - children: final
+
+  - title: "Guerra Escanesa"
+    id: "478"
+    dataInici: "(1675)"
+    dataFi: "(1679)"
+    url: "/periodes_478.html"
+    children: inici
+
+  - title: "Batalla de Fehrbellin"
+    id: "479"
+    dataInici: "(1675-06-28)"
+    url: "/periodes_479.html"
+
+  - title: "Batalla de Halmstad"
+    id: "480"
+    dataInici: "(1676-08-17)"
+    url: "/periodes_480.html"
+
+  - title: "Batalla de Lund"
+    id: "481"
+    dataInici: "(1676-12-04)"
+    url: "/periodes_481.html"
+
+  - title: "Sitio de Malmö"
+    id: "482"
+    dataInici: "(1677-06-26)"
+    url: "/periodes_482.html"
+
+  - title: "Batalla de Landskrona"
+    id: "483"
+    dataInici: "(1677-07-14)"
+    url: "/periodes_483.html"
+
+  - title: "Batalla de Warksow"
+    id: "484"
+    dataInici: "(1678-01-18)"
+    url: "/periodes_484.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Gran Guerra del Norte"
+    id: "474"
+    dataInici: "(1700)"
+    dataFi: "(1721)"
+    url: "/periodes_474.html"
+    children: inici
+
+  - title: "Batalla de Narva"
+    id: "1005"
+    dataInici: "(1700-11-19)"
+    url: "/periodes_1005.html"
+
+  - title: "Batalla de Lesnaya"
+    id: "954"
+    dataInici: "(1708-09-28)"
+    url: "/periodes_954.html"
+
+  - title: "Batalla de Poltava"
+    id: "492"
+    dataInici: "(1709-07-08)"
+    url: "/periodes_492.html"
+
+
+  - children: final
+
+  - title: "Guerra de Sucesión Española"
+    id: "307"
+    dataInici: "(1701)"
+    dataFi: "(1715)"
+    url: "/periodes_307.html"
+    children: inici
+
+  - title: "Batalla de Blenheim"
+    id: "932"
+    dataInici: "(1704-08-13)"
+    url: "/periodes_932.html"
+
+  - title: "Batalla de Ramillies"
+    id: "953"
+    dataInici: "(1706-05-23)"
+    url: "/periodes_953.html"
+
+  - title: "Batalla de Almansa"
+    id: "848"
+    dataInici: "(1707-04-25)"
+    url: "/periodes_848.html"
+
+  - title: "Sitio de Lille"
+    id: "575"
+    dataInici: "(1708-08-12)"
+    dataFi: "(1708-12-10)"
+    url: "/periodes_575.html"
+
+  - title: "Batalla de Malplaquet"
+    id: "813"
+    dataInici: "(1709-09-11)"
+    url: "/periodes_813.html"
+
+  - title: "Batalla de Denain"
+    id: "598"
+    dataInici: "(1712-07-24)"
+    url: "/periodes_598.html"
+
+  - title: "Asalto de Barcelona"
+    id: "308"
+    dataInici: "(1714-08-12)"
+    dataFi: "(1714-09-11)"
+    url: "/periodes_308.html"
+
+
+  - children: final
+
+  - title: "Guerra de Sucesión Austríaca"
+    id: "599"
+    dataInici: "(1740-12-16)"
+    dataFi: "(1748-10-18)"
+    url: "/periodes_599.html"
+    children: inici
+
+  - title: "Batalla de Mollwitz"
+    id: "681"
+    dataInici: "(1741-04-10)"
+    url: "/periodes_681.html"
+
+  - title: "Batalla de Fontenoy"
+    id: "600"
+    dataInici: "(1745-05-11)"
+    url: "/periodes_600.html"
+
+
+  - children: final
+
+  - title: "Guerra de los Siete Años"
+    id: "458"
+    dataInici: "(1756)"
+    dataFi: "(1763)"
+    url: "/periodes_458.html"
+    children: inici
+
+  - title: ""
+    id: "1049"
+    url: "/periodes_1049.html"
+
+  - title: "Guerra Franco-India"
+    id: "601"
+    dataInici: "(1754)"
+    dataFi: "(1763)"
+    url: "/periodes_601.html"
+    children: inici
+
+  - title: "Batalla de Fort Carillon"
+    id: "602"
+    dataInici: "(1758-07-06)"
+    dataFi: "(1758-07-08)"
+    url: "/periodes_602.html"
+
+  - title: "Batalla de las Llanuras de Abraham"
+    id: "603"
+    dataInici: "(1759-09-13)"
+    url: "/periodes_603.html"
+
+  - title: "Batalla de Sainte-Foy"
+    id: "604"
+    dataInici: "(1760-04-28)"
+    url: "/periodes_604.html"
+
+
+  - children: final
+
+  - title: "Batalla de Menorca"
+    id: "719"
+    dataInici: "(1756-05-20)"
+    url: "/periodes_719.html"
+
+  - title: "Batalla de Lobositz"
+    id: "459"
+    dataInici: "(1756-10-01)"
+    url: "/periodes_459.html"
+
+  - title: "Batalla de Praga"
+    id: "1045"
+    dataInici: "(1757-05-06)"
+    url: "/periodes_1045.html"
+
+  - title: "Batalla de Kolin"
+    id: "1041"
+    dataInici: "(1757-06-18)"
+    url: "/periodes_1041.html"
+
+  - title: "Batalla de Rossbach"
+    id: "1046"
+    dataInici: "(1757-11-05)"
+    url: "/periodes_1046.html"
+
+  - title: "Batalla de Leuthen"
+    id: "605"
+    dataInici: "(1757-12-05)"
+    url: "/periodes_605.html"
+
+  - title: "Batalla de Krefeld"
+    id: "1050"
+    dataInici: "(1758-06-23)"
+    url: "/periodes_1050.html"
+
+  - title: "Batalla de Zorndorf"
+    id: "1047"
+    dataInici: "(1758-08-25)"
+    url: "/periodes_1047.html"
+
+  - title: "Batalla de Kunersdorf"
+    id: "1051"
+    dataInici: "(1759-08-12)"
+    url: "/periodes_1051.html"
+
+  - title: "Batalla de Torgau"
+    id: "1048"
+    dataInici: "(1760-11-03)"
+    url: "/periodes_1048.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Edad Contemporánea"
+    id: "309"
+    dataInici: "(1776)"
+    url: "/periodes_309.html"
+    children: inici
+
+  - title: "Revolución Industrial"
+    id: "750"
+    dataInici: "(1760)"
+    dataFi: "(1860)"
+    url: "/periodes_750.html"
+
+  - title: "Arqueología Moderna"
+    id: "889"
+    dataInici: "(1764)"
+    url: "/periodes_889.html"
+
+  - title: "Era de las Revoluciones"
+    id: "315"
+    dataInici: "(1775)"
+    dataFi: "(1848)"
+    url: "/periodes_315.html"
+    children: inici
+
+  - title: "Revolución de las Trece Colonias"
+    id: "606"
+    dataInici: "(1763)"
+    dataFi: "(1789)"
+    url: "/periodes_606.html"
+    children: inici
+
+  - title: "Guerra de Independencia de los Estados Unidos"
+    id: "509"
+    dataInici: "(1775-04-19)"
+    dataFi: "(1783-09-03)"
+    url: "/periodes_509.html"
+    children: inici
+
+  - title: "Batalla de Bunker Hill"
+    id: "929"
+    dataInici: "(1775-06-17)"
+    url: "/periodes_929.html"
+
+  - title: "Invasión de Canadá"
+    id: "672"
+    dataInici: "(1775-06-27)"
+    dataFi: "(1776-10-17)"
+    url: "/periodes_672.html"
+
+  - title: "Batalla de Long Island"
+    id: "814"
+    dataInici: "(1776-08-27)"
+    url: "/periodes_814.html"
+
+  - title: "Batalla de las Harlem Heights"
+    id: "955"
+    dataInici: "(1776-09-16)"
+    url: "/periodes_955.html"
+
+  - title: "Batalla de White Plains"
+    id: "1033"
+    dataInici: "(1776-10-28)"
+    url: "/periodes_1033.html"
+
+  - title: "Batalla de Trenton "
+    id: "1034"
+    dataInici: "(1776-12-26)"
+    url: "/periodes_1034.html"
+
+  - title: "Batalla de Princeton"
+    id: "1035"
+    dataInici: "(1777-01-03)"
+    url: "/periodes_1035.html"
+
+  - title: "Batalla de Brandywine"
+    id: "869"
+    dataInici: "(1777-09-11)"
+    url: "/periodes_869.html"
+
+  - title: "Batalla de Saratoga"
+    id: "510"
+    dataInici: "(1777-09-19)"
+    dataFi: "(1777-10-17)"
+    url: "/periodes_510.html"
+
+  - title: "Batalla de Germantown"
+    id: "939"
+    dataInici: "(1777-10-04)"
+    url: "/periodes_939.html"
+
+  - title: "Intervención Extranjera"
+    id: "607"
+    dataInici: "(1778)"
+    dataFi: "(1783)"
+    url: "/periodes_607.html"
+    children: inici
+
+  - title: "India"
+    id: "609"
+    dataInici: "(1778)"
+    dataFi: "(1783)"
+    url: "/periodes_609.html"
+    children: inici
+
+  - title: "Batalla de Sadras"
+    id: "610"
+    dataInici: "(1782-02-17)"
+    url: "/periodes_610.html"
+
+  - title: "Batalla de Providien"
+    id: "611"
+    dataInici: "(1782-04-12)"
+    url: "/periodes_611.html"
+
+  - title: "Batalla de Negapatam"
+    id: "612"
+    dataInici: "(1782-07-06)"
+    url: "/periodes_612.html"
+
+  - title: "Batalla de Trincomalee"
+    id: "613"
+    dataInici: "(1782-08-25)"
+    dataFi: "(1782-09-03)"
+    url: "/periodes_613.html"
+
+  - title: "Batalla de Cuddalore"
+    id: "614"
+    dataInici: "(1783-06-20)"
+    url: "/periodes_614.html"
+
+
+  - children: final
+
+  - title: "Conquista de Florida"
+    id: "1043"
+    dataInici: "(1779)"
+    dataFi: "(1781)"
+    url: "/periodes_1043.html"
+    children: inici
+
+  - title: "Asedio de Pensacola"
+    id: "1044"
+    dataInici: "(1981-03-09)"
+    dataFi: "(1981-05-08)"
+    url: "/periodes_1044.html"
+
+
+  - children: final
+
+  - title: "Sitio de Gibraltar"
+    id: "799"
+    dataInici: "(1779-04-24)"
+    dataFi: "(1783-02-07)"
+    url: "/periodes_799.html"
+    children: inici
+
+  - title: "Asalto a Gibraltar"
+    id: "800"
+    dataInici: "(1782-09-13)"
+    url: "/periodes_800.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Invasión Británica de las colonias del Sur"
+    id: "608"
+    dataInici: "(1778-04-19)"
+    dataFi: "(1781-10-19)"
+    url: "/periodes_608.html"
+    children: inici
+
+  - title: "Campaña de Yorktown"
+    id: "673"
+    dataInici: "(1781-06)"
+    dataFi: "(1781-10)"
+    url: "/periodes_673.html"
+    children: inici
+
+  - title: "Batalla del Cabo Henry"
+    id: "720"
+    dataInici: "(1781-05-16)"
+    url: "/periodes_720.html"
+
+  - title: "Batalla de la Bahía de Chesapeake"
+    id: "721"
+    dataInici: "(1781-09-05)"
+    url: "/periodes_721.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Batalla de Monmouth"
+    id: "938"
+    dataInici: "(1778-06-28)"
+    url: "/periodes_938.html"
+
+  - title: "Batalla de Saint Kitts"
+    id: "722"
+    dataInici: "(1782-01-24)"
+    dataFi: "(1782-01-25)"
+    url: "/periodes_722.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Revolución Francesa"
+    id: "316"
+    dataInici: "(1789-07-14)"
+    dataFi: "(1799-11-09)"
+    url: "/periodes_316.html"
+
+  - title: "Guerras revolucionarias francesas"
+    id: "368"
+    dataInici: "(1792-04-20)"
+    dataFi: "(1802-03-25)"
+    url: "/periodes_368.html"
+    children: inici
+
+  - title: "Primera Coalición"
+    id: "617"
+    dataInici: "(1792)"
+    dataFi: "(1797)"
+    url: "/periodes_617.html"
+    children: inici
+
+  - title: "Campañas Italianas"
+    id: "615"
+    dataInici: "(1792)"
+    dataFi: "(1802)"
+    url: "/periodes_615.html"
+    children: inici
+
+  - title: "Batalla del puente de Arcole"
+    id: "687"
+    dataInici: "(1796-11-15)"
+    dataFi: "(1796-11-17)"
+    url: "/periodes_687.html"
+
+  - title: "Batalla de Rivoli"
+    id: "619"
+    dataInici: "(1797-01-14)"
+    dataFi: "(1797-01-15)"
+    url: "/periodes_619.html"
+
+
+  - children: final
+
+  - title: "Batalla de Jemappes"
+    id: "1039"
+    dataInici: "(1792-11-06)"
+    url: "/periodes_1039.html"
+
+  - title: "Guerra de la Vendée"
+    id: "746"
+    dataInici: "(1793-03-03)"
+    dataFi: "(1796-03-29)"
+    url: "/periodes_746.html"
+
+  - title: "Batalla del Primero de Junio"
+    id: "723"
+    dataInici: "(1794-05-29)"
+    dataFi: "(1794-06-01)"
+    url: "/periodes_723.html"
+
+  - title: "Combate de la Bahía de Audierne"
+    id: "724"
+    dataInici: "(1797-01-13)"
+    url: "/periodes_724.html"
+
+
+  - children: final
+
+  - title: "Batalla de Valmy"
+    id: "523"
+    dataInici: "(1792-09-20)"
+    url: "/periodes_523.html"
+
+  - title: "Guerra Anglo-Española"
+    id: "725"
+    dataInici: "(1796-08-18)"
+    dataFi: "(1802-03-25)"
+    url: "/periodes_725.html"
+    children: inici
+
+  - title: "Batalla del Cabo de San Vicente"
+    id: "726"
+    dataInici: "(1797-02-14)"
+    url: "/periodes_726.html"
+
+
+  - children: final
+
+  - title: "Batalla de Camperduin"
+    id: "727"
+    dataInici: "(1797-10-11)"
+    url: "/periodes_727.html"
+
+  - title: "Campaña de Egipto y Siria"
+    id: "616"
+    dataInici: "(1798)"
+    dataFi: "(1801)"
+    url: "/periodes_616.html"
+
+  - title: "Segunda Coalición"
+    id: "618"
+    dataInici: "(1798)"
+    dataFi: "(1802)"
+    url: "/periodes_618.html"
+    children: inici
+
+  - title: "Batalla de Zurich"
+    id: "620"
+    dataInici: "(1799-09-25)"
+    dataFi: "(1799-09-26)"
+    url: "/periodes_620.html"
+
+  - title: "Batalla de Marengo"
+    id: "369"
+    dataInici: "(1800-06-14)"
+    url: "/periodes_369.html"
+
+  - title: "Batalla de Hohenlinden"
+    id: "621"
+    dataInici: "(1800-12-03)"
+    url: "/periodes_621.html"
+
+  - title: "Batalla de Copenhague"
+    id: "730"
+    dataInici: "(1801-04-02)"
+    url: "/periodes_730.html"
+
+  - title: "Primera Batalla de Algeciras"
+    id: "731"
+    dataInici: "(1801-07-06)"
+    url: "/periodes_731.html"
+
+  - title: "Segunda Batalla de Algeciras"
+    id: "732"
+    dataInici: "(1801-07-12)"
+    dataFi: "(1801-07-13)"
+    url: "/periodes_732.html"
+
+
+  - children: final
+
+  - title: "Batalla de Raz de Sein"
+    id: "728"
+    dataInici: "(1798-04-21)"
+    url: "/periodes_728.html"
+
+  - title: "Batalla del Nilo"
+    id: "677"
+    dataInici: "(1798-08-01)"
+    dataFi: "(1798-08-02)"
+    url: "/periodes_677.html"
+
+  - title: "Acción del 18 de Agosto de 1798"
+    id: "729"
+    dataInici: "(1798-08-18)"
+    url: "/periodes_729.html"
+
+
+  - children: final
+
+  - title: "Imperio Napoleónico"
+    id: "317"
+    dataInici: "(1799-11-09)"
+    dataFi: "(1815-06-18)"
+    url: "/periodes_317.html"
+    children: inici
+
+  - title: "Guerras Napoleónicas"
+    id: "318"
+    dataInici: "(1803-05-18)"
+    dataFi: "(1815-06-18)"
+    url: "/periodes_318.html"
+    children: inici
+
+  - title: "Guerra Anglo-Española"
+    id: "733"
+    dataInici: "(1804-12-14)"
+    dataFi: "(1809-01-14)"
+    url: "/periodes_733.html"
+    children: inici
+
+  - title: "Batalla del Cabo Finisterre"
+    id: "734"
+    dataInici: "(1805-07-22)"
+    url: "/periodes_734.html"
+
+  - title: "Batalla de Trafalgar"
+    id: "735"
+    dataInici: "(1805-10-21)"
+    url: "/periodes_735.html"
+
+  - title: "Batalla del Cabo Ortegal"
+    id: "736"
+    dataInici: "(1805-11-04)"
+    url: "/periodes_736.html"
+
+
+  - children: final
+
+  - title: "Tercera Coalición"
+    id: "344"
+    dataInici: "(1805)"
+    dataFi: "(1806)"
+    url: "/periodes_344.html"
+    children: inici
+
+  - title: "Batalla de Austerlitz"
+    id: "345"
+    dataInici: "(1805-12-02)"
+    url: "/periodes_345.html"
+
+
+  - children: final
+
+  - title: "Cuarta Coalición"
+    id: "451"
+    dataInici: "(1806-10-09)"
+    dataFi: "(1807-07-09)"
+    url: "/periodes_451.html"
+    children: inici
+
+  - title: "Batalla de Jena"
+    id: "452"
+    dataInici: "(1806-10-14)"
+    url: "/periodes_452.html"
+
+  - title: "Encuentro en Borkowo"
+    id: "749"
+    dataInici: "(1806-12-24)"
+    url: "/periodes_749.html"
+
+  - title: "Batalla de Eylau"
+    id: "579"
+    dataInici: "(1807-02-07)"
+    dataFi: "(1807-02-08)"
+    url: "/periodes_579.html"
+
+
+  - children: final
+
+  - title: "Guerra de la Independencia española"
+    id: "319"
+    dataInici: "(1808-05-02)"
+    dataFi: "(1814-04-17)"
+    url: "/periodes_319.html"
+    children: inici
+
+  - title: "Levantamiento del 2 de mayo"
+    id: "320"
+    dataInici: "(1808-05-02)"
+    url: "/periodes_320.html"
+
+  - title: "Batalla de Medina de Rioseco"
+    id: "624"
+    dataInici: "(1808-07-14)"
+    url: "/periodes_624.html"
+
+  - title: "Batalla de Bailén"
+    id: "688"
+    dataInici: "(1808-07-18)"
+    dataFi: "(1808-07-22)"
+    url: "/periodes_688.html"
+
+  - title: "Batalla de Somosierra"
+    id: "625"
+    dataInici: "(1808-11-30)"
+    url: "/periodes_625.html"
+
+  - title: "Batalla de Cardedeu"
+    id: "745"
+    dataInici: "(1808-12-16)"
+    url: "/periodes_745.html"
+
+  - title: "Batalla de Medellín"
+    id: "467"
+    dataInici: "(1809-03-28)"
+    url: "/periodes_467.html"
+
+  - title: "Batalla de Talavera"
+    id: "465"
+    dataInici: "(1809-07-28)"
+    url: "/periodes_465.html"
+
+  - title: "Batalla de Ocaña"
+    id: "466"
+    dataInici: "(1809-11-19)"
+    url: "/periodes_466.html"
+
+  - title: "Batalla de Busaco"
+    id: "937"
+    dataInici: "(1810-09-27)"
+    url: "/periodes_937.html"
+
+  - title: "Ofensiva Aliada"
+    id: "674"
+    dataInici: "(1812-01-07)"
+    dataFi: "(1813-06-21)"
+    url: "/periodes_674.html"
+    children: inici
+
+  - title: "Batalla de los Arapiles"
+    id: "425"
+    dataInici: "(1812-07-22)"
+    url: "/periodes_425.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Quinta Coalición"
+    id: "622"
+    dataInici: "(1809)"
+    url: "/periodes_622.html"
+    children: inici
+
+  - title: "Batalla de Aspern-Essling"
+    id: "1013"
+    dataInici: "(1809-05-21)"
+    dataFi: "(1809-05-22)"
+    url: "/periodes_1013.html"
+
+  - title: "Batalla de Wagram"
+    id: "623"
+    dataInici: "(1809-07-05)"
+    dataFi: "(1809-07-06)"
+    url: "/periodes_623.html"
+
+
+  - children: final
+
+  - title: "Guerra de 1812"
+    id: "958"
+    dataInici: "(1812-06-18)"
+    dataFi: "(1815-02-17)"
+    url: "/periodes_958.html"
+
+  - title: "Invasión de Rusia"
+    id: "426"
+    dataInici: "(1812-06-23)"
+    dataFi: "(1812-12-14)"
+    url: "/periodes_426.html"
+    children: inici
+
+  - title: "Batalla de Borodinó"
+    id: "428"
+    dataInici: "(1812-07-07)"
+    url: "/periodes_428.html"
+
+  - title: "Batalla de Smolensk"
+    id: "427"
+    dataInici: "(1812-08-16)"
+    dataFi: "(1812-08-18)"
+    url: "/periodes_427.html"
+
+  - title: "Batalla de Krasnoi"
+    id: "776"
+    dataInici: "(1812-11-15)"
+    dataFi: "(1812-11-18)"
+    url: "/periodes_776.html"
+
+
+  - children: final
+
+  - title: "Sexta Coalición"
+    id: "741"
+    dataInici: "(1813-03)"
+    dataFi: "(1814-05)"
+    url: "/periodes_741.html"
+    children: inici
+
+  - title: "Batalla de Lützen"
+    id: "742"
+    dataInici: "(1813-05-02)"
+    url: "/periodes_742.html"
+
+  - title: "Batalla de Leipzig"
+    id: "1056"
+    dataInici: "(1813-10-16)"
+    dataFi: "(1813-10-19)"
+    url: "/periodes_1056.html"
+
+  - title: "Batalla de Craonne"
+    id: "850"
+    dataInici: "(1814-03-07)"
+    url: "/periodes_850.html"
+
+
+  - children: final
+
+  - title: "Cien Días"
+    id: "429"
+    dataInici: "(1815-03-20)"
+    dataFi: "(1815-06-28)"
+    url: "/periodes_429.html"
+    children: inici
+
+  - title: "Batalla de Ligny"
+    id: "740"
+    dataInici: "(1815-06-16)"
+    url: "/periodes_740.html"
+
+  - title: "Batalla de Quatre Bras"
+    id: "866"
+    dataInici: "(1815-06-16)"
+    url: "/periodes_866.html"
+
+  - title: "Batalla de Waterloo"
+    id: "430"
+    dataInici: "(1815-06-18)"
+    url: "/periodes_430.html"
+
+
+  - children: final
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Guerras de independencia hispanoamericanas"
+    id: "626"
+    dataInici: "(1810)"
+    dataFi: "(1833)"
+    url: "/periodes_626.html"
+
+  - title: "La Regencia Inglesa"
+    id: "662"
+    dataInici: "(1811)"
+    dataFi: "(1820)"
+    url: "/periodes_662.html"
+
+  - title: "Guerra de los Farrapos"
+    id: "796"
+    dataInici: "(1835-09-19)"
+    dataFi: "(1845-03-01)"
+    url: "/periodes_796.html"
+
+
+  - children: final
+
+  - title: "Frontera Estadounidense"
+    id: "829"
+    dataInici: "(1783)"
+    dataFi: "(1920)"
+    url: "/periodes_829.html"
+    children: inici
+
+  - title: "Indios de las llanuras"
+    id: "942"
+    dataInici: "(1750)"
+    dataFi: "(1890)"
+    url: "/periodes_942.html"
+    children: inici
+
+  - title: "Guerras Indias"
+    id: "903"
+    dataInici: "(1775)"
+    dataFi: "(1924)"
+    url: "/periodes_903.html"
+    children: inici
+
+  - title: "Batalla de Rosebud"
+    id: "933"
+    dataInici: "(1876-06-17)"
+    url: "/periodes_933.html"
+
+  - title: "Batalla de Little Big Horn"
+    id: "1018"
+    dataInici: "(1876-06-25)"
+    dataFi: "(1876-06-26)"
+    url: "/periodes_1018.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Expedición de Lewis y Clark"
+    id: "885"
+    dataInici: "(1804)"
+    dataFi: "(1806)"
+    url: "/periodes_885.html"
+
+  - title: "Revolución de Texas"
+    id: "956"
+    dataInici: "(1835-10-02)"
+    dataFi: "(1836-04-21)"
+    url: "/periodes_956.html"
+    children: inici
+
+  - title: "Batalla de El Álamo"
+    id: "957"
+    dataInici: "(1836-02-23)"
+    dataFi: "(1836-03-06)"
+    url: "/periodes_957.html"
+
+
+  - children: final
+
+  - title: "Guerra Mexicana"
+    id: "902"
+    dataInici: "(1846-04-25)"
+    dataFi: "(1848-02-03)"
+    url: "/periodes_902.html"
+
+  - title: "Guerra del Condado de Lincoln"
+    id: "830"
+    dataInici: "(1878-02-18)"
+    dataFi: "(1878-07-20)"
+    url: "/periodes_830.html"
+
+
+  - children: final
+
+  - title: "Risorgimento"
+    id: "895"
+    dataInici: "(1815)"
+    dataFi: "(1871)"
+    url: "/periodes_895.html"
+    children: inici
+
+  - title: "Primera Guerra de la Independencia"
+    id: "896"
+    dataInici: "(1848-03-23)"
+    dataFi: "(1849-03-24)"
+    url: "/periodes_896.html"
+    children: inici
+
+  - title: "Batalla de Novara"
+    id: "897"
+    dataInici: "(1849-03-22)"
+    dataFi: "(1849-03-23)"
+    url: "/periodes_897.html"
+
+
+  - children: final
+
+  - title: "Segunda Guerra de la Independencia"
+    id: "961"
+    dataInici: "(1859-04-29)"
+    dataFi: "(1859-07-11)"
+    url: "/periodes_961.html"
+    children: inici
+
+  - title: "Batalla de Solferino"
+    id: "962"
+    dataInici: "(1859-06-24)"
+    url: "/periodes_962.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Guerras Carlistas"
+    id: "388"
+    dataInici: "(1833)"
+    dataFi: "(1900)"
+    url: "/periodes_388.html"
+    children: inici
+
+  - title: "Primera Guerra Carlista"
+    id: "389"
+    dataInici: "(1833-10-02)"
+    dataFi: "(1840-07-06)"
+    url: "/periodes_389.html"
+    children: inici
+
+  - title: "Primera Batalla de Arquijas"
+    id: "390"
+    dataInici: "(1834-12-15)"
+    url: "/periodes_390.html"
+
+  - title: "Batalla de Luchana"
+    id: "391"
+    dataInici: "(1836-12-01)"
+    dataFi: "(1836-12-25)"
+    url: "/periodes_391.html"
+
+  - title: "Batalla de Oriamendi"
+    id: "392"
+    dataInici: "(1837-03-16)"
+    url: "/periodes_392.html"
+
+  - title: "Batalla de Barbastro"
+    id: "393"
+    dataInici: "(1837-06-02)"
+    url: "/periodes_393.html"
+
+  - title: "Batalla de Maella"
+    id: "394"
+    dataInici: "(1838-10-01)"
+    url: "/periodes_394.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Época Victoriana"
+    id: "471"
+    dataInici: "(1837)"
+    dataFi: "(1901)"
+    url: "/periodes_471.html"
+    children: inici
+
+  - title: "Invasión de Argelia"
+    id: "891"
+    dataInici: "(1830-06-14)"
+    dataFi: "(1830-07-07)"
+    url: "/periodes_891.html"
+
+  - title: "El Gran Juego"
+    id: "490"
+    dataInici: "(1837)"
+    dataFi: "(1907)"
+    url: "/periodes_490.html"
+
+  - title: "Rebelión Taiping"
+    id: "464"
+    dataInici: "(1850-12-01)"
+    dataFi: "(1864-11-18)"
+    url: "/periodes_464.html"
+
+  - title: "Guerra de Crimea"
+    id: "576"
+    dataInici: "(1853-10-16)"
+    dataFi: "(1856-03-30)"
+    url: "/periodes_576.html"
+    children: inici
+
+  - title: "Batalla del río Alma"
+    id: "934"
+    dataInici: "(1854-09-20)"
+    url: "/periodes_934.html"
+
+  - title: "Sitio de Sebastopol"
+    id: "577"
+    dataInici: "(1854-10-17)"
+    dataFi: "(1855-09-09)"
+    url: "/periodes_577.html"
+
+  - title: "Batalla de Balaclava"
+    id: "935"
+    dataInici: "(1854-10-25)"
+    url: "/periodes_935.html"
+
+  - title: "Batalla de Inkerman"
+    id: "936"
+    dataInici: "(1854-11-05)"
+    url: "/periodes_936.html"
+
+  - title: "Batalla del río Chernaya"
+    id: "959"
+    dataInici: "(1855-08-16)"
+    url: "/periodes_959.html"
+
+
+  - children: final
+
+  - title: "Guerras Sioux"
+    id: "827"
+    dataInici: "(1854)"
+    dataFi: "(1891)"
+    url: "/periodes_827.html"
+    children: inici
+
+  - title: "Guerra de Nube Roja"
+    id: "828"
+    dataInici: "(1866)"
+    dataFi: "(1868)"
+    url: "/periodes_828.html"
+
+
+  - children: final
+
+  - title: "Guerra de África"
+    id: "433"
+    dataInici: "(1859-10-22)"
+    dataFi: "(1860-04-26)"
+    url: "/periodes_433.html"
+    children: inici
+
+  - title: "Batalla de los Castillejos"
+    id: "434"
+    dataInici: "(1860-01-01)"
+    url: "/periodes_434.html"
+
+  - title: "Batalla de Tetuán"
+    id: "436"
+    dataInici: "(1860-02-04)"
+    url: "/periodes_436.html"
+
+  - title: "Batalla de Wad-Ras"
+    id: "435"
+    dataInici: "(1860-03-23)"
+    url: "/periodes_435.html"
+
+
+  - children: final
+
+  - title: "Guerra de Secesión Americana"
+    id: "321"
+    dataInici: "(1861-04-12)"
+    dataFi: "(1865-04-09)"
+    url: "/periodes_321.html"
+    children: inici
+
+  - title: "Campaña de Manassas"
+    id: "833"
+    dataInici: "(1861-06-15)"
+    dataFi: "(1861-07-21)"
+    url: "/periodes_833.html"
+    children: inici
+
+  - title: "Primera Batalla de Bull Run"
+    id: "685"
+    dataInici: "(1861-07-21)"
+    url: "/periodes_685.html"
+
+
+  - children: final
+
+  - title: "Campaña del Valle de Shenandoah"
+    id: "836"
+    dataInici: "(1862-03)"
+    dataFi: "(1862-06)"
+    url: "/periodes_836.html"
+    children: inici
+
+  - title: "Batalla de Kernstown"
+    id: "837"
+    dataInici: "(1862-03-23)"
+    url: "/periodes_837.html"
+
+
+  - children: final
+
+  - title: "Batalla de Pea Ridge"
+    id: "835"
+    dataInici: "(1862-03-07)"
+    dataFi: "(1862-03-08)"
+    url: "/periodes_835.html"
+
+  - title: "Batalla de Shiloh"
+    id: "838"
+    dataInici: "(1862-04-06)"
+    dataFi: "(1862-04-07)"
+    url: "/periodes_838.html"
+
+  - title: "Batalla de Gaines Mill"
+    id: "839"
+    dataInici: "(1862-06-27)"
+    url: "/periodes_839.html"
+
+  - title: "Segunda Batalla de Bull Run"
+    id: "840"
+    dataInici: "(1862-08-28)"
+    dataFi: "(1862-08-30)"
+    url: "/periodes_840.html"
+
+  - title: "Batalla de Antietam"
+    id: "841"
+    dataInici: "(1862-09-17)"
+    url: "/periodes_841.html"
+
+  - title: "Batalla de Fredericksburg"
+    id: "842"
+    dataInici: "(1862-12-11)"
+    dataFi: "(1862-12-15)"
+    url: "/periodes_842.html"
+
+  - title: "Segunda Batalla de Murfreesboro"
+    id: "843"
+    dataInici: "(1862-12-31)"
+    dataFi: "(1863-01-02)"
+    url: "/periodes_843.html"
+
+  - title: "Batalla de Chancellorsville"
+    id: "844"
+    dataInici: "(1863-04-30)"
+    dataFi: "(1863-05-06)"
+    url: "/periodes_844.html"
+
+  - title: "Invasión de Pensilvania"
+    id: "834"
+    dataInici: "(1863-06-03)"
+    dataFi: "(1863-07-24)"
+    url: "/periodes_834.html"
+    children: inici
+
+  - title: "Batalla de Gettysburg"
+    id: "798"
+    dataInici: "(1863-07-01)"
+    dataFi: "(1863-07-03)"
+    url: "/periodes_798.html"
+
+
+  - children: final
+
+  - title: " 43.er Batallón de Caballería de Virginia"
+    id: "468"
+    dataInici: "(1863-06-10)"
+    dataFi: "(1865-04-21)"
+    url: "/periodes_468.html"
+
+  - title: "Batalla de Honey Springs"
+    id: "1017"
+    dataInici: "(1863-07-17)"
+    url: "/periodes_1017.html"
+
+  - title: "Batalla de Chickamauga"
+    id: "845"
+    dataInici: "(1863-09-18)"
+    dataFi: "(1863-09-20)"
+    url: "/periodes_845.html"
+
+  - title: "Campaña de Vicksburg"
+    id: "370"
+    dataInici: "(1863-12-29)"
+    dataFi: "(1863-07-04)"
+    url: "/periodes_370.html"
+
+  - title: "Batalla de New Market"
+    id: "846"
+    dataInici: "(1864-05-15)"
+    url: "/periodes_846.html"
+
+  - title: "Batalla de New Hope Church"
+    id: "847"
+    dataInici: "(1864-05-25)"
+    dataFi: "(1864-05-26)"
+    url: "/periodes_847.html"
+
+  - title: "Batalla de Bentonville"
+    id: "867"
+    dataInici: "(1865-03-19)"
+    dataFi: "(1865-03-21)"
+    url: "/periodes_867.html"
+
+
+  - children: final
+
+  - title: "Intervención Francesa en México"
+    id: "751"
+    dataInici: "(1861-12-08)"
+    dataFi: "(1867-06-21)"
+    url: "/periodes_751.html"
+    children: inici
+
+  - title: "Batalla de Camarón"
+    id: "752"
+    dataInici: "(1863-04-30)"
+    url: "/periodes_752.html"
+
+
+  - children: final
+
+  - title: "Guerra austro-prusiana"
+    id: "360"
+    dataInici: "(1866-06-14)"
+    dataFi: "(1866-08-23)"
+    url: "/periodes_360.html"
+    children: inici
+
+  - title: "Batalla de Sadowa"
+    id: "361"
+    dataInici: "(1866-07-03)"
+    url: "/periodes_361.html"
+
+
+  - children: final
+
+  - title: "Guerra franco-prusiana"
+    id: "831"
+    dataInici: "(1870-07-19)"
+    dataFi: "(1871-01-28)"
+    url: "/periodes_831.html"
+    children: inici
+
+  - title: "Batalla de Mars-la-Tour"
+    id: "963"
+    dataInici: "(1870-08-16)"
+    url: "/periodes_963.html"
+
+
+  - children: final
+
+  - title: "Porfiriato"
+    id: "658"
+    dataInici: "(1877-05-05)"
+    dataFi: "(1911-05-25)"
+    url: "/periodes_658.html"
+
+  - title: "Guerra del Pacífico"
+    id: "1002"
+    dataInici: "(1879)"
+    dataFi: "(1884)"
+    url: "/periodes_1002.html"
+
+  - title: "Guerra anglo-zulú"
+    id: "511"
+    dataInici: "(1879-01-11)"
+    dataFi: "(1879-07-04)"
+    url: "/periodes_511.html"
+    children: inici
+
+  - title: "Batalla de Isandhlwana"
+    id: "512"
+    dataInici: "(1879-01-22)"
+    url: "/periodes_512.html"
+
+  - title: "Batalla de Rorke's Drift"
+    id: "1004"
+    dataInici: "(1879-01-22)"
+    dataFi: "(1879-01-23)"
+    url: "/periodes_1004.html"
+
+
+  - children: final
+
+  - title: "Guerras de los Bóeres"
+    id: "365"
+    dataInici: "(1880)"
+    dataFi: "(1902)"
+    url: "/periodes_365.html"
+    children: inici
+
+  - title: "Guerra de Transvaal"
+    id: "366"
+    dataInici: "(1880-12-16)"
+    dataFi: "(1881-05-23)"
+    url: "/periodes_366.html"
+
+  - title: "Segunda Guerra Bóer"
+    id: "367"
+    dataInici: "(1899-10-11)"
+    dataFi: "(1902-05-31)"
+    url: "/periodes_367.html"
+
+
+  - children: final
+
+  - title: "Guerra Mahdista"
+    id: "513"
+    dataInici: "(1881)"
+    dataFi: "(1899)"
+    url: "/periodes_513.html"
+    children: inici
+
+  - title: "Asedio de Jartum"
+    id: "948"
+    dataInici: "(1884-03-13)"
+    dataFi: "(1885-01-26)"
+    url: "/periodes_948.html"
+
+  - title: "Batalla de Agordat"
+    id: "1007"
+    dataInici: "(1890-06-27)"
+    url: "/periodes_1007.html"
+
+  - title: "Batalla de Agordat"
+    id: "1006"
+    dataInici: "(1893-12-21)"
+    url: "/periodes_1006.html"
+
+  - title: "Batalla de Omdurmán"
+    id: "514"
+    dataInici: "(1898-07-02)"
+    url: "/periodes_514.html"
+
+
+  - children: final
+
+  - title: "Conflicto de Tonkín"
+    id: "893"
+    dataInici: "(1884-08)"
+    dataFi: "(1885-04)"
+    url: "/periodes_893.html"
+
+  - title: "Segunda Guerra Franco-Dahomey"
+    id: "892"
+    dataInici: "(1892-07-04)"
+    dataFi: "(1894-01-15)"
+    url: "/periodes_892.html"
+
+  - title: "Primera Guerra Sino-Japonesa"
+    id: "715"
+    dataInici: "(1894-07-25)"
+    dataFi: "(1895-04-17)"
+    url: "/periodes_715.html"
+    children: inici
+
+  - title: "Batalla del Río Yalu"
+    id: "716"
+    dataInici: "(1894-09-17)"
+    url: "/periodes_716.html"
+
+
+  - children: final
+
+  - title: "Guerra de Independencia cubana"
+    id: "381"
+    dataInici: "(1895-02-24)"
+    dataFi: "(1898-08-12)"
+    url: "/periodes_381.html"
+    children: inici
+
+  - title: "Guerra de Cuba"
+    id: "690"
+    dataInici: "(1898-04-21)"
+    dataFi: "(1898-08-12)"
+    url: "/periodes_690.html"
+    children: inici
+
+  - title: "Batalla de Cavite"
+    id: "691"
+    dataInici: "(1898-05-01)"
+    url: "/periodes_691.html"
+
+  - title: "Batalla naval de Santiago de Cuba"
+    id: "717"
+    dataInici: "(1898-07-03)"
+    url: "/periodes_717.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Revolución Filipina"
+    id: "323"
+    dataInici: "(1896)"
+    dataFi: "(1898)"
+    url: "/periodes_323.html"
+    children: inici
+
+  - title: "Guerra de Cuba"
+    id: "690"
+    dataInici: "(1898-04-21)"
+    dataFi: "(1898-08-12)"
+    url: "/periodes_690.html"
+    children: inici
+
+  - title: "Batalla de Cavite"
+    id: "691"
+    dataInici: "(1898-05-01)"
+    url: "/periodes_691.html"
+
+  - title: "Batalla naval de Santiago de Cuba"
+    id: "717"
+    dataInici: "(1898-07-03)"
+    url: "/periodes_717.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Guerra de Cuba"
+    id: "690"
+    dataInici: "(1898-04-21)"
+    dataFi: "(1898-08-12)"
+    url: "/periodes_690.html"
+    children: inici
+
+  - title: "Batalla de Cavite"
+    id: "691"
+    dataInici: "(1898-05-01)"
+    url: "/periodes_691.html"
+
+  - title: "Batalla naval de Santiago de Cuba"
+    id: "717"
+    dataInici: "(1898-07-03)"
+    url: "/periodes_717.html"
+
+
+  - children: final
+
+  - title: "Guerra filipino-estadounidense"
+    id: "324"
+    dataInici: "(1899-02-04)"
+    dataFi: "(1902-04-16)"
+    url: "/periodes_324.html"
+
+  - title: "Guerra ruso-japonesa"
+    id: "520"
+    dataInici: "(1904-02-08)"
+    dataFi: "(1905-09-05)"
+    url: "/periodes_520.html"
+    children: inici
+
+  - title: "Batalla de Mukden"
+    id: "964"
+    dataInici: "(1905-02-20)"
+    dataFi: "(1905-03-10)"
+    url: "/periodes_964.html"
+
+  - title: "Batalla de Tsushima"
+    id: "718"
+    dataInici: "(1905-05-27)"
+    dataFi: "(1905-05-28)"
+    url: "/periodes_718.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Era Meiji"
+    id: "880"
+    dataInici: "(1868-10-23)"
+    dataFi: "(1912-07-30)"
+    url: "/periodes_880.html"
+    children: inici
+
+  - title: "Restauración Meiji"
+    id: "881"
+    dataInici: "(1868-01-03)"
+    url: "/periodes_881.html"
+
+  - title: "Guerra Boshin"
+    id: "879"
+    dataInici: "(1868-01-27)"
+    dataFi: "(1869-06-27)"
+    url: "/periodes_879.html"
+
+
+  - children: final
+
+  - title: "Primera Guerra Ítalo-Etíope"
+    id: "1008"
+    dataInici: "(1894-12-15)"
+    dataFi: "(1896-10-23)"
+    url: "/periodes_1008.html"
+    children: inici
+
+  - title: "Batalla de Gallabat"
+    id: "1011"
+    dataInici: "(1889-03-09)"
+    dataFi: "(1889-03-10)"
+    url: "/periodes_1011.html"
+
+  - title: "Batalla de Coatit"
+    id: "1009"
+    dataInici: "(1895-01-13)"
+    url: "/periodes_1009.html"
+
+  - title: "Batalla de Amba Alagi"
+    id: "1010"
+    dataInici: "(1895-12-07)"
+    url: "/periodes_1010.html"
+
+  - title: "Batalla de Adwa"
+    id: "1012"
+    dataInici: "(1896-03-01)"
+    url: "/periodes_1012.html"
+
+
+  - children: final
+
+  - title: "Expediciones al Polo Sur"
+    id: "901"
+    dataInici: "(1910-06)"
+    dataFi: "(1912-01)"
+    url: "/periodes_901.html"
+
+  - title: "1914-1945"
+    id: "472"
+    dataInici: "(1914)"
+    dataFi: "(1945)"
+    url: "/periodes_472.html"
+    children: inici
+
+  - title: "Primera Guerra Mundial"
+    id: "310"
+    dataInici: "(1914-07-28)"
+    dataFi: "(1918-11-11)"
+    url: "/periodes_310.html"
+    children: inici
+
+  - title: "Mar del Norte"
+    id: "806"
+    dataInici: "(1914)"
+    dataFi: "(1918)"
+    url: "/periodes_806.html"
+    children: inici
+
+  - title: "Batalla de Jutlandia"
+    id: "807"
+    dataInici: "(1916-05-31)"
+    dataFi: "(1916-06-01)"
+    url: "/periodes_807.html"
+
+
+  - children: final
+
+  - title: "Combates aéreos"
+    id: "629"
+    dataInici: "(1914-07-28)"
+    dataFi: "(1918-11-11)"
+    url: "/periodes_629.html"
+
+  - title: "Frente Africano"
+    id: "965"
+    dataInici: "(1914-08-03)"
+    dataFi: "(1918-11-23)"
+    url: "/periodes_965.html"
+    children: inici
+
+  - title: "Campaña de Togolandia"
+    id: "966"
+    dataInici: "(1914-08-09)"
+    dataFi: "(1914-08-26)"
+    url: "/periodes_966.html"
+
+  - title: "Batalla de Jassin"
+    id: "970"
+    dataInici: "(1915-01-18)"
+    dataFi: "(1915-01-19)"
+    url: "/periodes_970.html"
+
+
+  - children: final
+
+  - title: "Frente Occidental"
+    id: "311"
+    dataInici: "(1914-08-04)"
+    dataFi: "(1918-11-11)"
+    url: "/periodes_311.html"
+    children: inici
+
+  - title: "Ofensiva de 1914"
+    id: "313"
+    dataInici: "(1914-08-04)"
+    dataFi: "(1914-11-22)"
+    url: "/periodes_313.html"
+    children: inici
+
+  - title: "Batalla de las Fronteras"
+    id: "312"
+    dataInici: "(1914-08-07)"
+    dataFi: "(1914-09-06)"
+    url: "/periodes_312.html"
+    children: inici
+
+  - title: "Batalla de Rossignol"
+    id: "797"
+    dataInici: "(1914-08-22)"
+    url: "/periodes_797.html"
+
+  - title: "Batalla de Mons"
+    id: "967"
+    dataInici: "(1914-08-23)"
+    url: "/periodes_967.html"
+
+
+  - children: final
+
+  - title: "Carrera al Mar"
+    id: "314"
+    dataInici: "(1914-10-17)"
+    dataFi: "(1914-10-19)"
+    url: "/periodes_314.html"
+    children: inici
+
+  - title: "Primera batalla de Ypres"
+    id: "969"
+    dataInici: "(1914-10-19)"
+    dataFi: "(1914-11-22)"
+    url: "/periodes_969.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Primera Batalla del Marne"
+    id: "431"
+    dataInici: "(1914-09-06)"
+    dataFi: "(1914-09-12)"
+    url: "/periodes_431.html"
+
+  - title: "Guerra de Trincheras"
+    id: "432"
+    dataInici: "(1914-10-19)"
+    dataFi: "(1918-03-21)"
+    url: "/periodes_432.html"
+    children: inici
+
+  - title: "Batalla de Ypres"
+    id: "971"
+    dataInici: "(1915-04-22)"
+    dataFi: "(1915-05-25)"
+    url: "/periodes_971.html"
+
+  - title: "Batalla de Verdún"
+    id: "519"
+    dataInici: "(1916-02-21)"
+    dataFi: "(1916-12-19)"
+    url: "/periodes_519.html"
+
+  - title: "Batalla del Somme"
+    id: "973"
+    dataInici: "(1916-07-01)"
+    dataFi: "(1916-11-18)"
+    url: "/periodes_973.html"
+
+  - title: "Batalla de Arrás"
+    id: "974"
+    dataInici: "(1917-04-09)"
+    dataFi: "(1917-05-16)"
+    url: "/periodes_974.html"
+    children: inici
+
+  - title: "La cresta de Vimy"
+    id: "975"
+    dataInici: "(1917-04-09)"
+    dataFi: "(1917-04-17)"
+    url: "/periodes_975.html"
+
+
+  - children: final
+
+  - title: "Batalla de Cambrai"
+    id: "976"
+    dataInici: "(1917-11-20)"
+    dataFi: "(1917-12-07)"
+    url: "/periodes_976.html"
+
+
+  - children: final
+
+  - title: "Ofensiva de Primavera"
+    id: "743"
+    dataInici: "(1918-03-21)"
+    dataFi: "(1918-07-18)"
+    url: "/periodes_743.html"
+    children: inici
+
+  - title: "Operación Michael"
+    id: "763"
+    dataInici: "(1918-03-21)"
+    dataFi: "(1918-04-05)"
+    url: "/periodes_763.html"
+
+  - title: "Batalla of Villers-Bretonneux"
+    id: "764"
+    dataInici: "(1918-04-24)"
+    dataFi: "(1918-04-25)"
+    url: "/periodes_764.html"
+
+  - title: "Batalla del bosque de Belleau"
+    id: "977"
+    dataInici: "(1918-06-01)"
+    dataFi: "(1918-06-26)"
+    url: "/periodes_977.html"
+
+  - title: "Batalla de Matz"
+    id: "744"
+    dataInici: "(1918-06-09)"
+    dataFi: "(1918-06-12)"
+    url: "/periodes_744.html"
+
+  - title: "Segunda batalla del Marne"
+    id: "863"
+    dataInici: "(1918-07-15)"
+    dataFi: "(1918-08-06)"
+    url: "/periodes_863.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Frente Oriental"
+    id: "649"
+    dataInici: "(1914-08-12)"
+    dataFi: "(1918-03-03)"
+    url: "/periodes_649.html"
+    children: inici
+
+  - title: "Batalla de Galitzia"
+    id: "968"
+    dataInici: "(1914-08-23)"
+    dataFi: "(1914-09-11)"
+    url: "/periodes_968.html"
+
+  - title: "Batalla de Tannenberg"
+    id: "650"
+    dataInici: "(1914-08-26)"
+    dataFi: "(1914-08-30)"
+    url: "/periodes_650.html"
+
+  - title: "Ofensiva Brusílov"
+    id: "972"
+    dataInici: "(1916-06-04)"
+    dataFi: "(1916-09-20)"
+    url: "/periodes_972.html"
+
+
+  - children: final
+
+  - title: "Frente del Oriente Próximo"
+    id: "494"
+    dataInici: "(1914-10-24)"
+    dataFi: "(1918-10-30)"
+    url: "/periodes_494.html"
+
+  - title: "Frente Italiano"
+    id: "1036"
+    dataInici: "(1915-05-23)"
+    dataFi: "(1918-11-06)"
+    url: "/periodes_1036.html"
+    children: inici
+
+  - title: "Batalla de Caporetto"
+    id: "1037"
+    dataInici: "(1917-10-24)"
+    dataFi: "(1917-11-19)"
+    url: "/periodes_1037.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Revolución Rusa"
+    id: "663"
+    dataInici: "(1917-03-08)"
+    dataFi: "(917-11-08)"
+    url: "/periodes_663.html"
+
+  - title: "Guerra Civil Rusa"
+    id: "414"
+    dataInici: "(1917-11-07)"
+    dataFi: "(1922-10-25)"
+    url: "/periodes_414.html"
+    children: inici
+
+  - title: "Batalla de Orel"
+    id: "702"
+    dataInici: "(1919-10-11)"
+    dataFi: "(1919-11-18)"
+    url: "/periodes_702.html"
+
+  - title: "Asalto a Petrogrado"
+    id: "762"
+    dataInici: "(1919-10-16)"
+    dataFi: "(1919-11-14)"
+    url: "/periodes_762.html"
+
+  - title: "Guerra Polaco-Soviética"
+    id: "978"
+    dataInici: "(21919-14)"
+    dataFi: "(1921-03-18)"
+    url: "/periodes_978.html"
+
+
+  - children: final
+
+  - title: "Período de entreguerras"
+    id: "651"
+    dataInici: "(1918-11-11)"
+    dataFi: "(1939-09-01)"
+    url: "/periodes_651.html"
+    children: inici
+
+  - title: "Guerra del Rif"
+    id: "793"
+    dataInici: "(1911-06-08)"
+    dataFi: "(1927-05-27)"
+    url: "/periodes_793.html"
+
+  - title: "Años 20"
+    id: "652"
+    dataInici: "(1918-11-11)"
+    dataFi: "(1929-10-29)"
+    url: "/periodes_652.html"
+    children: inici
+
+  - title: "Expedición de Percy Fawcett"
+    id: "661"
+    dataInici: "(1921)"
+    dataFi: "(1925)"
+    url: "/periodes_661.html"
+
+
+  - children: final
+
+  - title: "Guerra de Independencia Turca"
+    id: "1003"
+    dataInici: "(1919-05-19)"
+    dataFi: "(1922-10-11)"
+    url: "/periodes_1003.html"
+    children: inici
+
+  - title: "Batalla de Sakarya"
+    id: "1021"
+    dataInici: "(1921-08-23)"
+    dataFi: "(1921-09-13)"
+    url: "/periodes_1021.html"
+
+
+  - children: final
+
+  - title: "Conflictos sino-soviéticos"
+    id: "981"
+    dataInici: "(1929-07-22)"
+    dataFi: "(1929-09-09)"
+    url: "/periodes_981.html"
+
+  - title: "Gran Depresión"
+    id: "653"
+    dataInici: "(1929-10-29)"
+    dataFi: "(1939-09-01)"
+    url: "/periodes_653.html"
+
+  - title: "Guerras fronterizas sino-soviéticas"
+    id: "982"
+    dataInici: "(1932)"
+    dataFi: "(1939)"
+    url: "/periodes_982.html"
+    children: inici
+
+  - title: "Batalla del Lago Jasán"
+    id: "983"
+    dataInici: "(1938-07-29)"
+    dataFi: "(1938-08-11)"
+    url: "/periodes_983.html"
+
+  - title: "Batalla de Jaljin Gol"
+    id: "811"
+    dataInici: "(1939-05-11)"
+    dataFi: "(1939-09-16)"
+    url: "/periodes_811.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Guerra civil española"
+    id: "24"
+    dataInici: "(1936-07-17)"
+    dataFi: "(1939-04-01)"
+    url: "/periodes_24.html"
+    children: inici
+
+  - title: "Campaña de Extremadura"
+    id: "832"
+    dataInici: "(1936-08-03)"
+    dataFi: "(1936-08-28)"
+    url: "/periodes_832.html"
+
+  - title: "Batalla del Jarama"
+    id: "667"
+    dataInici: "(1937-02-06)"
+    dataFi: "(1937-02-27)"
+    url: "/periodes_667.html"
+
+  - title: "Batalla de Guadalajara"
+    id: "668"
+    dataInici: "(1937-03-08)"
+    dataFi: "(1937-03-23)"
+    url: "/periodes_668.html"
+
+  - title: "Campaña de Vizcaya"
+    id: "359"
+    dataInici: "(1937-03-31)"
+    dataFi: "(1937-07-01)"
+    url: "/periodes_359.html"
+
+  - title: "Batalla de Brunete"
+    id: "666"
+    dataInici: "(1937-07-06)"
+    dataFi: "(1937-07-25)"
+    url: "/periodes_666.html"
+
+  - title: "Batalla del Ebro"
+    id: "703"
+    dataInici: "(1938-07-25)"
+    dataFi: "(1938-11-16)"
+    url: "/periodes_703.html"
+
+  - title: "Batalla de Valsequillo"
+    id: "669"
+    dataInici: "(1939-01-05)"
+    dataFi: "(1939-02-04)"
+    url: "/periodes_669.html"
+
+
+  - children: final
+
+  - title: "Segunda Guerra Mundial"
+    id: "347"
+    dataInici: "(1939-09-01)"
+    dataFi: "(1945-09-02)"
+    url: "/periodes_347.html"
+    children: inici
+
+  - title: "Asia"
+    id: "355"
+    dataInici: "(1937-07-07)"
+    dataFi: "(1945-09-09)"
+    url: "/periodes_355.html"
+    children: inici
+
+  - title: "Segunda Guerra sino-japonesa"
+    id: "542"
+    dataInici: "(1937-17-07)"
+    dataFi: "(1945-09-09)"
+    url: "/periodes_542.html"
+    children: inici
+
+  - title: "Batalla de Shanghái"
+    id: "755"
+    dataInici: "(1937-08-13)"
+    dataFi: "(1937-11-26)"
+    url: "/periodes_755.html"
+    children: inici
+
+  - title: "Defensa del almacen Sihang"
+    id: "756"
+    dataInici: "(1937-10-26)"
+    dataFi: "(1937-11-01)"
+    url: "/periodes_756.html"
+
+
+  - children: final
+
+  - title: "Batalla de Taierzhuang"
+    id: "984"
+    dataInici: "(1938-03-24)"
+    dataFi: "(1938-04-07)"
+    url: "/periodes_984.html"
+
+  - title: "Batalla del Paso de Kunlun"
+    id: "543"
+    dataInici: "(1939-12-18)"
+    dataFi: "(1940-01-11)"
+    url: "/periodes_543.html"
+
+  - title: "Batalla de Changde"
+    id: "760"
+    dataInici: "(1943-11-02)"
+    dataFi: "(1943-12-20)"
+    url: "/periodes_760.html"
+
+
+  - children: final
+
+  - title: "Guerra Anglo-iraquí"
+    id: "898"
+    dataInici: "(1941-05-02)"
+    dataFi: "(1941-05-31)"
+    url: "/periodes_898.html"
+
+  - title: "Guerra del Pacífico"
+    id: "356"
+    dataInici: "(1941-12-07)"
+    dataFi: "(1945-08-14)"
+    url: "/periodes_356.html"
+    children: inici
+
+  - title: "Batalla de la Isla de Wake"
+    id: "990"
+    dataInici: "(1941-12-08)"
+    dataFi: "(1941-12-23)"
+    url: "/periodes_990.html"
+
+  - title: "Campaña de Malasia"
+    id: "810"
+    dataInici: "(1941-12-08)"
+    dataFi: "(1942-01-31)"
+    url: "/periodes_810.html"
+
+  - title: "Conquista de Filipinas"
+    id: "1014"
+    dataInici: "(1941-12-08)"
+    dataFi: "(1942-06-09)"
+    url: "/periodes_1014.html"
+
+  - title: "Batalla del Mar del Coral"
+    id: "643"
+    dataInici: "(1942-05-04)"
+    dataFi: "(1942-05-08)"
+    url: "/periodes_643.html"
+
+  - title: "Campaña de las Islas Aleutianas"
+    id: "928"
+    dataInici: "(1942-06-03)"
+    dataFi: "(1943-08-15)"
+    url: "/periodes_928.html"
+
+  - title: "Batalla de Midway"
+    id: "357"
+    dataInici: "(1942-06-04)"
+    dataFi: "(1942-06-07)"
+    url: "/periodes_357.html"
+
+  - title: "Campaña de Guadalcanal"
+    id: "644"
+    dataInici: "(1942-08-07)"
+    dataFi: "(1943-02-09)"
+    url: "/periodes_644.html"
+    children: inici
+
+  - title: "Batalla de las Salomón Orientales"
+    id: "645"
+    dataInici: "(1942-08-24)"
+    dataFi: "(1942-08-25)"
+    url: "/periodes_645.html"
+
+  - title: "Batalla de la cresta Edson"
+    id: "992"
+    dataInici: "(1942-09-12)"
+    dataFi: "(1942-09-14)"
+    url: "/periodes_992.html"
+
+  - title: "Batalla de las Islas Santa Cruz"
+    id: "646"
+    dataInici: "(1942-10-25)"
+    dataFi: "(1942-10-27)"
+    url: "/periodes_646.html"
+
+  - title: "Batalla Naval de Guadalcanal"
+    id: "647"
+    dataInici: "(1942-11-12)"
+    dataFi: "(1942-11-15)"
+    url: "/periodes_647.html"
+
+
+  - children: final
+
+  - title: "Batalla de Tarawa"
+    id: "900"
+    dataInici: "(1943-11-20)"
+    dataFi: "(1943-11-23)"
+    url: "/periodes_900.html"
+
+  - title: "Campaña de las islas Marianas y Palao"
+    id: "861"
+    dataInici: "(1944-06)"
+    dataFi: "(1944-11)"
+    url: "/periodes_861.html"
+    children: inici
+
+  - title: "Batalla de Peleliu"
+    id: "860"
+    dataInici: "(1944-09-15)"
+    dataFi: "(1944-11-27)"
+    url: "/periodes_860.html"
+
+
+  - children: final
+
+  - title: "Batalla de Saipán"
+    id: "994"
+    dataInici: "(1944-06-15)"
+    dataFi: "(1944-07-09)"
+    url: "/periodes_994.html"
+
+  - title: "Batalla de Iwo Jima"
+    id: "862"
+    dataInici: "(1945-02-19)"
+    dataFi: "(1945-03-26)"
+    url: "/periodes_862.html"
+
+  - title: "Batalla de Okinawa"
+    id: "995"
+    dataInici: "(1945-04-01)"
+    dataFi: "(1945-06-22)"
+    url: "/periodes_995.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Europa / África"
+    id: "348"
+    dataInici: "(1939-09-01)"
+    dataFi: "(1945-05-07)"
+    url: "/periodes_348.html"
+    children: inici
+
+  - title: "Frente Occidental"
+    id: "349"
+    dataInici: "(1939-09-01)"
+    dataFi: "(1945-05-07)"
+    url: "/periodes_349.html"
+    children: inici
+
+  - title: "Batalla del Atlántico"
+    id: "642"
+    dataInici: "(1939-09-03)"
+    dataFi: "(1945-05-08)"
+    url: "/periodes_642.html"
+
+  - title: "Batalla de Francia"
+    id: "670"
+    dataInici: "(1940-05-10)"
+    dataFi: "(1940-06-25)"
+    url: "/periodes_670.html"
+    children: inici
+
+  - title: "Batalla de Hannut"
+    id: "747"
+    dataInici: "(1940-05-12)"
+    dataFi: "(1940-05-14)"
+    url: "/periodes_747.html"
+
+  - title: "Batalla de Sedán"
+    id: "671"
+    dataInici: "(1940-05-12)"
+    dataFi: "(1940-05-15)"
+    url: "/periodes_671.html"
+
+  - title: "Batalla de Stonne"
+    id: "748"
+    dataInici: "(1940-05-15)"
+    dataFi: "(1940-05-17)"
+    url: "/periodes_748.html"
+
+  - title: "Batalla de Arrás"
+    id: "758"
+    dataInici: "(1940-05-21)"
+    url: "/periodes_758.html"
+
+  - title: "Batalla de Abbeville"
+    id: "676"
+    dataInici: "(1940-05-27)"
+    dataFi: "(1940-06-04)"
+    url: "/periodes_676.html"
+
+
+  - children: final
+
+  - title: "Batalla de Inglaterra"
+    id: "704"
+    dataInici: "(1940-07-10)"
+    dataFi: "(1940-10-31)"
+    url: "/periodes_704.html"
+
+  - title: "Operación Chariot"
+    id: "495"
+    dataInici: "(1942-03-28)"
+    url: "/periodes_495.html"
+
+  - title: "Liberación de Europa"
+    id: "822"
+    dataInici: "(1944-06-06)"
+    dataFi: "(1945-05-07)"
+    url: "/periodes_822.html"
+    children: inici
+
+  - title: "Operación Overlord"
+    id: "382"
+    dataInici: "(1944-06-06)"
+    dataFi: "(1944-08-30)"
+    url: "/periodes_382.html"
+    children: inici
+
+  - title: "Invasión de Normandía"
+    id: "664"
+    dataInici: "(1944-06-06)"
+    dataFi: "(1944-06-30)"
+    url: "/periodes_664.html"
+    children: inici
+
+  - title: "Día D"
+    id: "383"
+    dataInici: "(1944-06-06)"
+    url: "/periodes_383.html"
+    children: inici
+
+  - title: "Operaciones aerotransportadas"
+    id: "899"
+    dataInici: "(1944-06-05)"
+    dataFi: "(1944-06-06)"
+    url: "/periodes_899.html"
+
+  - title: "Playa de Omaha"
+    id: "384"
+    dataInici: "(1944-06-06)"
+    url: "/periodes_384.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "La bolsa de Falaise"
+    id: "857"
+    dataInici: "(1944-08-12)"
+    dataFi: "(1944-08-21)"
+    url: "/periodes_857.html"
+
+
+  - children: final
+
+  - title: "Operación Dragoon"
+    id: "766"
+    dataInici: "(1944-08-15)"
+    dataFi: "(1944-09-14)"
+    url: "/periodes_766.html"
+
+  - title: "Operación Market Garden"
+    id: "695"
+    dataInici: "(1944-09-17)"
+    dataFi: "(1944-09-25)"
+    url: "/periodes_695.html"
+
+  - title: "Batalla de Aquisgrán"
+    id: "675"
+    dataInici: "(1944-10-02)"
+    dataFi: "(1944-10-21)"
+    url: "/periodes_675.html"
+
+  - title: "Batalla de las Ardenas"
+    id: "659"
+    dataInici: "(1944-12-16)"
+    dataFi: "(1945-01-25)"
+    url: "/periodes_659.html"
+    children: inici
+
+  - title: "Asedio de Bastoña"
+    id: "757"
+    dataInici: "(1944-12-18)"
+    dataFi: "(1944-12-27)"
+    url: "/periodes_757.html"
+
+
+  - children: final
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Frente Oriental"
+    id: "350"
+    dataInici: "(1939-09-01)"
+    dataFi: "(1945-05-07)"
+    url: "/periodes_350.html"
+    children: inici
+
+  - title: "Invasión de Polonia"
+    id: "823"
+    dataInici: "(1939-09-01)"
+    dataFi: "(1939-10-06)"
+    url: "/periodes_823.html"
+    children: inici
+
+  - title: "Batalla de Westerplatte"
+    id: "824"
+    dataInici: "(1939-09-01)"
+    dataFi: "(1939-09-07)"
+    url: "/periodes_824.html"
+
+  - title: "Batalla de Bzura"
+    id: "985"
+    dataInici: "(1939-09-09)"
+    dataFi: "(1939-09-10)"
+    url: "/periodes_985.html"
+
+
+  - children: final
+
+  - title: "Guerra de Invierno"
+    id: "986"
+    dataInici: "(1939-11-30)"
+    dataFi: "(1940-03-13)"
+    url: "/periodes_986.html"
+    children: inici
+
+  - title: "Batalla de Suomussalmi"
+    id: "987"
+    dataInici: "(1939-12-07)"
+    dataFi: "(1940-01-08)"
+    url: "/periodes_987.html"
+
+  - title: "Batalla de Tolvajärvi"
+    id: "988"
+    dataInici: "(1939-12-12)"
+    url: "/periodes_988.html"
+
+
+  - children: final
+
+  - title: "Ocupación de Yugoslavia"
+    id: "960"
+    dataInici: "(1941-04-06)"
+    dataFi: "(1945-05-15)"
+    url: "/periodes_960.html"
+
+  - title: "Gran Guerra Patria"
+    id: "351"
+    dataInici: "(1941-06-22)"
+    dataFi: "(1945-05-07)"
+    url: "/periodes_351.html"
+    children: inici
+
+  - title: "Operación Barbarroja"
+    id: "486"
+    dataInici: "(1941-06-22)"
+    dataFi: "(1941-12-05)"
+    url: "/periodes_486.html"
+    children: inici
+
+  - title: "Grupo de Ejércitos Sur"
+    id: "487"
+    dataInici: "(1941-06-22)"
+    dataFi: "(1941-12-05)"
+    url: "/periodes_487.html"
+
+  - title: "Grupo de Ejércitos Norte"
+    id: "1001"
+    dataInici: "(1941-06-22)"
+    dataFi: "(1941-12-05)"
+    url: "/periodes_1001.html"
+
+  - title: "Batalla de Smolensk"
+    id: "852"
+    dataInici: "(1941-07-08)"
+    dataFi: "(1941-07-31)"
+    url: "/periodes_852.html"
+
+  - title: "Batalla de Kiev"
+    id: "853"
+    dataInici: "(1941-08-23)"
+    dataFi: "(1941-09-26)"
+    url: "/periodes_853.html"
+
+
+  - children: final
+
+  - title: "Guerra de Continuación"
+    id: "1040"
+    dataInici: "(1941-06-25)"
+    dataFi: "(1944-09-19)"
+    url: "/periodes_1040.html"
+
+  - title: "Batalla de Moscú"
+    id: "352"
+    dataInici: "(1941-10-02)"
+    dataFi: "(1942-01-07)"
+    url: "/periodes_352.html"
+    children: inici
+
+  - title: "Ofensiva Alemana"
+    id: "353"
+    dataInici: "(1941-10-02)"
+    dataFi: "(1941-12-05)"
+    url: "/periodes_353.html"
+
+  - title: "Contraofensiva soviética"
+    id: "354"
+    dataInici: "(1945-12-05)"
+    dataFi: "(1945-01-07)"
+    url: "/periodes_354.html"
+
+
+  - children: final
+
+  - title: "Batalla de Stalingrado"
+    id: "358"
+    dataInici: "(1942-08-23)"
+    dataFi: "(1943-02)"
+    url: "/periodes_358.html"
+
+  - title: "Batalla de Velikiye Luki"
+    id: "859"
+    dataInici: "(1942-11-19)"
+    dataFi: "(1943-01-16)"
+    url: "/periodes_859.html"
+
+  - title: "Operación Marte"
+    id: "858"
+    dataInici: "(1942-11-25)"
+    dataFi: "(1942-12-20)"
+    url: "/periodes_858.html"
+
+  - title: "Operación Saturn"
+    id: "777"
+    dataInici: "(1942-12-12)"
+    dataFi: "(1943-02-18)"
+    url: "/periodes_777.html"
+
+  - title: "Batalla de Járkov"
+    id: "854"
+    dataInici: "(1943-02-16)"
+    dataFi: "(1943-03-19)"
+    url: "/periodes_854.html"
+
+  - title: "Batalla de Kursk"
+    id: "454"
+    dataInici: "(1943-07-05)"
+    dataFi: "(1943-08-23)"
+    url: "/periodes_454.html"
+    children: inici
+
+  - title: "Ofensiva Alemana"
+    id: "455"
+    dataInici: "(1943-07-05)"
+    dataFi: "(1943-07-16)"
+    url: "/periodes_455.html"
+
+  - title: "Ofensiva Soviética"
+    id: "456"
+    dataInici: "(1943-07-12)"
+    dataFi: "(1943-08-23)"
+    url: "/periodes_456.html"
+
+
+  - children: final
+
+  - title: "Ofensiva del Dniéper-Cárpatos"
+    id: "808"
+    dataInici: "(1943-12-24)"
+    dataFi: "(1944-04-17)"
+    url: "/periodes_808.html"
+    children: inici
+
+  - title: "Batalla de Korsun-Cherkassy"
+    id: "809"
+    dataInici: "(1944-01-24)"
+    dataFi: "(1944-02-16)"
+    url: "/periodes_809.html"
+
+
+  - children: final
+
+  - title: "Sitio de Budapest"
+    id: "940"
+    dataInici: "(1944-12-24)"
+    dataFi: "(1945-02-13)"
+    url: "/periodes_940.html"
+
+  - title: "Batalla de Berlín"
+    id: "765"
+    dataInici: "(1945-04-16)"
+    dataFi: "(1945-05-02)"
+    url: "/periodes_765.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Campañas de África Oriental"
+    id: "363"
+    dataInici: "(1940-06-10)"
+    dataFi: "(1941-11-27)"
+    url: "/periodes_363.html"
+    children: inici
+
+  - title: "Ofensiva Británica"
+    id: "364"
+    dataInici: "(1941-01-16)"
+    dataFi: "(1941-11-28)"
+    url: "/periodes_364.html"
+
+
+  - children: final
+
+  - title: "Frente Mediterráneo"
+    id: "362"
+    dataInici: "(1940-06-10)"
+    dataFi: "(1943-05-16)"
+    url: "/periodes_362.html"
+    children: inici
+
+  - title: "Guerra del desierto"
+    id: "660"
+    dataInici: "(1940-06-11)"
+    dataFi: "(1943-02-04)"
+    url: "/periodes_660.html"
+    children: inici
+
+  - title: "Operación Compass"
+    id: "1019"
+    dataInici: "(1940-12-09)"
+    dataFi: "(1941-02-09)"
+    url: "/periodes_1019.html"
+    children: inici
+
+  - title: "Batalla de Beda Fomm"
+    id: "1020"
+    dataInici: "(1941-02-06)"
+    dataFi: "(1941-02-07)"
+    url: "/periodes_1020.html"
+
+
+  - children: final
+
+  - title: "Batalla de Bir Hakeim"
+    id: "980"
+    dataInici: "(1942-05-26)"
+    dataFi: "(1942-06-11)"
+    url: "/periodes_980.html"
+
+  - title: "Batalla de Gazala"
+    id: "991"
+    dataInici: "(1942-05-26)"
+    dataFi: "(1942-06-21)"
+    url: "/periodes_991.html"
+
+  - title: "Primera Batalla de El Alamein"
+    id: "754"
+    dataInici: "(1942-07-01)"
+    dataFi: "(1942-07-27)"
+    url: "/periodes_754.html"
+
+  - title: "Operación Antorcha"
+    id: "993"
+    dataInici: "(1942-11-08)"
+    dataFi: "(1942-11-16)"
+    url: "/periodes_993.html"
+
+
+  - children: final
+
+  - title: "Frente de los Balcanes"
+    id: "696"
+    dataInici: "(1940-10-28)"
+    dataFi: "(1941-06-01)"
+    url: "/periodes_696.html"
+    children: inici
+
+  - title: "Guerra Greco-italiana"
+    id: "697"
+    dataInici: "(1940-10-28)"
+    dataFi: "(1941-04-23)"
+    url: "/periodes_697.html"
+    children: inici
+
+  - title: "Invasión Italiana"
+    id: "699"
+    dataInici: "(1940-10-28)"
+    dataFi: "(1941-04-06)"
+    url: "/periodes_699.html"
+
+  - title: "Invasion Alemana"
+    id: "700"
+    dataInici: "(1941-04-06)"
+    dataFi: "(1941-04-23)"
+    url: "/periodes_700.html"
+
+
+  - children: final
+
+  - title: "Invasión de Yugoslavia"
+    id: "698"
+    dataInici: "(1941-04-06)"
+    dataFi: "(1941-04-18)"
+    url: "/periodes_698.html"
+
+  - title: "Batalla de Creta"
+    id: "678"
+    dataInici: "(1941-05-20)"
+    dataFi: "(1941-06-01)"
+    url: "/periodes_678.html"
+
+
+  - children: final
+
+  - title: "Campaña de Italia"
+    id: "692"
+    dataInici: "(1943-07-10)"
+    dataFi: "(1945-05-02)"
+    url: "/periodes_692.html"
+    children: inici
+
+  - title: "Operación Husky"
+    id: "693"
+    dataInici: "(1943-07-09)"
+    dataFi: "(1943-08-17)"
+    url: "/periodes_693.html"
+
+  - title: "Italia Continental"
+    id: "694"
+    dataInici: "(1943-09-03)"
+    dataFi: "(1945-05-02)"
+    url: "/periodes_694.html"
+    children: inici
+
+  - title: "Batalla de Montecassino"
+    id: "825"
+    dataInici: "(1944-01-04)"
+    dataFi: "(1944-05-19)"
+    url: "/periodes_825.html"
+    children: inici
+
+  - title: "Operación Diadema"
+    id: "826"
+    dataInici: "(1944-05-11)"
+    dataFi: "(1944-05-23)"
+    url: "/periodes_826.html"
+
+
+  - children: final
+
+
+  - children: final
+
+
+  - children: final
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Combates aéreos"
+    id: "638"
+    dataInici: "(1939-09-01)"
+    dataFi: "(1945-09-02)"
+    url: "/periodes_638.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "La Guerra Fría"
+    id: "371"
+    dataInici: "(1946)"
+    dataFi: "(1991)"
+    url: "/periodes_371.html"
+    children: inici
+
+  - title: "África"
+    id: "372"
+    dataInici: "(1946)"
+    dataFi: "(1991)"
+    url: "/periodes_372.html"
+    children: inici
+
+  - title: "Guerra de Independencia de Argelia"
+    id: "445"
+    dataInici: "(1954-11-01)"
+    dataFi: "(1962-03-19)"
+    url: "/periodes_445.html"
+
+  - title: "Guerra civil de Rodesia"
+    id: "947"
+    dataInici: "(1964-07-04)"
+    dataFi: "(1979-12-12)"
+    url: "/periodes_947.html"
+
+  - title: "Guerra civil angoleña"
+    id: "682"
+    dataInici: "(1975-11-11)"
+    dataFi: "(2002-04-04)"
+    url: "/periodes_682.html"
+    children: inici
+
+  - title: "Conflicto inicial"
+    id: "683"
+    dataInici: "(1975-11-11)"
+    dataFi: "(1976)"
+    url: "/periodes_683.html"
+
+  - title: "Conflicto contra Sudáfrica y UNITA"
+    id: "684"
+    dataInici: "(1978)"
+    dataFi: "(1991-05-31)"
+    url: "/periodes_684.html"
+
+
+  - children: final
+
+
+  - children: final
+
+  - title: "Combates aéreos"
+    id: "637"
+    dataInici: "(1946)"
+    dataFi: "(1991)"
+    url: "/periodes_637.html"
+
+  - title: "Guerra Civil China"
+    id: "1038"
+    dataInici: "(1946-03-31)"
+    dataFi: "(1950-08-07)"
+    url: "/periodes_1038.html"
+    children: inici
+
+  - title: "Batalla de Kuningtou"
+    id: "1057"
+    dataInici: "(1949-10-24)"
+    dataFi: "(1949-10-27)"
+    url: "/periodes_1057.html"
+
+
+  - children: final
+
+  - title: "Guerra de Indochina"
+    id: "386"
+    dataInici: "(1946-12-19)"
+    dataFi: "(1954-08-01)"
+    url: "/periodes_386.html"
+    children: inici
+
+  - title: "Asedio de Dien Bien Phu"
+    id: "387"
+    dataInici: "(1954-03-13)"
+    dataFi: "(1954-05-07)"
+    url: "/periodes_387.html"
+
+
+  - children: final
+
+  - title: "Guerra de Corea"
+    id: "377"
+    dataInici: "(1950-06-25)"
+    dataFi: "(1953-07-27)"
+    url: "/periodes_377.html"
+    children: inici
+
+  - title: "Batalla del Perímetro de Pusan"
+    id: "689"
+    dataInici: "(1950-08-04)"
+    dataFi: "(1950-09-18)"
+    url: "/periodes_689.html"
+
+  - title: "Batalla de Incheon"
+    id: "996"
+    dataInici: "(1950-09-10)"
+    dataFi: "(1950-09-19)"
+    url: "/periodes_996.html"
+
+  - title: "Batalla del embalse de Chosin"
+    id: "378"
+    dataInici: "(1950-11-27)"
+    dataFi: "(1950-12-13)"
+    url: "/periodes_378.html"
+
+
+  - children: final
+
+  - title: "Revolución Cubana"
+    id: "883"
+    dataInici: "(1953-07-26)"
+    dataFi: "(1959-01-01)"
+    url: "/periodes_883.html"
+
+  - title: "OTAN contra el Pacto de Varsovia"
+    id: "795"
+    dataInici: "(1955)"
+    dataFi: "(1991)"
+    url: "/periodes_795.html"
+
+  - title: "Carrera Espacial"
+    id: "737"
+    dataInici: "(1955-08-02)"
+    dataFi: "(1975-07-15)"
+    url: "/periodes_737.html"
+
+  - title: "Guerra de Vietnam"
+    id: "402"
+    dataInici: "(1955-11-01)"
+    dataFi: "(1975-04-30)"
+    url: "/periodes_402.html"
+    children: inici
+
+  - title: "Intervención Estadounidense"
+    id: "403"
+    dataInici: "(1964-08-02)"
+    dataFi: "(1973-03-29)"
+    url: "/periodes_403.html"
+    children: inici
+
+  - title: "Operación Rolling Thunder"
+    id: "404"
+    dataInici: "(1965-03-02)"
+    dataFi: "(1968-11-02)"
+    url: "/periodes_404.html"
+
+  - title: "Batalla del valle de Ia Drang"
+    id: "804"
+    dataInici: "(1965-11-14)"
+    dataFi: "(1965-11-18)"
+    url: "/periodes_804.html"
+
+  - title: "Batalla de Đắk Tô"
+    id: "802"
+    dataInici: "(1967-11-03)"
+    dataFi: "(1967-11-23)"
+    url: "/periodes_802.html"
+
+  - title: "Ofensiva del Tet"
+    id: "1063"
+    dataInici: "(1968-01-30)"
+    dataFi: "(1968-09-23)"
+    url: "/periodes_1063.html"
+    children: inici
+
+  - title: "Sitio de Khe Sanh"
+    id: "997"
+    dataInici: "(1968-01-21)"
+    dataFi: "(1968-07-09)"
+    url: "/periodes_997.html"
+
+  - title: "Batalla de Huê"
+    id: "761"
+    dataInici: "(1968-01-30)"
+    dataFi: "(1968-03-03)"
+    url: "/periodes_761.html"
+
+
+  - children: final
+
+  - title: "Ofensiva de Pascua"
+    id: "941"
+    dataInici: "(1972-03-30)"
+    dataFi: "(1972-10-22)"
+    url: "/periodes_941.html"
+
+  - title: "Batalla de An Lộc"
+    id: "998"
+    dataInici: "(1972-04-13)"
+    dataFi: "(1972-07-20)"
+    url: "/periodes_998.html"
+
+  - title: "Operación Linebacker"
+    id: "405"
+    dataInici: "(1972-05-09)"
+    dataFi: "(1972-10-23)"
+    url: "/periodes_405.html"
+
+  - title: "Operación Linebacker II"
+    id: "406"
+    dataInici: "(1972-12-18)"
+    dataFi: "(1972-12-29)"
+    url: "/periodes_406.html"
+
+
+  - children: final
+
+  - title: "Batalla de Xuân Lộc"
+    id: "1000"
+    dataInici: "(1975-04-09)"
+    dataFi: "(1975-04-21)"
+    url: "/periodes_1000.html"
+
+
+  - children: final
+
+  - title: "Revolución Húngara"
+    id: "884"
+    dataInici: "(1956-10-23)"
+    dataFi: "(1956-11-10)"
+    url: "/periodes_884.html"
+
+  - title: "Crisis de los misiles en Cuba"
+    id: "856"
+    dataInici: "(1962-10-14)"
+    dataFi: "(1962-10-28)"
+    url: "/periodes_856.html"
+
+
+  - children: final
+
+  - title: "Conflicto árabe-israelí"
+    id: "407"
+    dataInici: "(1948-05-14)"
+    url: "/periodes_407.html"
+    children: inici
+
+  - title: "Guerra de 1948"
+    id: "408"
+    dataInici: "(1948-05-14)"
+    dataFi: "(1949-07-20)"
+    url: "/periodes_408.html"
+
+  - title: "Guerra del Sinaí"
+    id: "409"
+    dataInici: "(1956-10-29)"
+    dataFi: "(1956-11-07)"
+    url: "/periodes_409.html"
+
+  - title: "Guerra de los Seis Días"
+    id: "410"
+    dataInici: "(1967-06-05)"
+    dataFi: "(1967-06-10)"
+    url: "/periodes_410.html"
+
+  - title: "Guerra de Desgaste"
+    id: "411"
+    dataInici: "(1967-07-01)"
+    dataFi: "(1970-08-07)"
+    url: "/periodes_411.html"
+
+  - title: "Guerra de Yom Kipur"
+    id: "412"
+    dataInici: "(1973-10-06)"
+    dataFi: "(1973-10-25)"
+    url: "/periodes_412.html"
+    children: inici
+
+  - title: "Altos del Golán"
+    id: "999"
+    dataInici: "(1973-10-06)"
+    dataFi: "(1973-10-26)"
+    url: "/periodes_999.html"
+
+
+  - children: final
+
+  - title: "Guerra del Líbano"
+    id: "413"
+    dataInici: "(1982-06-06)"
+    dataFi: "(1985-06-22)"
+    url: "/periodes_413.html"
+
+  - title: "Operación Pilar Defensivo"
+    id: "665"
+    dataInici: "(2012-11-14)"
+    dataFi: "(2012-11-21)"
+    url: "/periodes_665.html"
+
+
+  - children: final
+
+  - title: "Conflicto armado en Colombia"
+    id: "325"
+    dataInici: "(1960-01-11)"
+    url: "/periodes_325.html"
+
+  - title: "Conflicto entre Chad y Libia"
+    id: "373"
+    dataInici: "(1978)"
+    dataFi: "(1987)"
+    url: "/periodes_373.html"
+
+  - title: "Guerra Irán-Irak"
+    id: "803"
+    dataInici: "(1980-09-22)"
+    dataFi: "(1988-08-20)"
+    url: "/periodes_803.html"
+
+  - title: "Guerra de las Malvinas"
+    id: "527"
+    dataInici: "(1982-04-02)"
+    dataFi: "(1982-06-14)"
+    url: "/periodes_527.html"
+    children: inici
+
+  - title: "Batalla de Pradera del Ganso"
+    id: "801"
+    dataInici: "(1982-05-28)"
+    dataFi: "(1982-05-29)"
+    url: "/periodes_801.html"
+
+
+  - children: final
+
+  - title: "Guerra del Golfo"
+    id: "493"
+    dataInici: "(1990-08-02)"
+    dataFi: "(1991-02-28)"
+    url: "/periodes_493.html"
+
+  - title: "Guerra de Bosnia"
+    id: "864"
+    dataInici: "(1992-04-06)"
+    dataFi: "(1995-12-14)"
+    url: "/periodes_864.html"
+    children: inici
+
+  - title: "Asedio de Sarajevo"
+    id: "865"
+    dataInici: "(1992-04-05)"
+    dataFi: "(1996-02-29)"
+    url: "/periodes_865.html"
+
+
+  - children: final
+
+  - title: "Guerra de Afganistán"
+    id: "945"
+    dataInici: "(2001-10-07)"
+    url: "/periodes_945.html"
+
+  - title: "Guerra de Irak"
+    id: "488"
+    dataInici: "(2003-03-20)"
+    dataFi: "(2011-12-18)"
+    url: "/periodes_488.html"
+    children: inici
+
+  - title: "Invasión de Irak"
+    id: "489"
+    dataInici: "(2003-03-20)"
+    dataFi: "(2003-05-01)"
+    url: "/periodes_489.html"
+
+  - title: "Primera Batalla de Faluya"
+    id: "1015"
+    dataInici: "(2004-04-04)"
+    dataFi: "(2004-05-01)"
+    url: "/periodes_1015.html"
+
+  - title: "Segunda Batalla de Faluya"
+    id: "1016"
+    dataInici: "(2004-11-07)"
+    dataFi: "(2004-12-23)"
+    url: "/periodes_1016.html"
+
+
+  - children: final
+
+
+  - children: final
+
