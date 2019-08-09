@@ -1,4 +1,4 @@
-﻿# NavBar periodes. Generat el 03/04/2019 17:02:39
+﻿# NavBar periodes. Generat el 09/08/2019 12:04:21
 
 entries:
 - title: Períodes
@@ -1879,6 +1879,11 @@ entries:
     dataFi: "(-413)"
     url: "/periodes_37.html"
     children: inici
+
+  - title: "Batalla de Olpas"
+    id: "1070"
+    dataInici: "(-426)"
+    url: "/periodes_1070.html"
 
   - title: "Batalla de Esfacteria"
     id: "68"
@@ -5098,6 +5103,18 @@ entries:
 
   - children: final
 
+  - title: "Guerro ruso-turca"
+    id: "1071"
+    dataInici: "(1787)"
+    dataFi: "(1792)"
+    url: "/periodes_1071.html"
+
+  - title: "18XX"
+    id: "1067"
+    dataInici: "(1800)"
+    dataFi: "(1899)"
+    url: "/periodes_1067.html"
+
   - title: "Risorgimento"
     id: "895"
     dataInici: "(1815)"
@@ -5283,148 +5300,6 @@ entries:
     id: "435"
     dataInici: "(1860-03-23)"
     url: "/periodes_435.html"
-
-
-  - children: final
-
-  - title: "Guerra de Secesión Americana"
-    id: "321"
-    dataInici: "(1861-04-12)"
-    dataFi: "(1865-04-09)"
-    url: "/periodes_321.html"
-    children: inici
-
-  - title: "Campaña de Manassas"
-    id: "833"
-    dataInici: "(1861-06-15)"
-    dataFi: "(1861-07-21)"
-    url: "/periodes_833.html"
-    children: inici
-
-  - title: "Primera Batalla de Bull Run"
-    id: "685"
-    dataInici: "(1861-07-21)"
-    url: "/periodes_685.html"
-
-
-  - children: final
-
-  - title: "Campaña del Valle de Shenandoah"
-    id: "836"
-    dataInici: "(1862-03)"
-    dataFi: "(1862-06)"
-    url: "/periodes_836.html"
-    children: inici
-
-  - title: "Batalla de Kernstown"
-    id: "837"
-    dataInici: "(1862-03-23)"
-    url: "/periodes_837.html"
-
-
-  - children: final
-
-  - title: "Batalla de Pea Ridge"
-    id: "835"
-    dataInici: "(1862-03-07)"
-    dataFi: "(1862-03-08)"
-    url: "/periodes_835.html"
-
-  - title: "Batalla de Shiloh"
-    id: "838"
-    dataInici: "(1862-04-06)"
-    dataFi: "(1862-04-07)"
-    url: "/periodes_838.html"
-
-  - title: "Batalla de Gaines Mill"
-    id: "839"
-    dataInici: "(1862-06-27)"
-    url: "/periodes_839.html"
-
-  - title: "Segunda Batalla de Bull Run"
-    id: "840"
-    dataInici: "(1862-08-28)"
-    dataFi: "(1862-08-30)"
-    url: "/periodes_840.html"
-
-  - title: "Batalla de Antietam"
-    id: "841"
-    dataInici: "(1862-09-17)"
-    url: "/periodes_841.html"
-
-  - title: "Batalla de Fredericksburg"
-    id: "842"
-    dataInici: "(1862-12-11)"
-    dataFi: "(1862-12-15)"
-    url: "/periodes_842.html"
-
-  - title: "Segunda Batalla de Murfreesboro"
-    id: "843"
-    dataInici: "(1862-12-31)"
-    dataFi: "(1863-01-02)"
-    url: "/periodes_843.html"
-
-  - title: "Batalla de Chancellorsville"
-    id: "844"
-    dataInici: "(1863-04-30)"
-    dataFi: "(1863-05-06)"
-    url: "/periodes_844.html"
-
-  - title: "Invasión de Pensilvania"
-    id: "834"
-    dataInici: "(1863-06-03)"
-    dataFi: "(1863-07-24)"
-    url: "/periodes_834.html"
-    children: inici
-
-  - title: "Batalla de Gettysburg"
-    id: "798"
-    dataInici: "(1863-07-01)"
-    dataFi: "(1863-07-03)"
-    url: "/periodes_798.html"
-
-
-  - children: final
-
-  - title: " 43.er Batallón de Caballería de Virginia"
-    id: "468"
-    dataInici: "(1863-06-10)"
-    dataFi: "(1865-04-21)"
-    url: "/periodes_468.html"
-
-  - title: "Batalla de Honey Springs"
-    id: "1017"
-    dataInici: "(1863-07-17)"
-    url: "/periodes_1017.html"
-
-  - title: "Batalla de Chickamauga"
-    id: "845"
-    dataInici: "(1863-09-18)"
-    dataFi: "(1863-09-20)"
-    url: "/periodes_845.html"
-
-  - title: "Campaña de Vicksburg"
-    id: "370"
-    dataInici: "(1863-12-29)"
-    dataFi: "(1863-07-04)"
-    url: "/periodes_370.html"
-
-  - title: "Batalla de New Market"
-    id: "846"
-    dataInici: "(1864-05-15)"
-    url: "/periodes_846.html"
-
-  - title: "Batalla de New Hope Church"
-    id: "847"
-    dataInici: "(1864-05-25)"
-    dataFi: "(1864-05-26)"
-    url: "/periodes_847.html"
-
-  - title: "Batalla de Bentonville"
-    id: "867"
-    dataInici: "(1865-03-19)"
-    dataFi: "(1865-03-21)"
-    url: "/periodes_867.html"
 
 
   - children: final
@@ -5673,6 +5548,12 @@ entries:
     dataFi: "(1902-04-16)"
     url: "/periodes_324.html"
 
+  - title: "Levantamiento de los bóxers"
+    id: "1066"
+    dataInici: "(1900-11-02)"
+    dataFi: "(1901-09-07)"
+    url: "/periodes_1066.html"
+
   - title: "Guerra ruso-japonesa"
     id: "520"
     dataInici: "(1904-02-08)"
@@ -5694,6 +5575,148 @@ entries:
 
 
   - children: final
+
+
+  - children: final
+
+  - title: "Guerra de Secesión Americana"
+    id: "321"
+    dataInici: "(1861-04-12)"
+    dataFi: "(1865-04-09)"
+    url: "/periodes_321.html"
+    children: inici
+
+  - title: "Campaña de Manassas"
+    id: "833"
+    dataInici: "(1861-06-15)"
+    dataFi: "(1861-07-21)"
+    url: "/periodes_833.html"
+    children: inici
+
+  - title: "Primera Batalla de Bull Run"
+    id: "685"
+    dataInici: "(1861-07-21)"
+    url: "/periodes_685.html"
+
+
+  - children: final
+
+  - title: "Campaña del Valle de Shenandoah"
+    id: "836"
+    dataInici: "(1862-03)"
+    dataFi: "(1862-06)"
+    url: "/periodes_836.html"
+    children: inici
+
+  - title: "Batalla de Kernstown"
+    id: "837"
+    dataInici: "(1862-03-23)"
+    url: "/periodes_837.html"
+
+
+  - children: final
+
+  - title: "Batalla de Pea Ridge"
+    id: "835"
+    dataInici: "(1862-03-07)"
+    dataFi: "(1862-03-08)"
+    url: "/periodes_835.html"
+
+  - title: "Batalla de Shiloh"
+    id: "838"
+    dataInici: "(1862-04-06)"
+    dataFi: "(1862-04-07)"
+    url: "/periodes_838.html"
+
+  - title: "Batalla de Gaines Mill"
+    id: "839"
+    dataInici: "(1862-06-27)"
+    url: "/periodes_839.html"
+
+  - title: "Segunda Batalla de Bull Run"
+    id: "840"
+    dataInici: "(1862-08-28)"
+    dataFi: "(1862-08-30)"
+    url: "/periodes_840.html"
+
+  - title: "Batalla de Antietam"
+    id: "841"
+    dataInici: "(1862-09-17)"
+    url: "/periodes_841.html"
+
+  - title: "Batalla de Fredericksburg"
+    id: "842"
+    dataInici: "(1862-12-11)"
+    dataFi: "(1862-12-15)"
+    url: "/periodes_842.html"
+
+  - title: "Segunda Batalla de Murfreesboro"
+    id: "843"
+    dataInici: "(1862-12-31)"
+    dataFi: "(1863-01-02)"
+    url: "/periodes_843.html"
+
+  - title: "Batalla de Chancellorsville"
+    id: "844"
+    dataInici: "(1863-04-30)"
+    dataFi: "(1863-05-06)"
+    url: "/periodes_844.html"
+
+  - title: "Invasión de Pensilvania"
+    id: "834"
+    dataInici: "(1863-06-03)"
+    dataFi: "(1863-07-24)"
+    url: "/periodes_834.html"
+    children: inici
+
+  - title: "Batalla de Gettysburg"
+    id: "798"
+    dataInici: "(1863-07-01)"
+    dataFi: "(1863-07-03)"
+    url: "/periodes_798.html"
+
+
+  - children: final
+
+  - title: " 43.er Batallón de Caballería de Virginia"
+    id: "468"
+    dataInici: "(1863-06-10)"
+    dataFi: "(1865-04-21)"
+    url: "/periodes_468.html"
+
+  - title: "Batalla de Honey Springs"
+    id: "1017"
+    dataInici: "(1863-07-17)"
+    url: "/periodes_1017.html"
+
+  - title: "Batalla de Chickamauga"
+    id: "845"
+    dataInici: "(1863-09-18)"
+    dataFi: "(1863-09-20)"
+    url: "/periodes_845.html"
+
+  - title: "Campaña de Vicksburg"
+    id: "370"
+    dataInici: "(1863-12-29)"
+    dataFi: "(1863-07-04)"
+    url: "/periodes_370.html"
+
+  - title: "Batalla de New Market"
+    id: "846"
+    dataInici: "(1864-05-15)"
+    url: "/periodes_846.html"
+
+  - title: "Batalla de New Hope Church"
+    id: "847"
+    dataInici: "(1864-05-25)"
+    dataFi: "(1864-05-26)"
+    url: "/periodes_847.html"
+
+  - title: "Batalla de Bentonville"
+    id: "867"
+    dataInici: "(1865-03-19)"
+    dataFi: "(1865-03-21)"
+    url: "/periodes_867.html"
 
 
   - children: final
@@ -6128,6 +6151,22 @@ entries:
     dataInici: "(1939-05-11)"
     dataFi: "(1939-09-16)"
     url: "/periodes_811.html"
+
+
+  - children: final
+
+  - title: "Guerra del Chaco"
+    id: "1068"
+    dataInici: "(1932-10-09)"
+    dataFi: "(1935-06-12)"
+    url: "/periodes_1068.html"
+    children: inici
+
+  - title: "Batalla de Nanawa"
+    id: "1069"
+    dataInici: "(1933-07-04)"
+    dataFi: "(1933-07-09)"
+    url: "/periodes_1069.html"
 
 
   - children: final
@@ -6784,6 +6823,11 @@ entries:
     dataFi: "(1941-02-09)"
     url: "/periodes_1019.html"
     children: inici
+
+  - title: "Batalla de Mechili"
+    id: "1065"
+    dataInici: "(1941-01-24)"
+    url: "/periodes_1065.html"
 
   - title: "Batalla de Beda Fomm"
     id: "1020"
