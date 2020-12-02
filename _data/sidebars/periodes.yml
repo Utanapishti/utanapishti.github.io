@@ -1,4 +1,4 @@
-﻿# NavBar periodes. Generat el 09/08/2019 12:04:21
+﻿# NavBar periodes. Generat el 02/12/2020 10:26:04
 
 entries:
 - title: Períodes
@@ -2970,6 +2970,11 @@ entries:
     url: "/periodes_252.html"
     children: inici
 
+  - title: "Batalla de Sluys"
+    id: "1078"
+    dataInici: "(1340-06-24)"
+    url: "/periodes_1078.html"
+
   - title: "Batalla de Crécy"
     id: "261"
     dataInici: "(1346-08-26)"
@@ -4613,6 +4618,22 @@ entries:
     url: "/periodes_615.html"
     children: inici
 
+  - title: "Batalla de Loano"
+    id: "1074"
+    dataInici: "(1795-11-23)"
+    dataFi: "(1795-11-24)"
+    url: "/periodes_1074.html"
+
+  - title: "Batalle de Montenotte"
+    id: "1076"
+    dataInici: "(1796-04-12)"
+    url: "/periodes_1076.html"
+
+  - title: "Batalla de Caldiero"
+    id: "1072"
+    dataInici: "(1796-11-12)"
+    url: "/periodes_1072.html"
+
   - title: "Batalla del puente de Arcole"
     id: "687"
     dataInici: "(1796-11-15)"
@@ -4639,11 +4660,22 @@ entries:
     dataFi: "(1796-03-29)"
     url: "/periodes_746.html"
 
+  - title: "Sitio de Tolón"
+    id: "1075"
+    dataInici: "(1793-09-18)"
+    dataFi: "(1793-12-18)"
+    url: "/periodes_1075.html"
+
   - title: "Batalla del Primero de Junio"
     id: "723"
     dataInici: "(1794-05-29)"
     dataFi: "(1794-06-01)"
     url: "/periodes_723.html"
+
+  - title: "Batalla de Fleurus"
+    id: "1073"
+    dataInici: "(1794-06-26)"
+    url: "/periodes_1073.html"
 
   - title: "Combate de la Bahía de Audierne"
     id: "724"
@@ -6069,7 +6101,7 @@ entries:
 
   - title: "Guerra Polaco-Soviética"
     id: "978"
-    dataInici: "(21919-14)"
+    dataInici: "(1919-14)"
     dataFi: "(1921-03-18)"
     url: "/periodes_978.html"
 
@@ -6210,6 +6242,12 @@ entries:
     dataInici: "(1937-07-06)"
     dataFi: "(1937-07-25)"
     url: "/periodes_666.html"
+
+  - title: "Batalla de Teruel"
+    id: "1077"
+    dataInici: "(1937-12-15)"
+    dataFi: "(1938-02-22)"
+    url: "/periodes_1077.html"
 
   - title: "Batalla del Ebro"
     id: "703"
